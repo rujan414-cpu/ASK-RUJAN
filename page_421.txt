@@ -1,0 +1,40 @@
+PAGE 421
+============================================================
+
+Ore
+
+A lot of impurities are found in the ores obtained from mines. Metals
+can be obtained from these ores only after removing these impurities.
+
+The process of removing impurities from the ores depends upon the
+physical and chemical properties of the substances found in them.
+
+Different amounts of metals are found in different minerals.
+Some minerals contain more amounts of metals from which the
+metals can be extracted easily and economically whereas some
+minerals contain less amount of metals and thus metals cannot
+be extracted easily and economically from them. The mineral
+from which a metal can be extracted in a large amount with low
+cost is called the ore of that metal. The minerals from which a
+metal cannot be taken out easily are not the ores. Thus all ores
+are minerals but all minerals are not ores. The metals used in
+our daily life are obtained from different ores.
+
+Some ores of iron
+
+Magnetitie Hematitie Limonite
+
+Pyrite
+Picture17.3 Ores of Iron
+Some ores of iron are as follows:
+
+a. Hematite (Fe,O,)
+
+b. Magnetite (Fe,O,)
+
+c. Siderite (FeCO,)
+
+d. Limonite (2Fe,O,.3H,O)
+e. Iron pyrite (FeS,)
+
+Science and Technology, Grade 10 ar

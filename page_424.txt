@@ -1,0 +1,45 @@
+PAGE 424
+============================================================
+
+General steps of metallurgy
+Grinding
+
+This is the first step of metal extraction. The process of crushing
+the ores into small particles form with the help of rollers of the
+
+machines is called grinding.
+1. Concentration
+
+The grounded or crushed ores contain impurities like mud,
+sand, rocks, etc. which is known as gangue. So these impurities
+must be removed first. Concentration is done to remove the
+impurities from ores. Thus the process of removing impurities
+from the ores thereby increasing the percentage of metals in them
+is called concentration. A specific method is used to remove
+these impurities from the ores according to their properties.
+For example, if the density of ore and impurities is different
+than hydraulic or gravity separation method is used. Similarly,
+magnetic separation is used if one of them is magnetic and the
+other is non-magnetic substance. If either ore or impurities are
+hydrophilic and other being hydrophobic, a froth floatation
+process is used to concentrate the ore.
+
+Activity 17.2
+
+Use of magnetic method to separate the mixture of magnetic and
+non-magnetic substances.
+
+Materials required: Iron dust, aluminium dust, sand, and a magnet
+
+Method/Procedure: Make a mixture of iron dust, aluminium dust,
+and sand.Bring a magnet near to the mixture.
+
+Observation: What do you see? Why does it happen?
+
+In this way magnet attracts iron dust (magnetic substance) but
+does not attract aluminium and sand (non-magnetic substance)
+and they get separated.
+
+COMEIBSOH: sonic scaimenannseccnss
+
+20, Science and Technology, Grade 10

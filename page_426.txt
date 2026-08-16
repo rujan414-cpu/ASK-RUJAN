@@ -1,0 +1,52 @@
+PAGE 426
+============================================================
+
+form of gases or slag. This process of heating metals beyond their
+melting points along with a reducing agent is called smelting.
+
+5. Refining
+
+The metals obtained after the reduction process may still contain
+some impurities. So to obtain metals in pure state, refining is
+done. Metals can be refined through various processes like
+distillation, electro refining, etc. In this way, pure metals can be
+
+obtained after refining through various methods.
+a. Distillation
+
+In this method, the impurities present in metals are removed
+by boiling. This process is done when either the metals or
+impurities would change to vapour when heated. It is used for
+the purification of metals which poses a low boiling point and
+
+gets vaporized such as mercury.
+
++ =
+
+Cathode
+(Pure metal)
+
+Anode ————>»
+(Impure metal)
+
+CuSO,
+solution
+
+Anode
+mud
+
+Picture 17.7
+
+B. Electro-refining
+
+Electro-refining is one of the processes of refining metals obtained
+from the reduction process. For electro-refining, the electrolysis
+method is used. This process is used to obtain metals like iron,
+silver, copper, gold,etc. in pure state. The metals obtained by
+this process are about 99% pure. In this method, a voltameter
+(vessel to perform electrolysis) is taken and impure metal is
+connected to anode (positive terminal of cell) whereas pure
+metal is connected to the cathode (negative terminal of cell).
+In this method, one of the salt of metal to be refined is used as
+
+a Science and Technology, Grade 10

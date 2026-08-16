@@ -1,0 +1,47 @@
+PAGE 436
+============================================================
+
+Functional group
+
+An atom or a group of atoms which determines the structure and
+chemical reactivity of a certain group of organic compounds is called
+a functional group. The functional groups get attached to the alkyl
+groups to form different groups of organic compounds.
+
+Example of functional groups -O-, -CHO, -COOH
+
+Nomenclature of hydrocarbons
+
+IUPAC means International Union of Pure and Applied Chemistry.
+It is a system established by scientists to make uniformity in the
+names of organic and inorganic compounds all over the world.
+According to this system, a compound has the same or only one
+name. This removes the mistake while naming or understanding the
+compounds.
+
+Common system of nomenclature of hydrocarbons
+
+i. Find the word rooton the basis of number of carbon atoms as:
+
+No of carbon atoms Word root notation
+C-1 Meth C,
+C-2 Eth C,
+C-3 Prop C,
+C-4 But C,
+C-5 Pent C,
+C-6 Hex C.
+C-7 Hept C,
+C-8 Oct G,
+C-9 Non C,
+
+C-10 Dec om
+
+ii. In this way after finding the word root, add the suffixes like ane,
+ene and yne according to the number of bonds between the carbon
+atoms.
+
+For example,
+
+CH, - CH,
+
+«2 Science and Technology, Grade 10
