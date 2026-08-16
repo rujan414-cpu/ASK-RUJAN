@@ -1,0 +1,33 @@
+PAGE 274
+============================================================
+
+Figure 10.50 Convex lens Figure 10.51 Concave lens
+
+Types of lenses
+
+Mainly there are two types of lenses. They are convex lens and
+concave lens. As shown in figure 10.50, the lens which is thicker at
+the middle part than that at the edges is a convex lens. Since convex
+lens can converge the light rays, it is also known as a converging
+lens. Convex lenses are used in devices such as spectacles, cameras,
+microscopes, projectors, etc, Natural convex lenses also exist in our eyes.
+As shown in figure 10.51, the lens which is thinner in the middle part
+than that at the edges is concave lens. The concave lens is known as
+a diverging lens because of its ability to diverge light rays.
+
+[ (
+
+a.biconvex | p, planoconvex | ¢ concavo | a-biconcave b. plano | &:2onvexo
+convex concave | concave)
+Figure 10.52 Converging lenses Figure 10.53 Diverging lenses
+
+Terminologies related with lens
+
+a. centre of curvature
+
+The center of curvature is the center of the sphere that forms the
+curved part of the lens. Since most lenses are formed from two
+spherical curved surfaces, they will have two centers of curvature,
+usually labeled C, and G,.
+
+70 Science and Technology, Grade 10

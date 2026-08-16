@@ -1,0 +1,46 @@
+PAGE 236
+============================================================
+
+Example 3.1
+
+Calculate the amount of heat energy consumed by an electric kettle
+to heat 5 kg of water at 10°C up to 100°C.(
+
+Specific heat capacity of water = 4200 J kg! °C!
+
+Solution:
+Given in the question,
+Mass of water(m) = 5 kg
+
+Specific heat capacity of water (m)= 4200 J kg? °C"
+
+The initial temperature of the water (T,) = 10°C
+
+The final temperature of water (T,) = 100°C
+
+Change in temperature of water(dt) = T,- T,= 100°C - 10°C =90°C
+
+According to the heat equation, Q= ms (T,-T,)
+
+Or Or Q=5x 4200 x90
+
++ Q=1890000 J=1.89x 10° J
+
+When 5 kg of water at 10°C is heated to 100°C, the heat consumed
+is 1.89109.
+Example 3.2
+
+Calculate the final temperature of the water when 5 kg of water at
+100°C is mixed with 15 kg of water at 15°C for bathing. (When the
+water of different temperatures is mixed with it, the heat lost to the
+outside environment is considered to be negligible.)
+
+Solution: As given in the question,
+
+Let the final temperature be T
+
+For hot water, For cold water,
+Mass of hot water(m, )=15 kg Mass of cold water (m,) = 5 kg
+tem of cold water (T, )=15°C tem of cold water (T, )=100°C
+
+cm Science and Technology, Grade 10

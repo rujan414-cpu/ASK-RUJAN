@@ -1,0 +1,35 @@
+PAGE 272
+============================================================
+
+Rainbow
+
+A rainbow is a circular colourful arc that appears in the sky when
+the sun lies behind water droplets present in the air. A rainbow is
+formed due to the dispersion of light by the water droplets that are
+suspended in the air. In this process, water droplets play a role similar
+to that of a prism.
+
+Figure 10.45 Dispersion of light Figure 10.46 The circular rainbow
+through a water droplet observed from the sky
+
+In figure 10.45, the ray of light from the sun strikes the point A on
+the surface of the spherical water droplet and then enters it. Because
+of refraction, the light rays get separated into seven colors inside the
+droplet. Then, the seven colours of light in the droplet are totally
+internally reflected by the opposite surface of the droplet. In the figure,
+the red light, which is deviated the least, is reflected from point B,
+while the violet light. which is deviated the most. is shown to be
+reflected from point C. Finally, the light rays come out of the droplet
+and form a rainbow. The rainbow appears to be semicircular while
+observed from the ground but can be seen as a circle from the sky.
+
+Lens
+
+A pair of spectacles is shown h
+in figure 10.47. The glasses
+used in it have spherical
+surfaces.
+
+Figure 10.47
+
+20 Science and Technology, Grade 10

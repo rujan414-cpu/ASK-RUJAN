@@ -1,0 +1,45 @@
+PAGE 251
+============================================================
+
+g. Emergent angle
+
+The angle (2CBN,') made by the emergent ray BC with the normal
+N,N; is called the angle of emergence.
+
+f. Lateral shift
+
+The perpendicular distance (CD) between the emergent ray and the line
+formed when the refracted ray is produced, is called the lateral shift.
+
+In this activity, when light is passed from the air (rarer medium) to
+glass (denser medium) it bends towards the normal. Contrary to this,
+it bends away from the normal while emerging out from the glass slab.
+
+In the figure that you drew, which is similar to figure 10.9, measure
+the angle of incidence (ZAON), angle of refraction (ZBON’) and
+angle of emergence (4CBN,').Fill in the table given below. What is
+the length CD called? Also, measure it.
+
+ZAON=i | ZBON'=r ZCBN,'=e Result
+BOP lesersereenew  lwormennnens | seems a
+
+What will be the result when a ray of light is passed by changing the
+angle of incidence in activity 10.2?
+
+In figure 10.9, for the light passing through air-glass interference ‘PQ’
+the angle of refraction(r) is always smaller than the angle of incidence
+(i). Similarly, for the ray passing through glass-air interference ‘RS’,
+due to the increase in speed of light in air, light moves away from the
+normal. As a result, the value of the angle of incidence (i) and that
+of the angle of emergence (e) becomes equal. This means lateral shift
+CD occurs due to the bending of light ray AO towards the normal
+inside the glass slab and away from the normal when it emerges out
+to the air medium.When light ray entersfrom air into any transparent
+medium, the angle of refraction (r) depends on the nature of medium
+and the angle of incidence (i). On increasing or decreasing the value
+of angle of incidence,the angle of refraction also varies respectively.
+On the basis of law of refraction, the value of angle of refraction can
+
+be obtained for the particular value of angle of incidence.
+
+Science and Technology, Grade 10 ur

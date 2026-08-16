@@ -1,0 +1,44 @@
+PAGE 230
+============================================================
+
+When water is boiled, the external energy supplied makes the
+molecules move faster. The kinetic energy of all the atoms or
+molecules of a substance is not equal at any time. Therefore, their
+average kinetic energy is important. The average kinetic energy of
+the atoms or molecules of a substance determines its temperature.
+The temperature is an index of the average kinetic energy of the
+molecules in the substance. The SI unit of heat is the kelvin (K) but
+degree celsius (°C) is the most commonly used unit. It is measured
+using a thermometer.
+
+The temperature of boiling water in a panis 100°C and the temperature
+of lukewarm water kept in the bucket is 30°C means that the average
+kinetic energy of the molecules of boiling water in the pan is much
+higherthan that of the molecules of the lukewarm water in the bucket.
+But the number of water molecules in the pan is much less thanthe
+water molecules in the bucket. Hence, although the average kinetic
+energy of the molecules in the boiling water in the pan is more, the
+sum of the kinetic energy of the molecules of the lukewarm water is
+higher because of the number of molecules. Therefore, the lukewarm
+water in the bucket has more thermal energy than the boiling water
+in the pan. The thermal energy of a substance depends on its mass
+and the average speed of its molecules.
+
+When both the waters mentioned above are mixed, thermal energy
+is transferred from the boiling water to the lukewarm water. Thus,
+the amount of thermal energy transmitted from one place to another
+place due to the temperature difference is called heat. Like other types
+of energy, the SI unit of heat is the joule (J). It can be measured by
+using a calorimeter.
+
+Heat is not stored in any object. It is only the quantity of thermal energy
+transferred from one object to another. When heat is transmitted, the
+thermal energy of one objectdecreases and that of the other increases.
+Therefore, when heat is transmitted, the temperature of one object
+decreases and that of another increases.
+
+Heat is transmitted by the methods of conduction, convection and
+radiation. When we touch an object, if heat enters our body from the
+object feels hot and if heat leaves our body, itfeels cold.
+
+78 Science and Technology, Grade 10

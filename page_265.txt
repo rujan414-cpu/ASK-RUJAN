@@ -1,0 +1,35 @@
+PAGE 265
+============================================================
+
+Figure 10.32 Connection of optical fibre connector in a router
+
+For a cabled network internet service, the internet provider brings
+a cable up to our home. The outer covering of one end of a cable is
+removed toexpose a thin fibre. Then the fibre is connected to the router
+using a connecter as shown in Figure 10.32. In the cabled internet
+system, the optic fibreinside the cable provides fast communication
+and internet service based on fibre optics. Fibre optics is a technology
+of transmitting light through a thin and transparent medium like glass.
+The thin optical medium used for the transmission of light in fibre
+optics is called optical fibre.
+
+‘adding
+
+plastic
+coating
+
+Figure 10.33 Router connector Figure 10.34 Transmission of light through an optical fibre.
+
+As shown in figures 10.33 and 10.34, the inner part of an optical cable
+has a core that contains a bundle of thin fibers made of transparent
+material like glass.The core is surrounded by a cladding which is
+made of material ofa lower refractive than the core creating a suitable
+environment for total internal reflection in the core. Light is passed
+through the fibremaking the angle of incidence on the fibre-cladding
+layer greater than the critical angle. Then as the light travelsin the core
+without coming out from the cladding, irrespective of the condition
+of the fibre, be it straight or bent, finally emerges from another end
+
+of the fibre.
+
+Science and Technology, Grade 10 at

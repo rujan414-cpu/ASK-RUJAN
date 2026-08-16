@@ -1,0 +1,46 @@
+PAGE 218
+============================================================
+
+Floatation
+Question to think
+(a) Why do objects sink or float?
+
+(b) Oil, which is less dense than water, floats on the surface of the
+water. Can an object made of iron, which is denser than water,
+also float on water?
+
+If the density of the object is less than the density of the liquid, the
+object will float on the liquid. But, simply comparing the density of an
+object to the density of a liquid does not determine whether an object
+floats or sinks. The fact can be justified by the following activity.
+
+Activity 8.6 Observation of the state of sinking and floating
+
+Take two pieces of aluminum foil
+of equal area and a beaker that is
+filled more than half with water.
+Squeeze one of the aluminium
+foils in the shape of a ball. Then,
+as shown in Figure 8.31, drop
+both aluminium pieces into the
+water. Observe which floats and Figure 8.31 Aluminum foil placed in water
+which sinks. If the aluminum foil
+
+is turned into a ball, its surface area gets reduced. Since it displaces
+less water, the upthrust acting on it will be less than its weight. So,
+it sinks in the water. If the aluminum foil is placed in the water as a
+sheet, the surface area increases and so does the upthrust acting on
+it. When weight and upthrust become equal, the foil floats.
+
+The density of aluminum is 2700kg/m* which is 2.7 times the density
+of water. Thus, it can be concluded that the foil sinks in water. But,
+according to the result of Activity 8.8, the aluminum foil kept as a
+sheet floats on the water. Therefore, whether an object floats or sinks
+in a liquid depends not only on the density of the substance but also
+on the shape of the object, i.e., the resultant force acting on an object
+when it is placed in the liquid.
+
+The weight of an object and the upthrust are the forces acting on the
+object in exactly opposite directions. When the upthrust cancels the
+
+Science and Technology, Grade 10

@@ -1,0 +1,33 @@
+PAGE 267
+============================================================
+
+In this technique, an endoscope with an optical fiber and a camera
+is used to examine the digestive system including the esophagus,
+stomach, and small intestine. For example, endoscopy can be used
+to diagnose ulcers in the stomach. To do this, the endoscope is
+inserted through the patient's mouth and guided to the stomach viathe
+esophagus.
+
+Figure 10.35 Use of endoscopy Figure 10.36 Use of colonoscopy
+
+In an endoscope, two bundles of optical fibers are kept parallel to each
+other. One bundle carries light to the internal organs of the body while
+the other bundle collects the light reflected by the illuminated organs.
+The shape of the internal organ can be viewed directly or displayed
+on a video monitor connected to a camera. Colonoscopy is a type of
+endoscope that is used to examine the colon and large intestine by
+inserting it through the rectum.
+
+Keyhole surgery
+
+Keyhole surgery is a procedure performed by a surgeon to operate
+inside the body through a small incision in the skin. The keyhole
+surgery is also referred to as laparoscopic surgery because the
+laparoscope is used in this procedure to visualize the shape of the
+internal organs, is inserted through a small incision. The laparoscope
+incorporates bundles of optical fibers and a camera to send light
+inside the body and capture the shape of the internal organs, which
+is displayed on a monitor. Surgeons performing keyhole surgery also
+use other surgical instruments along with the laparoscope.
+
+Science and Technology, Grade 10 oe

@@ -1,0 +1,37 @@
+PAGE 271
+============================================================
+
+Takea cardboard, printing paper, seven colours found in the visible
+spectrum, scissors, a pencil, a pair of compasses, and a piece of strong
+thread (about 60 cm long). Paste the printing paper on the cardboard
+and cut it in the shape of a circle with the help of a compass, pencil,
+and a pair of scissors. Divide the circle into seven equal parts on the
+printing paper of the circle.Now paint the parts with the colours in
+the order VIBGYOR. This is the model of Newton's disc. Now, make
+two thin holes near the centre such that the centre lies in between the
+holes. Insert the two ends of the thread through the holes separately
+and then tie the ends that come out from the holes. Hold the strings
+with one hand and use the other to spin the wheel quickly. When
+the wheel spins fast enough. pull both strings outwards, and then
+back towards each other. By doing this, the strings wind and unwind,
+causing the wheel to spin fast. As the wheel spins, observe the seven
+colors of the rainbow that are painted on its surface. Will the colors
+of the rainbow combine and disappear to form a white colour?
+
+white light
+
+Figure 10.43 Newton’s disc Figure 10.44 Recombination of seven colours of light.
+
+A disc made by painting seven constituent colours of light in
+proportion on it is called Newton's disc. As shown in Figure 10.43,
+on spinning the disc at high speed, the seven colours mix and the
+
+disc appears white.
+
+In figure 10.44, two identical prisms are shown with one prism placed
+upside down near the other. The seven colors of light rays separated
+by the first prism are recombined by the second prism as they pass
+through it. The ray emerging out from the second prism becomes
+parallel to the direction of the light entering from the first prism.
+
+Science and Technology, Grade 10 er

@@ -1,0 +1,37 @@
+PAGE 248
+============================================================
+
+Kerosene oil floats on water; it means the physical density of kerosene
+oil is less than that of water. While comparing the speed of light in
+these two media, the speed of light is less in kerosene oil than that
+in the water. Thus, the medium with comparatively higher optical
+density does not mean that, it is physically denser. When light is
+passed from one medium to another medium, denser and rarer
+mediums can be identified onthe basis of change in the direction of
+the light ray with change in medium, i.e., the refraction of light.
+
+Refraction of light
+Activity 10.1
+
+As shown in figure 10.5, take a laser beam pointer and a beaker filled
+more than half with water. If a laser beam pointer is not available, make
+a ray box (as shown in figure 10.6) by making a thin slit on a wall of a
+box made up of cardboard paper and a bulb inside it. To avoid the box
+from burning due to heat, put off the switch after some time.
+
+Figure 10.7 Figure 10.8
+
+Figure
+dee Laned : Transmission of Transmission of
+beam Figure10.6 Simple ray box | jight from air to _| Hight from water
+to air
+water
+
+At first, pass the laser beam from the upper side of the beaker as shown
+in figure 10.7 and then observe the direction of the transmitted beam
+inside the water.Again, repeat the same activity from the lower part
+of the beaker as shown in figure 10.8 and observe the direction of the
+beam emerging out from the water. Is the direction of the transmitted
+beam while passing from air to water and water to air different?
+
+a Science and Technology, Grade 10

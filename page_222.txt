@@ -1,0 +1,25 @@
+PAGE 222
+============================================================
+
+aresult, the balloon flies upwards in the air. When the balloon reaches
+a maximum altitude, the weight of the displaced air i.e., upthrust
+balances the weight of the balloon. Then the balloon floats in the air.
+
+A balloon filled with hot air rises or falls in the air and such a condition
+is controlled by changing the temperature of the air inside the balloon
+with the help of a burner. When the flame from the burner heats the
+air in the balloon, the density of the air decreases. This causes the
+balloon to fly upwards. On the contrary, when the burner is turned
+off, the air in the balloon cools and its density increases. When the
+air in the balloon is cold enough, the weight of the balloon becomes
+greater than the upthrust on it and the balloon sinks in the air ie.,
+descends to the ground.
+
+Project work
+
+Use locally available plywood, cardboard, syringe, saline pipe, etc.
+as shown in the figure, and prepare the models of hydraulic bridges,
+hydraulic lifts, hydraulic doors, dozers, etc. based on Pascal's law.
+
+Science and Technology, Grade 10
+

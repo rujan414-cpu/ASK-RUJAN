@@ -1,0 +1,34 @@
+PAGE 207
+============================================================
+
+the cross-sectional area of the small piston, then the force exerted on
+the small piston of the machine becomes double when it is transferred
+to the large piston.
+
+Some examples of hydraulic machine
+
+Hydraulic machines are constructed in various designs, shapes, and sizes
+depending on their uses. Some of the examples are presented below.
+
+hydraulic lift
+
+Figure 8.14 Hydraulic car lift
+
+Figure 8.15 Hydraulic car lift
+
+Figure 8.14 shows, the hydraulic lift used by the dentist to adjust the
+height of the chair according to the need during the treatment. The
+force applied to the small piston connected to the pedal of the chair
+gets amplified so that the surface of the big piston receives a large force
+and the patient is lifted upwards easily. Similarly, the hydraulic car
+lift, used to lift the car is shown in Figure 8.15. The oil in the small
+cylinder of the lift is pushed inward by the compressed air through
+the compressor and the car placed on the big piston on the other side
+is lifted. Hydraulic lift is used to lift heavy objects easily.
+
+Example 8.1
+
+In a hydraulic lift, the cross-sectional areas of the small piston and
+the large piston are 0.25 m? and 5 m? respectively. Calculate the force
+
+Science and Technology, Grade 10 7208

@@ -1,0 +1,50 @@
+PAGE 214
+============================================================
+
+Therefore, the upthrust created when an object is immersed ina liquid
+can be represented by the following formula:
+
+Upthrust (U) = Actual weight (W,) - Unreal weight (W,)
+
+Factors affecting upthrust
+
+(a) Density of a liquid
+
+Activity 8.4 Observation of the weight of stones in different media
+
+Prediction: In which liquid, is the weight of the stone least, when it
+is immersed in water, glycerin, and cooking oil respectively?
+
+Take some amount of water and edible oil in two beakers. Hang the
+stone on a spring balance and measure the weight of the stone in
+these three liquids.
+
+The density of edible oil and water are 0.90g/cm’ and 1g/cm?
+respectively. In the above activity, the weight of the stone is less in
+water than that in edible oil. Since the density of water is more than
+that of edible oil, the upthrust exerted by water is also more than
+that of edible oil. Thus, the upthrust exerted on a body is directly
+proportional to the density of the liquid. Therefore, when an object
+is immersed first in a liquid with lower density and then in a liquid
+with higher density, the upthrust exerted by the liquid of higher
+density is more.
+
+Upthrust & Density of liquid
+
+Since the upthrust is directly proportional to the
+density of the liquid, the iron ball sinks in water a
+
+but floats on the surface of mercury which has
+
+a high density. Similarly, as shown in Figure
+
+8.25, when an egg is placed in a glass filled more
+
+than half with tap water, it sinks. But when salt
+
+is dissolved in the water, the egg starts to float. .,
+
+The density of salty water is higher than that of i pasurensaaly
+tap water. water
+
+70 Science and Technology, Grade 10

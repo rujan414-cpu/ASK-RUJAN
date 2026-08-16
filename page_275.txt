@@ -1,0 +1,35 @@
+PAGE 275
+============================================================
+
+b. Radius of curvature
+
+The radius of curvature is the distance from the center of curvature
+to the surface of the lens. In a ray diagram, it is denoted by R.
+
+c. Optical center
+
+The optical center is the geometrical center of the lens, where the
+
+principal axis intersects the lens surface. In a ray diagram, it is denoted
+by O.
+
+Figure 10.54 Terminologies related to lens
+
+d. Principal axis
+
+The principal axis is the line passing through the optical center and
+the two centers of curvature of the lens. It divides the lens into two
+symmetric halves.
+
+e. Principal focus
+
+Activity 10.11 Converging action in convex lens and diverging action
+in concave lens
+
+Take a ray box with three slits, and thick convex and concave lenses.
+As shown in figure 10.55, place the convex lens and concave lens in
+front of the box in turn.
+
+figure 10.55 observing and diversing process
+
+Science and Technology, Grade 10 om

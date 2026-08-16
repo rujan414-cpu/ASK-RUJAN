@@ -1,0 +1,43 @@
+PAGE 287
+============================================================
+
+range of human vision is from 25 cm to infinity (~). For individuals
+with visual defects, the near point and far point of the eye differ from
+those with normal vision.
+
+Defects of vision
+
+If the letters appear blurry when a book is kept at a normal distance
+from the eyes, the book has to be brought closer or further away
+until the letters become clear. As shown in figure 10.66, to see a
+nearby or distant object clearly, the light rays from the object must
+be focused on the retina forming a clear image. Otherwise, the object
+will appear blurry. For humans, the phenomenon where nearby or
+distant objects appear blurry, i.e., not forming clear images of these
+objects on the retina, is called a defect of vision.
+
+Types of defects of vision
+
+There are two types of defects of vision in human eyes. They are
+shortsightedness (myopia) and longsightedness (hypermetropia).
+
+Shortsightedness or myopia
+
+For those suffering from shortsightedness, images of distant objects
+appear blurry, as shown in figures 10.66a and 10.66b, because the
+rays of light coming from those objects are focused in front of the
+retina. However, for closer objects, the retina creates a clear image.
+The problem, in which one sees nearby objects clearly but not distant
+objects, is called shortsightedness. This problem occurs primarily
+for two reasons.
+
+(a) In some people, the eyeball gets elongated, and the distance
+between the lens and the retina increases. As a result, the
+parallel rays coming from distant objects are focused in front of
+the retina.
+
+(b) When looking at distant objects, if the ciliary muscles do not
+contract enough, then the lens cannot be thin enough. As a
+result, the focal length of the lens becomes less than required
+
+Science and ‘Technology, Grade 10

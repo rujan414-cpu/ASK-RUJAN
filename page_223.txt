@@ -1,0 +1,40 @@
+PAGE 223
+============================================================
+
+Exercise
+
+1. Choose the correct option for the following questions:
+(a) On which law/principle is a lactometer based?
+(i) Pascal's law (ii) Archimedes' principle
+(iii) Law of Gravitation (iv) Newton's law
+
+(b) What is the condition for flying a hydrogen balloon upwards
+in the air?
+
+(i) weight of the balloon = weight of air displaced
+(ii) weight of balloon > weight of air displaced
+
+(iii) weight of the balloon = volume of air displaced
+(iv) weight of balloon < weight of air displaced
+
+(c) In a hydraulic machine, if the cross-sectional area of the
+larger piston is twice the area of the smaller piston, what is
+the correct group of the weights on the smaller piston (W,)
+and the larger piston (W,) to keep the machine balanced?
+
+i) W,=4N, W,=2N
+
+Gi W,=5N, W,=10N
+(Gii) W,=2N, W,=1N
+(iv) W,=3N, W,=15N
+
+(d) (d) When an object is suspended using spring balance in
+air, water and glycerin, the weight is founded to be W,, W,,
+and W, respectively. What will be the weight of the object
+in those mediums in increasing order?
+
+i W,<W,<wW,
+Gi W,<W,<W, (iv) W, < W, < W,
+(iii) W, < W, < W,
+
+Science and Technology, Grade 10 78

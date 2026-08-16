@@ -1,0 +1,43 @@
+PAGE 285
+============================================================
+
+rays come from a nearby object or a distant object.
+
+Accommodation of eye
+Considerable question
+
+Compare the change in distance of an object when you move your
+eyes from the letters on the textbook in your hand to the distant
+object outside the window, such as clouds in the sky. Also, compare
+the distance between the lens and the retina (the image distance) in
+these two cases.
+
+(a) During the process of forming an image by a convex lens, the
+image distance changes with the change in object distance. Is
+this process possible for the eye lens too?
+
+(b) Inthe situation where the image distance of the eye lens remains
+constant, how should the curvature of the lens change so that it
+focuses the rays of light from nearby objects as well as from the
+distant object exactly on the retina?
+
+The object distance becomes shorter on looking the letters in a book
+that is taken in our hand, while looking at the clouds in the sky,
+the object distance becomes longer. Since the images of objects at
+various distances are all formed on the retina, the image distance or
+the distance between the lens and the retina remains constant. In
+such a situation, to form a clear image, the curvature of the lens must
+change, making the rays of light converge more or less. For this, the
+ciliary muscle of the eye can increase or decrease the thickness of
+the lens.
+
+As shown in figure10.56, when we look at a distant object, the
+ciliary muscles relax. In this situation, the lens becomes thin, i.e.,
+its curvature decreases and the focal length increases. As a result,
+the incoming rays from the distant objects are focused on the retina
+and we can see the objects clearly. In the same way, while looking
+at a nearby object, the ciliary muscles contract. In this condition,
+the curvature of the lens increases, the lens becomes thicker and
+the focal length decreases. As a result, the incoming rays from the
+
+Science and Technology, Grade 10 a

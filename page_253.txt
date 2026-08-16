@@ -1,0 +1,51 @@
+PAGE 253
+============================================================
+
+Ratio of speed of light in air Angle of | Angle of in | sin | sini
+
+hat fn ol incidence | refraction in - Result
+to that in glass (Zi) (1) (Zr) 1 r sinr
+speed of light in air (3x108) 15 100 foe fee 1.49 na d8
+
+speedoflightinmedi™ (x]9°) =!>
+
+CORIO seems emsrscess
+
+The laws of refraction of light are listed below.
+
+a. When light passes from one optical medium to another
+medium, the incident ray, the normal and the refracted ray all
+lie on the same plane at the point of incidence.
+
+b. The ratio of sine of the angle of incidence to the sine of the angle
+of refraction remains constant for a pair of media. The constant
+
+value is refractive index of pair of media which is denoted by wu.
+
+sini
+
+or, = CONStANE (LL) veeesecseseseseeeeeeeeeeeeeeeee (i)
+
+ sinr
+This law is named as Snell's law after the name of the mathemati-
+cian Willebrord Snellius, who discovered it.
+
+The value of the constant y, i.e., the ratio of Sini to Sinr, while pass-
+ing the light from air to glass is equal to the ratio of the speed of light
+in the air (c) to the speed of light in glass(v). Thus, the ratio of the
+speed of light in a vacuum or air to the speed of light in any medium
+gives the refractive index of light in that medium.
+
+speed of light in air or vacuum (c)
+
+speed of light in the medium (v)
+
+The speed of light in some media and their refractive indices are
+given in the table below. What can be concluded from the study of
+the increasing order of refractive index of the different media given
+in the table and the decreasing order of the speed of light in those
+media?
+
+Science and Technology, Grade 10 ow
+
+This means, =

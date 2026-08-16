@@ -1,0 +1,37 @@
+PAGE 254
+============================================================
+
+Water 1.33 2.25 x10° | Glycerin | 1.47 2.04 x10°
+Alcohol 1.36 2.19 x10° | Glass 1.50 2.00 x10°
+Kerosene oil | 1.44 2.08 x10* | Diamond | 2.42 1.24 x10*
+
+Consequences of refraction of light
+
+Activity 10.4 Observation of the coin at the bottom of a beaker lying
+below the line of sight
+
+Take a steel glass, a coin and some
+water. Put the beaker on a table
+and drop a coin into the beaker.
+Shift your head in the backward
+direction until the coin lies outside
+the line of sight, ie., not visible.
+Keep your head still at that point
+and ask a friend to pour water into
+the beaker without disturbing the
+coin. Does the coin reappear as the Figure10.11
+level of water rises?
+
+Rays of light
+bend
+
+In this activity, the light rays reflected by the coin at the bottom of
+the glass pass from water to air when water is poured into the beaker.
+The rays of light move away from the normal at the water-air interface
+while passing from water (denser medium) to air (rarer medium)
+as shown in figure 10.11. When these refracted rays are produced
+backward, they form the image of the coin at the point ‘I’ and the
+observer sees the coin(O) at ‘I’. In this way, the coin is seen due to
+
+the refraction of light rays at the surface of the water.
+Science and Technology, Grade 10

@@ -1,0 +1,38 @@
+PAGE 211
+============================================================
+
+(b) When the plastic bottle is let go in the air it falls because of gravity,
+but why doesn’t it sink when it is placed on the surface of the water?
+
+Doesn't gravity act on the bottle when it is placed in water?
+
+——
+
+fens buoyant
+
+force
+
+Figure 8.19 The upward force on the empty bottle when it is immersed in water
+
+It is difficult to push the bottle into the water. It means the water is
+pushing the bottle upward. As the bottle is pushed into the water, the
+upward force exerted by the water goes on increasing until the bottle
+is completely submerged. When the bottle is released, it returns to the
+surface of the water. The net upward force by which water pushes
+the object in it is called upthrust. All fluids exert upthrust but the
+magnitude of the upthrust depends upon their density.
+
+down ward force *
+upthrust thrust
+/ lift
+MB load weight drag
+upward force J
+fig 8.20 fig 8.21 fig 8.22
+
+As shown in Figure 8.20 and Figure 8.21, when an object is placed
+in air or water, it is acted upon by two forces; weight caused by
+gravity and the upthrust of the liquid. Since both these forces are
+in the opposite direction, the upthrust reduces or neutralizes the
+weight. For example, in the above activity 8.4, the weight of the
+
+Science and Technology, Grade 10 27

@@ -1,0 +1,37 @@
+PAGE 237
+============================================================
+
+Specific heat capacity of hot water s,= s,=s=4200 J kg* °C"
+
+The final temperature of hot water =T
+
+Heat released by the hot water = Heat absorbed by thecold water
+or,m, s (T-T, ) = m,s (T,-T)
+
+or, 15x(T-15)=5 x (100-T)
+or, 3 x (T-15) = (100-T)
+or, 3T -45 = 100-T
+or, 4.7 = 145
+T = 36.25 °C
+
+In the case of no heat lost to the outside environment, the final
+
+temperature of the water is 36.25°C.
+
+Uses of specific heat capacity
+
+The specific heat capacity of water is very high. Every kilogram of
+water absorbs or releases 4200] of heat to change its temperature by
+1°C. This property makes water an effective coolant for cooling hot
+objects. For example, water is used as a coolant in car radiators. The
+water absorbs a large amount of heat from the car's engine, but the
+temperature of the water does not increase significantly. For this
+reason, water is also used as a coolant in thermal power stationsthat
+produce electricity.
+
+Contrary to the purpose of heating, the high specific heat capacity
+of the hot water kept in the hot water bag releases its heat for a
+long time. That is why it is used as a hot compressor for soothing
+muscular pain. Water found naturally in the body of living creatures
+
+Science and Technology, Grade 10

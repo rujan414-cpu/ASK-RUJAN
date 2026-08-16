@@ -1,0 +1,47 @@
+PAGE 256
+============================================================
+
+continuously. This results in the bending of light sometimes away
+from the normal and sometimes towards the normal even in the same
+place.
+
+This causes a change in the brightness and the position of the stars.
+In this way, the stars appear to be twinkling due to the refraction of
+light in the atmosphere. But, the change of position of the planets and
+satellites due to the refraction of light in the atmosphere cannot be
+noticed because they are closer to the earth and appear big. Hence,
+they cannot be seen twinkling.
+
+Question: Compare the sun seen below the horizon in figure10.16 and
+the coin inside the steel glass in figure 10.4. Just the way the coin in
+the empty steel glass becomes visible after pouring the water into it,
+the sun appears above the horizon even when it is actually below the
+horizon because of atmospheric refraction.
+
+As shown in figure 10.16, as the rays of sunlight from outer space
+entering into the atmosphere pass from rarer medium to denser
+medium, they bend towards the normal. The refractive index of the
+atmospheric layers changes with the increase in altitude of the earth’s
+surface. As the rays of light from the sun below the horizon reach the
+observer's eyes, they appear tocome from above the horizon since they
+suffer successive refractions through these layers of the atmosphere.
+Therefore, the sun is visible two minutes before and two minutes after
+the actual sunrise and sunset respectively.
+
+Total internal reflection of light
+
+In figure 10.17, the rays of
+light passing from water
+(denser medium) to air
+(rarer medium) are bending
+
+away from the normal. In
+this situation,the angle of Figure 10.17 Observation of the coin in the water
+° from different angles
+
+refraction 'r' is greater than
+the angle of incidence (i)
+ie.,r Zi. If the value of the angle of incidence (i) increases, the value
+of the corresponding angle of refraction (r) also increases.
+
+a Science and Technology, Grade 10

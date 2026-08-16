@@ -1,0 +1,44 @@
+PAGE 277
+============================================================
+
+appear to diverge from a point as shown in figure 10.56. Thus, the point
+from where the light appears to diverge is called the principal focus
+of the concave lens. The principal focus is the point on the principal
+axis from where the light rays travelling parallel to the principal axis
+converge or appear to converge after passing through the lens.
+
+focal length
+
+The focal length is the distance from the optical center O of the lens to its
+focus F. Itis denoted by f. The radius of curvature is twice its focal length.
+Rules to draw image formed by a convex lens
+
+Activity 10.11
+
+Take a convex and a concave lens whose focal lengths were determined
+in activities 10.11. Pass a laser beam through each of the lenses as
+
+shown in the ray diagrams below and observe the results.
+
+Through the (\ y jee
+optical centre O \:) Al
+Parallel to the f\ a
+principal axis ) Ii
+
+Through focus F
+
+The ray diagrams of images formed by lenses depend on their shape.
+
+When light rays are converged by a convex lens and diverged by a
+
+concave lens, the following rules apply while drawing the ray diagrams:
+
+(a) Light rays passing through the optical center of the lens do not
+bend. They continue to move forward in a straight line.
+
+(b) light rays travelling parallel to the principal axis converge and
+
+pass through the focus. When the same rays pass through a
+concave lens, they appear to diverge from the focus.
+
+Science and Technology, Grade 10 oe

@@ -1,0 +1,39 @@
+PAGE 208
+============================================================
+
+required to lift the car of 1200 kg using the lift.
+
+The cross-sectional area of small piston = 0.25 m?
+
+The cross-sectional area of large piston = 5 m?
+
+The mass of the car lifted by the upward force on the big piston (m) =1200 kg
+
+That is, the upward force on the large piston (F,) =Weight of the car
+
+(W) = mg=1200X9.8=11760 N
+Force applied on the small piston (F,)
+
+According to Hascal's law,
+“A, OA,
+A, 5
+Or F,=F, xT, = 11760 x
+F, = 588N
+
+The force required to lift a car of mass 1200 kg using the given lift is
+588 N.
+
+hydraulic brake
+
+eservoir tank
+
+brake fluid rake lever
+
+brake hose
+
+a. Used in four-wheeled vehicles b. Used in two-wheeler vehicles
+
+Fig. 8.16 Hydraulic brake system
+In the hydraulic brake system, the pipe connected to the master
+
+Science and Technology, Grade 10

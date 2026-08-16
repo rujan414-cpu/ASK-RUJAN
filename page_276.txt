@@ -1,0 +1,40 @@
+PAGE 276
+============================================================
+
+Observe how the rays coming out of the ray box are bent and measure
+the distances mentioned below.
+
+Concave | Distance between the midpoint of the lens | ++++++»
+lens and the point where light rays diverged
+
+A convex lens can be considered as a combination of prisms. As
+shown in figure 10.56, on the upper half of the convex lens, the bases
+of the prisms face downwards and on the lower half, the bases of the
+prisms face upwards. The emergent rays from the prism are always
+bent towards the base. The prisms in the center of the lens refract
+the light more than those on the edges and the rays passing through
+the principal axis passes in a straight line without any deviation. As
+a result of this, rays that are travelling parallel to the principal axis
+converge at a point on the principal axis after passing through the
+lens as shown in figure 10.57. That point is known as the principal
+focus of the convex lens and is denoted by F in the diagram.
+
+a
+
+Figure 10.56| Figure 10.57Focal| Figure 10.58 | Figure 10.59 Focal
+Converging process | length of aconvex | Diverging process | length ofa concave
+in a convex lens lens in concave lens lens
+
+m1)
+
+A concave lens can also be considered as a combination of prisms.
+As shown in figure 10.58, on the upper half of this lens, the bases of
+the prisms face upwards and on the lower half of the lens the bases
+of the prism face downwards. Like in a convex lens, the rays of light
+are refracted towards the base of the prism and the center portion
+refracts more than the edges. This makes the rays travelling parallel
+to the principal axis diverge after passing through the lens. The rays
+travelling along the principal axis do not deviate. As a result of this,
+the diverged rays from a concave lens do not intersect each other but
+
+& Science and Technology, Grade 10

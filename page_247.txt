@@ -1,0 +1,45 @@
+PAGE 247
+============================================================
+
+(
+
+Sometimes, our vision becomes blurred due to the inability of our
+eye to change the thickness of its lens or because of the loss of
+transparency. Some people have the problems like not seeing distantor
+nearby objects distinctly or not being able to distinguish colours. The
+problem of not seeing distant or nearby objects is solved by getting the
+eyes checked and wearing spectacles with lenses of suitable power.
+
+The light from the objects we observe is transmitted through different
+natural or artificial transparent medium. The speed of light in such
+media is different. These mediums can be categorized into rarer
+mediums and denser mediums by comparing the speed of light in a
+
+pair of mediums.
+Denser and rarer medium
+
+The substance through which light propagates is a transparent
+medium. Air, glass, and water are three different transparent media.
+
+The speed of light in a few media is given in the table below.
+
+Air 3.00 x 108 Kerosene oil | 2.08 x 10°
+Water 2.25 x108 Glass 2.00 108
+Alcohol | 2.19 x108 Diamond 1.24 x108
+
+From the above table, it is clear that among the given media the speed
+of light is the highest in the air whereas it is the least in the diamond.
+In a given pair of media, the medium in which the speed of light is
+less in comparison to another one is the denser medium. Likewise,
+the medium in which the speed of light is comparatively more is the
+rarer medium. For example, glass is a denser medium in comparison
+to air.In this example, air is rarer medium and glass is denser medium.
+
+Question to think
+
+Compare the speed of light in water and kerosene oil, given in the
+above table. Does an optically denser medium mean a medium witha
+
+higher physical density?
+
+Science and Technology, Grade 10 us

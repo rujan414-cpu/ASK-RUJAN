@@ -1,0 +1,49 @@
+PAGE 263
+============================================================
+
+medium) to the air (rarer medium) inside an empty test tube, whichis
+partiallydipped in water and held at an angle,undergoes total internal
+reflection at the thin wall of the glass testtube. When it is observed
+from outside the beaker, the immersed part of the tube appears shiny.
+
+c. Mirage
+
+Question: Have you ever seen an illusionof a pool of still water on
+a pitched road as shown in figure 10.29, while traveling during the
+summer days?
+
+Hot air
+(Rarer medium)
+
+Cool air
+(Denser medium)
+
++
+
+1
+
+Figure 10.30 Total internal reflections
+during the formation of mirage
+
+Figure 10.29 Mirage on pitched road
+
+As shown in figure 10.29, while walking on the pitched road on a hot
+summer day, usually an illusion of a pool of still water is created in
+front of the observer. When the observer reaches that place, the road
+is found to be dry. This type of illusion is called a mirage.
+
+Mirage occurs due to the total internal reflection of light. When the
+surface of the earth gets heated up due to intense sunlight, there is a
+formation of different layers of air having a different temperature that
+decreases as we go up. This happens because the layer which is closer
+to the hot surface becomes hotter than the above one. That is why
+the refractive index of the upper layer is higher than that of the layer
+just below it. Thehot layerbehaves like the rarer medium whereas the
+comparatively colder layer behaves like the denser medium. Hence,
+the reflected rays from tall objects in the areatravel down from the
+cold layer (denser medium) tothe hotter layer (rarer medium). When
+refraction of light occurs continuously at different air layers as it
+travels from denser to rarer medium, at a certain layer, the angle of
+incidence becomes greater than the critical angle for that layer.
+
+Science and Technology, Grade 10

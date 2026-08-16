@@ -1,0 +1,45 @@
+PAGE 210
+============================================================
+
+In a hydraulic jack, when the releasing valve is tightened and the
+lever is pushed down, the upper valve closes and the lower valve
+opens. As a result, the force exerted on the pumping piston of the jack
+increases and the load on the lifting piston is pushed a little higher.
+After that, when the lever is pulled up, the bottom valve closes due
+to high pressure and the top valve opens. As a result, the oil from
+the reservoir fills the cylinder of the pumping piston. Then, in the
+next stage of pumping, the load is pushed up again. By repeatedly
+pushing the lever up and down, the load can be pushed up to the
+required height.
+
+(e) Hydraulic press
+
+Various objects can be
+pressed by applying
+a small force to the
+small piston of the
+hydraulic press. As in
+Figure 8.18, the object
+to be pressed is kept
+between a large piston
+and a rigid support |
+above the piston. The Fig.8.18 Hydraulic Press
+hydraulic press is used
+to fit mechanical parts
+of vehicles, bend metal sheets or make holes in them, to pack paper,
+cotton and straw by compressing them.
+
+Upthrust
+
+Activity 8.4 Observation of Upthrust
+
+Take an empty plastic bottle and some water in a bucket. Tighten the
+cap of the bottle to make it airtight. Drop the bottle into the bucket.
+
+The bottle floats on the water. Push the bottle into the water. Observe,
+discuss and answer the following questions.
+
+(a) When the bottle is pushed into the water, do you feel that the
+bottle is being pushed upwards?
+
+206 Science and Technology, Grade 10

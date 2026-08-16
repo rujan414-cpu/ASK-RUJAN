@@ -1,0 +1,44 @@
+PAGE 212
+============================================================
+
+bottle (W) i.e., the force of gravity is greater than the upthrust
+exerted by air exerted (U) on the plastic bottle. Upthrust cannot
+neutralize the downward pull of gravity (weight of the bottle)
+and the bottle sinks in the air or falls. On the contrary, when the
+bottle is forcefully submerged in the water, the upthrust becomes
+more than the weight of the bottle. The upthrust neutralizes the
+gravity and the submerged bottle comes out of the water. When
+the upthrust equals the weight of the bottle, the bottle floats on
+the water. Therefore, when an object is partially or completely
+immersed in a gas or liquid (fluid), the upward force acting on
+the object is called upthrust. Its SI unit is Newton (N).
+
+Question to think
+
+(a) What happens when the bottle used in the above activity 8.4
+is filled with water and then placed in the bucket again?
+
+(b) When a bucket submerged in water is pulled out with a rope,
+what is the difference between the force required to pull a
+bucket while it is in the water and after it comes out in the air?
+
+When a bucket is dropped into a well, it initially floats for a
+while, but once it is filled with water, its weight increases. In
+that case, the downward force of gravity on the bucket cannot
+be neutralized by the upthrust of the water and the bucket sinks
+into the water. The upthrust acting on the bucket submerged in
+water reduces the weight of the bucket inside the water. In that
+case, the weight of the bucket is less than the actual weight. So,
+when the bucket submerged in the water is pulled up by the
+trope, less force needs to be applied than its actual weight. When
+the bucket is pulled out into the air, the upthrust of the air is
+negligible compared to that caused by the water. In that situation,
+the force required to pull the bucket increases. Therefore, it is easy
+to pull a bucket full of water when the bucket is inside the well.
+
+In all cases, the upthrust caused by the air is not negligible.
+Plastic bottles, buckets, etc. occupy little space in the air and the
+upthrust on them is very small. But the aeroplane experiences
+a large upthrust.
+
+208 Science and Technology, Grade 10

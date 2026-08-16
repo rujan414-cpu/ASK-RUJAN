@@ -1,0 +1,31 @@
+PAGE 219
+============================================================
+
+weight of the object, the resultant force becomes zero and hence the
+object floats in the liquid.
+
+An object floating in a liquid may be partially or completely inside
+the surface of the liquid. When partially floating, only the submerged
+part of the object displaces the liquid. For an object to float in a liquid,
+the weight of the object must be equal to the weight of the liquid that
+it displaces. This is known as the law of floatation. This means, for
+an object to float on a liquid,
+
+Weight of object = weight of the liquid displaced
+
+This fact applies to various phenomena that occur in the liquid and
+air around us. Some examples are given below:
+
+(a) Floating in a liquid
+
+Figure 8.32 An iron block, bowls and a| Figure 8.33 An empty boat and a boat
+Ship made up of iron in the water carrying passengers
+
+As shown in Figure 8.32, when an iron block is placed in water, it
+cannot displace the volume of water whose weight is equal to its
+weight, and thus, it sinks. If the iron block is shaped like a bowl, the
+bowl can displace water equal to its weight. Similarly, in a ship, its
+hull is to be made wide, long and deep. Because of this, the ship can
+displace enough water to generate upthrust equal to its weight. For
+
+Science and Technology, Grade 10 28

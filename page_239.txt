@@ -1,0 +1,43 @@
+PAGE 239
+============================================================
+
+Thus, near the coastal areas, temperature varies much between the
+day and night because of the wind blowing from the sea to the land
+in the daytime and from the land to the sea at night.
+
+Measurement of temperature
+Different types of thermometers and their working principle
+(a) Liquid in glass thermometer
+
+A liquid in glass thermometer contains a thermometric liquid inside
+a heat-sensitive bulb. Mercury is a good conductor of heat and a
+high-density thermometric liquid. When the bulb of a thermometer
+is brought into contact with a hot object, heat is transferred from the
+object to the mercury and the mercury expands. The expanded mer-
+cury moves forward through the capillary tube attached to the bulb.
+The point where the mercury stops after the expansion indicates the
+temperature of the object. In a liquid in a glass thermometer, the tem-
+perature is determined by reading the scale marked on the outer wall.
+
+(b) Digital Thermometer
+
+It is a device for measuring the temperature of an object by using a
+heat-sensitive thermistor connected to an electric circuit. While us-
+ing it, the thermometer is turned on and the end of the thermistor is
+brought in contact with the body. Due to the heat transmitted from
+the body, the electric current in the circuit changes because of the
+change in the thermistor’s resistance. Based on this change, the mea-
+sured temperature gets displayed as a number on the display panel.
+
+(c) Radiation Thermometer
+
+It is a device for measuring the temperature of a body without con-
+tact. Its working principle is based on theintensity of the infrared ra-
+diation produced by the body. To use it, the sensor is turned towards
+the body. The lens in the device focuses on the infrared radiation
+coming from the object on the sensor. Based on the heat carried by
+the radiation, electrical signals are generated and the temperature of
+the object is displayed on the display panel. This type of thermom-
+eter is very quick and easy to measure temperature.
+
+Science and Technology, Grade 10 28

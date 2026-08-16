@@ -1,0 +1,28 @@
+PAGE 261
+============================================================
+
+rectangular surfaces and two triangular surfaces. The base of an
+equilateral triangular prism is in the form of an equilateral triangle.
+
+Similarly, the base of the right-angled triangular prism is in the form
+of a right-angled triangle. As seen in figure 10.25, a ray of light PQ,
+falling normally on a face of an equilateral triangular prism, passes
+straight through the glass without deviation. When that ray falls on the
+face of the prism it makes an angle of 600 with the normal.Here, the
+ray is travelling from the denser medium (glass) to the rarer medium
+(air) and the angle of incidence is greater than the critical angle for
+the glass(42°). Hence, a total internal reflection of light occurs. Then
+it falls normally on the face BC and emerges in the air.
+
+Figure 10.25 Total internal reflection of light in a prism
+
+In Figure 10.25a, as well as in figure 10.25b and figure 10.25c, the
+light suffers total internal refraction once and twice respectively and
+finally emerges in the air. Since light can be reflected through 900
+in the right-angled triangular prism due to total internal reflection,
+prismsare used in periscopes, Single Lens Reflector (SLR) cameras
+and binoculars as shown in figure 10.26.During the total internal
+reflection of light, the power of the waves is not weakened and the
+objects can be seen clearly.
+
+Science and Technology, Grade 10

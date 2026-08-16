@@ -1,0 +1,41 @@
+PAGE 249
+============================================================
+
+The speeds of light in air and water are 310° m/s and 2.2510 m/s
+respectively. When light enters from air to water, its speed decreases
+due to which the transmitted laser beam bends towards the imaginary
+normal as shown in figure 10.7. Since the transmitted beam in the
+water bends towards the normal, water can be considered a denser
+medium. When light entersfrom water to air, the speed of light
+increases. This results in the beam moving away from the normal
+as shown in Figure 10.8. Since the laser beam moves away from
+thenormal while passing from water to air, air must be a rarer medium.
+
+In this activity, the light which moves away from the normal or bends
+towards the normal due to a change in speed while passing from one
+medium to another is the refracted light. The process of bending of
+light or changingthe direction of light while passing from one optical
+medium to another is called refraction of light. The change in the
+speed of light while passing from one medium to another is the cause
+of the refraction of light. Greater the change in speed of light, more
+the bending of light i-e., the refraction. Of course, not only the light
+waves but also the other waves like sound follow the laws of refraction.
+
+Activity 10.2: Refraction through a glass slab
+
+Take a light box or laser beam pointer, a pencil. a scale, a sheet of
+plain paper, etc. Put the glass slab on the paper and draw its outline
+PQRS with the pencil as shown in figure 10.9. Take a point O on the
+outline of the face PQ and draw a normal NN’, Draw a line AO making
+a desirable angle ‘i’ with the normal. Now from the face PQof the slab,
+pass a laser beam such that it passes along the line AO and emerges
+out from the face RS. Use the pencil to indicate a point B from which
+the beam emerges and take another point C on the emergent ray. Then
+remove the slab from the paper and draw a perpendicular N,N;' at
+point B. Join BC and OB. Here the lines AO, OB and BC represent
+incident ray, refracted ray, and emergent ray respectively.
+
+Observe the bending or the change in the direction of the rays while
+entering the glass slab and while emerging from it.
+
+Science and Technology, Grade 10 Ms

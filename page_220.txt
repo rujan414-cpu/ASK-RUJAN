@@ -1,0 +1,51 @@
+PAGE 220
+============================================================
+
+example, to prevent a ship weighing 50000 tons from sinking, the size
+of the hull should be able to displace 50000 tons of water. Therefore,
+iron sinks in water, but a ship made of iron floats on water.
+
+Just like a ship, when a boat floats, the weight of the displaced water
+is equal to the boat's weight. As the lower part of the boat slowly sinks
+into the water, the volume and weight of the water it displaces also
+increases. According to Archimedes' principle, the upthrust exerted
+on the boat is equal to the weight of water displaced by the boat. As
+shown in Figure 8.33, the more people get on the boat, the more the
+boat sinks in the water and the boat displaces an additional amount
+of water. As the weight of the displaced water increases, the upthrust
+on the boat also increases. The increased upthrust supports the weight
+of the people added. If the water level reaches the top of the boat, no
+more water can be displaced and the upthrust does not increase. In
+that case, as the weight on the boat increases, the boat sinks. If a hole
+is formed at the bottom of a floating boat, it sinks, why? This concept
+applies to the submarine, too.
+
+Submarines are built in such a way that they can float visibly on
+the surface of the water as well as inside the water. When its blast
+
+tank is filled with water, the weight 1 :
+
+increases and the submarine goes
+deeper into the water, and when the
+
+water is blown out of the tanks by the
+
+compressed air, the weight decreases
+
+and it floats back on the surface. Like
+
+submarines, fish also use Archimedes’
+
+principle to float and sink in water. Figure 8.34
+When air is filled in the fish's swim
+bladder i.e. air sac, the volume of the
+body increases and the upthrust also increases. The fish floats toward
+the surface of the water. On the contrary, fish empty their bladders
+to reduce their body volume as well as the upthrust acting on their
+body. This helps them to go deeper into the water.
+
+A hydrometer is a device used to measure the relative density of
+liquids. It contains a wide glass bulb filled with heavy metal which
+is attached to a calibrated fine tube. Due to the liquid displaced by
+
+6 Science and Technology, Grade 10

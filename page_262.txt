@@ -1,0 +1,41 @@
+PAGE 262
+============================================================
+
+Consequences of total internal reflection of light
+a. Sparkling of diamond
+
+Due to the high refractive index of the diamond, its critical angle is
+small (24°). The angle of incidence at the diamond-air interference
+easily becomes greater than its critical angle. This results in the total
+internal reflection of light in the diamond.
+
+The shape of the diamond is determined by the number of its faces.
+It is cut intovarious faces in such a way that maximum numbers
+of raysof light that enter the diamond undergo multiple internal
+reflections. Because of this, the rays of light that aresupposed to
+pass throughthe diamond experience total internal reflectionand
+thus the diamond sparkles. If, however, a block of glass is cut with
+faces like a diamond, this glass will not shine like a diamond because
+thecritical angle for glass is 42° and most of the rays of light that enter
+ontheglassisarerefractedand come out fromthe opposite face.
+
+b. Shining of a surface
+
+Total internal reflection
+
+OT sia
+, a,
+
+Figure 10.27 An air bubble inside the water Figure 10.28 Outer wall of a test tube dipped into the water
+
+An object shines due to the reflection of light from its smooth surface.
+Due to the total internal reflection of light from the water-air interface
+and glass-air interface, these surfaces appear to be shining.As shown
+in Figure 10.37, when the light goes from water (denser medium) to
+air (rarer medium), the angle of incidence at the interface of water-
+air becomes greater than the critical angleand thus, total internal
+reflection takes place at the surface of the air bubble formed inside the
+water. While observing the air bubble from outside, it shines. Also,as
+shown in figure 10.28, the rays of light going from water (denser
+
+3 Science and Technology, Grade 10

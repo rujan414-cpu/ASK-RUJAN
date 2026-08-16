@@ -1,0 +1,43 @@
+PAGE 266
+============================================================
+
+At first, the optical fibres were used in the medical field to observe
+the internal part of the body by passing the light into the body.
+
+After that. they are used to transmit communication signals at the
+speed of light. Nowadays, although optics fibres are used to check up
+and to makedecorative items and many more, they have been widely
+used in the communication sector.
+
+a. Use of optical fibres in telecommunication
+
+In communication technology, optical fibres are used for the rapid
+transmission of signals or data in the form of light waves using
+the principle of total internal reflection. For this purpose, the
+communication signal is converted into light and transmitted through
+optic fibers, which allows for high-speed propagation through total
+internal reflection. Compared to other methods such as wire and
+copper cables, a large volume of data can be transmitted very fast
+and securely over a long distance using optic fibres. For example,
+data can be transmitted at the rate of 1 Gigabyte per second (1Gbps).
+An optical fiber can transmit data of thousands of telephone calls
+simultaneously. The same feature allows people to use optical fiber
+to receive internet signals and watch high-definition videos, upload
+and download large files to the internet, and perform other tasks.
+
+As shown in figure 10.35, fibre cables are bundled and laid on the
+ground. Optical fibre cables have been laid alongvarious national
+roads such as the East-West Highway, the Mid-hill Highway, and other
+roads in our country. These cables are connected to the international
+network through India and China. Optical fibre cable bundles are also
+laid not only on the ground but also in the air and under the sea for
+long-distance communication purposes. An international network of
+optical fibre has been created using these cables.
+
+b. Use of optical fibres in the medical field
+Endoscopy and colonoscopy
+
+Endoscopy is a nonsurgical method for examining the internal organs
+of the body.
+
+a Science and Technology, Grade 10

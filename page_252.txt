@@ -1,0 +1,28 @@
+PAGE 252
+============================================================
+
+Laws of refraction of light
+Activity 10.3 Verification of laws of refraction of light
+
+Take a semicircular glass slab, a ray box or laser beam pointer, a
+sheet of plain paper, a protector. a pencil, etc. Draw four quadrants
+on the plain paper as you used to draw on the graph paper as shown
+in figure 10.10. Draw the degree scales in the first and the fourth
+quadrants using a pencil and a protractor. Place the semicircular
+glass slab on the plain paper taking the x-axis as a base and the
+origin lies at the mid-point of its base as shown in the Figure. Pass
+the light beam making different angles of incidence through the
+base plane of the glass slab using the ray box or laser beam pointer.
+During this process, measure the angles of incidence and the angles
+of refraction and fill in their corresponding values in the given table.
+Do the necessary calculations and draw an appropriateconclusion.
+
+Figure 10.10 Refraction through semicircular glass slab
+
+When the light beam falls normally on the glass slab, it passes through
+a straight line without bending as shown in figure 10.10. Then, on
+increasing the angle of incidence (i), the value of the corresponding
+
+angle of refraction (r) goes on increasing.
+
+ue Science and Technology, Grade 10

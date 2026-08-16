@@ -1,0 +1,62 @@
+PAGE 205
+============================================================
+
+Pull out the piston of a syringe and fill it , ;
+with water. While filling with water, the :
+
+barrel of the syringe should be filled a | f
+little more than halfway, leaving space for ®~=!»r==>* ca |
+the piston to move outwards. If a weight pe
+
+is placed on top of the small piston and
+an object with a heavier weight is placed
+on the other side of the piston, will the
+heavier object be lifted?
+
+Large piston
+
+yy
+a
+
+Fig.8.11 Construction of a model
+of a hydraulic machine
+
+When the weight on the top of the larger piston increases and becomes
+equal to the maximum weight that can be lifted by the small piston,
+both pistons remain in a balanced condition. What is the weight
+necessary for that? Data can be tabulated in a table similar to the one
+shown below.
+
+The weight placed| The weight placed] Result
+
+on the smaller]on 4 larger piston
+
+Force on smaller piston
+increases ...... times
+
+A hydraulic machine is a force-multiplying device based
+
+on Pascal's law. The excavator or backhoe shown in Figure
+
+8.12 is an example of a hydraulic machine used for digging
+purposes. Hydraulic cylinders and pistons are used to move
+
+the digging part. While digging the ground, the upper part
+
+of the machine should bend towards the ground along with
+
+the backhoe so that the backhoe sinks into the ground. For
+
+that, as shown in the diagram above, the fluid in the black 9: 8-12
+coloured flexible pipes is pushed with the help of the piston. As a
+result, the force exerted by the driver from the small piston magnifies
+and the ground is dug.
+
+Construction and working mechanism of hydraulic machine
+
+For the construction of a hydraulic machine, at least two cylinders
+with different cross-sectional areas are connected as shown in Figure
+8.13. A piston is connected to each cylinder in such a way that the
+liquid inside does not leak.
+
+Science and Technology, Grade 10 co

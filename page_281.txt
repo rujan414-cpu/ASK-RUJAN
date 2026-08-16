@@ -1,0 +1,44 @@
+PAGE 281
+============================================================
+
+principal axis after the refraction and never intersect each other
+physically. As shown in figure 10.62, if the refracted rays are produced
+in the backward direction, they cut at a point forming a virtual image.
+Thus, the image of an object at any point in front of a concave lens
+becomes virtual, erect and diminished. This type of image is formed
+by the lens used in peephole of a door.
+
+Power of a lens
+
+As in activities 10.14 and 10.11, take a ray box with three slits and
+three concave and convex lenses having different thicknesses. Then
+perform the following activities.
+
+a. Allow the light rays from the ray box to fall on the lenses of your
+friend's or relative’s spectacles and then observe their converging
+and diverging capacities. Then after, ask whether the power of the
+lens is -4 dioptre (D) or +2 dioptre (D), and so on, to the owner
+of the respective spectacles. Here, the lenses having positive
+power are convex lenses whereas those having negative power
+are concave lenses. The power of a lens is measured in dioptre.
+Compare the degree of refraction and thickness of two or more
+lenses. One possible observation is given in the table below.
+
+Order of thickness Power of the lens
+
+of the lens Diverging capacity used in spectacles
+
+Having the highest diverging 44D
+
+Thickest lens ;
+capacity
+
+b. Arrange the collected lenses in ascending order of their
+thicknesses. Measure their focal lengths as in activity 10.11.
+
+c. | While measuring the focal length, the distance between the lens
+and the focus formed by the intersection of real rays is taken as a
+positive focal length. Similarly. in the case of a concave lens, the
+refracted rays do not intersect but if they are extended backward
+
+Science and Technology, Grade 10 om

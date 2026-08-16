@@ -1,0 +1,52 @@
+PAGE 259
+============================================================
+
+When a fish inside the aquarium (figure
+10.19) is viewed from a certain angle
+outside the aquarium, the light rays from
+the body of the fish suffer total internal )
+
+reflection from the water-air interface and
+reach the observer's eyes. The observer
+sees the fish below the surface of the
+water, and its image above the mirror like a shiny water-air interface,
+ie., in the air.
+
+Figure 10.19 aquarium
+
+Normally, when light falls on the interface between any two media, a
+part of it is reflected and the rest is refracted to the other medium. But.
+in the condition of total internal reflection, all the light is reflected.
+Therefore, the word ‘total’ is used here. The necessary conditions for
+the total reflection of light are given below.
+
+a. Light must be travelling from the denser medium to the rarer
+medium.
+
+b. The angle of incidence must be greater than the critical angle.
+Activity 10.6 Total internal reflections that take place in different media
+a. Total internal reflection in the water
+
+As shown in figure 10.20, take a plastic bottle and a laser beam pointer.
+
+Fill the bottle with water and make it blurred by
+adding a few drops of Dettol or milk in it and
+then shaking it. Now make a small hole in the
+bottle a little above its base. Pass a beam of laser
+light from its opposite side so that the light falls
+on the current of water coming from the hole. Does the light propagate
+along with the current of water?
+
+Figure 10.20
+
+Pass a laser beam through the outer surface of a
+beaker filled with water as shown in figure 10.21.
+
+Change the value of the angle of incidence by
+
+tilting the laser beam pointer. Does the laser beam
+
+suffer total internal reflection from the surface of Figure 10.21
+the water at a certainangle of incidence?
+
+Science and Technology, Grade 10 oe

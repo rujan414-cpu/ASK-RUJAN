@@ -1,0 +1,38 @@
+PAGE 234
+============================================================
+
+Figure 9.8 Sand and soil Figure 9.9 Steel vessel and glass
+
+Which one heats faster when all of the above materials are exposed
+simultaneouslyto the sun for about 15-20 minutes? What is the effect
+of the heat on each of these groups? Discuss.
+
+Factors affecting the heat-absorbing capacity of matters
+
+Even if the objects are made up of the same material but have different
+shapes, the rate and the amount of heat they absorb may differ
+according to the state they are in.
+
+Activity 9.6 Relation among heat, temperature change (difference),
+and mass of the substance
+
+(a) Take two beakers. Pour 200g of water into one of the beakers and
+400g of water at the same temperature into the other beaker. Heat both
+beakers slowly with the help of sources of the same capacity.Water
+in which of the beakers absorbed more amount of heat energy when
+the temperature wasincreased by 10°C? Again, heat the water of 400g
+mass slowly. Note the quantity of heat absorbed by the water in each
+case when the temperature increases by 100C and 20°C respectively.
+In which case is the amount of heat absorbed more? Compare both
+the above activities and draw a suitable conclusion.
+
+The quantity of heat absorbed by a substance (Q) is directly
+proportional to its mass (m)
+
+wi [ Keeping the temperature constant]
+The quantity of heat absorbed by a substance (Q) is directly
+proportional to the change/increase in temperature (T,-T,).
+
+QO (Tyr T,)eeeeeseesesesseseee ii [ Keeping the mass constant]
+
+70 Science and Technology, Grade 10

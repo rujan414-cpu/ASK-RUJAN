@@ -1,0 +1,32 @@
+PAGE 269
+============================================================
+
+Take aray box and a prism. Send the narrow beam of light from a ray
+box or the sun light onto the rectangular surface of a prism. Can you
+project the light passing through the prism onto a wall or a screen as
+shown in figure 10.41? Now, keep the prism rotating until a band of
+seven colours is created on the wall or the screen.
+
+The process in which light falling on the surface of a prism or a
+similarly shaped object splits into seven colours [i.e..red, orange,
+yellow, green, blue, indigo, and violet respectively] while passing
+through the object is known as the dispersion of light. The waves
+of these seven colors have different wavelengths. Their values are
+presented in the table below.
+
+From 6.210” to 7.8xX107
+From 5.9107 to 6.2107
+
+From 5.8X107 to 5.9X107
+
+From 5.0107 to 5.8x107
+
+Indigo From 4.410” to 4.6107
+
+Violet From 3.8107 to 4.4x107
+
+The band of the seven colors with the decreasing order of their
+wavelengths given above is called the visible spectrum. The seven
+colors of the visible spectrum can be remembered as "VIBGYOR".
+
+Science and Technology, Grade 10 oe

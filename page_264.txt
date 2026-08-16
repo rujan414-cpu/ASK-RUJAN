@@ -1,0 +1,37 @@
+PAGE 264
+============================================================
+
+As a result, the total internal reflection of light occurs. Hence the
+reflected rays start travelling upwards and finally fall on the observer's
+eyes. The observer, thus, sees an inverted image of an object on the
+surface of the road. Since the refractive indices of the layers of air
+change continuously, the image so formed seems to be flickering on
+the surface of a pool ofwater.
+
+Considerable question
+
+What effect would be observed, when sound waves undergo refraction
+as the refraction of light waves occurred during the formation of
+mirage?
+
+Figure 10.31 Refraction of sound
+
+As shown in figure 10.31a, during the daytime, as the sound waves
+travel through the upper layer of air, they continuously refract towards
+the normal at different air layers. Thus,sound waves bend upward
+and a listener some distance away from the source cannot hear the
+sound distinctly. Likewise,at night, refraction of the sound waves at
+various air layers makes the sound waves bend away from the normal
+(downwards) and at a certain layer;the total internal reflection of
+sound waves takes place, as shown in figure 10.31b. Due to this, a
+listener on the ground, even at a distance away from the source, can
+hear the sound distinctly.
+
+Application of total internal reflection of sound
+Optical fibre
+Activity 10.7 Observation of the internet cables based on fibre optics
+
+Take a piece of internet wire based on fibre optics. Observe its outer
+plastic coat andthe inner fibres by gradually removing the plastic coat.
+
+360 Science and Technology, Grade 10

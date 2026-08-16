@@ -1,0 +1,34 @@
+PAGE 250
+============================================================
+
+Figure 10.9 Refraction th.-.5.. 5---- -."™
+
+Some terminologies related to refraction of light are as follows:
+a. Normal
+
+The imaginary line perpendicular to the interface of two media is
+called the normal. In the above Figure NN' and N,N,’ are normal.
+
+b. Incident ray
+The ray AO from the source of light is the incident ray.
+c. Angle of incidence
+
+The angle (ZAON) made by the incident ray AO with the normal NN'
+is the angle of incidence.
+
+d. Refracted ray
+
+The ray (OR) which bends at the border and enters the second medium
+is the refracted ray.
+
+e. Angle of refraction
+
+The angle (ZBON') made by the refracted ray AO with the normal
+NN'is called the angle of refraction.
+
+f. Emergent ray
+
+The ray (BC) which comes out of the object into the first medium
+after refraction is called an emergent ray.
+
+ue Science and Technology, Grade 10

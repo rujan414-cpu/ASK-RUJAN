@@ -1,0 +1,34 @@
+PAGE 227
+============================================================
+
+5. Solve the following mathematical problems:
+
+piston A (area= 0.5cm?’)
+
+20N plastic tube
+
+syringe B
+oil
+
+piston B (area=5cm*)
+
+(a) In the figure, a sample of a hydraulic machine constructed
+by using syringes is shown. How much force is to be applied
+through syringe B to balance the force on piston A?
+
+(b) Pressure of 30000 Pa is generated in the liquid of a hydraulic
+lift. If the cross-sectional area of the piston used to lift a
+weight is 0, m’, how much load can it lift?
+
+(c) Calculate the upthrust acting on the object in situations b and
+c shown in the figure. Mention the cause for the occurrence
+of different upthrusts under these two situations.
+
+e O
+20N 14N
+10N
+ae 2
+water dislaced water dislaced
+a b c
+
+Science and Technology, Grade 10 ce

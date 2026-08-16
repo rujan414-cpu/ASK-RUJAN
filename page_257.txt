@@ -1,0 +1,42 @@
+PAGE 257
+============================================================
+
+Question: On increasing the value of angle of incidence (i) continuously,
+what could be the maximum value of angle of refraction (r)?
+
+In the second figure of 10.17, the coin in the glass is seen even when we
+observe it along the air-water boundary. In this situation, the refracted
+ray makes an angle of 900 with the normal. This is the maximum value
+of the angle of refraction (r) when light passes from a denser medium
+to a rarer medium. In this situation, the angle of incidence (i) formed
+in water with the normal is known as the critical angle.
+
+Critical angle
+
+Activity 10.5 Refraction of light while passing from denser to the
+rarer medium by making different angles of incidence
+
+Take a semicircular glass slab,a laser beam pointer or ray box, a
+protractor, etc. as shown in the figure. On a plain sheet of paper,
+draw lines as if they are the two axis of a graph. Prepare a scale for
+measuring the angles with the center of the protractor as the origin
+(O) and the reference line that is parallel to the x-axis as shown in
+the figure. Take a semi-circular glass slab and place it on the sheet
+such that its center lies at O and the flat edge becomes parallel to the
+x-axis. Pass the laser beam into the glass making itperpendicular to
+the semicircular surface. Measure the angle of incidence (i) and the
+angle of refraction (r) at O and then fill in the table below.
+
+Keep on increasing the value of the angle of incidence. Observe the
+angle for which the refracted ray becomes parallel to the glass-air
+
+|
+
+Point A
+
+> Total ort reflection
+
+Laser light
+projection Figure 10.18
+
+Science and Technology, Grade 10 7

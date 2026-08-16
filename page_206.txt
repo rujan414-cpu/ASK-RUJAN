@@ -1,0 +1,53 @@
+PAGE 206
+============================================================
+
+The cross-sectional areas of the small piston and the large piston of
+the hydraulic machine shown in the figure are A, and A, respectively.
+Similarly, F, is the outward force produced on the large piston when
+a force F, is applied on the smaller piston.
+
+F Output
+Yh Force
+Input F.
+| Force 2 A,
+px E P,= x EB
+AL :
+
+1 Multiplication of Force
+
+Figure 8.13 Structure and working principle of hydraulic machine
+Ina hydraulic machine, conditions are created for Pascal's law to apply.
+That is, when force is applied via the small piston of the machine, the
+
+pressure generated on the surface of the piston ( P,- e ) is
+
+1
+transmitted perpendicularly and equally in all directions by the
+incompressible liquid in the cylinders. According to Pascal's law,
+
+the pressure generated on the surface of the small piston (P,) = the
+pressure generated on the surface of the large piston (P,)
+
+F, F,
+Or a = A,
+Ay
+
+F, =F, ( = )eetetteeeetetenteneren (i)
+
+2
+
+From equation (i), the force acting on the larger piston (F2) is A
+1
+
+(the ratio of the area of the larger piston to the smaller piston) times
+F1. In this equation, the factor is always more than 1 because in
+2
+
+A
+1
+if the cross-sectional area of the large piston is twice Ga 2)
+
+m2 Science and Technology, Grade 10
+
+a bigger number is divided by a smaller number. For example,
+

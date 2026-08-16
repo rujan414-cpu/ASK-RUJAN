@@ -1,0 +1,40 @@
+PAGE 215
+============================================================
+
+That's why salty water exerts more upthrust than tap water. As a
+result, the egg sinks in tap water but floats on salt water. This is the
+reason why it is easy to swim in seawater. Similarly, a ship sinks less
+in seawater than in river water.
+
+(b) Volume of liquid displaced
+
+Figure 8.26 Upthrust and volume of the displaced liquid
+
+Figure 8.26 shows the weight of a solid cylindrical object in different
+stages as it gets submerged in water. The figure shows the decrease in
+the reading on the spring balance as the volume of the immersed part
+of the object increases. The more the solid submerges in water the
+more volume it displaces. Once the object is completely submerged
+in water, the reading on the spring balance stays constant.
+
+When a solid object is immersed in a liquid,
+as its volume inside the liquid increases, the
+‘upthrust' on it also increases and when the
+object is completely immersed in the liquid,
+the upthrust is maximum. After the object
+is immersed in the liquid, even though the
+depth of the object increases, the upthrust
+remains constant. For example, two cubic
+solids of different weights but equal volume Figure 8.27 Upthrust acting
+are completely immersed in a liquid; the on the object with the same
+upthrust acting on them is the same as shown volume
+
+in Figure 8.27. Therefore, when an object is
+
+partially or completely immersed in a liquid, the upthrust acting on
+it is directly proportional to the volume of the displaced liquid.
+
+Science and Technology, Grade 10 a
+
+force force
+

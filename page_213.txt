@@ -1,0 +1,51 @@
+PAGE 213
+============================================================
+
+Cause of upthrust
+
+In Figure 8.23, the force exerted by water due to its pressure on the
+surface of a cubic object immersed in water is shown by the arrows.
+The forces acting on all surfaces, except the upper and lower surfaces,
+are equal and opposite in directions. Due to this, the force acting on the
+right surface is canceled by the force on the left surface and the force
+acting on the front surface is canceled by the force on the back surface.
+
+The liquid exerts normal pressure on the
+object immersed in it from all sides. The
+pressure increases as the depth of the
+object increases. Since the lower surface
+of the cubical object is at a greater depth,
+the pressure and force on the lower
+surface are greater than the pressure
+and force on the upper surface. Thus,
+when the force on the upper surface of Figure 8.23Direction of
+
+the object is subtracted from the force on i ad
+
+the lower surface, the resultant force has
+
+an upward direction. Hence, the direction of the upthrust is upwards.
+
+Activity 8.3 Calculation of the upthrust acting on a stone immersed
+in water
+
+Take a small stone, a beaker that is filled
+more than half with water, a spring
+balance and a piece of thread. Tie the
+stone with the thread and hang it on the
+spring balance as shown in Figure 8.24.
+Measure the weight of the stone when it
+is suspended in air and the weight of the
+stone when it is submerged in water. Is the
+weight in air equal to the weight in water?
+
+Figure 8.24 Upthrust acting ona
+
+When an object is immersed in a liquid, stonesnbrianged th water
+
+its weight is found to be decreased due to
+the upthrust exerted on it. The weight of
+an object measured in air (W.) is called real weight and the weight of
+an object inside a liquid (W,,) is called apparent weight.
+
+Science and Technology, Grade 10 200

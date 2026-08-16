@@ -1,0 +1,55 @@
+PAGE 217
+============================================================
+
+Weight | Weight | Upthrust | Weight | Weight of | Weight of | Result
+of the of the (Uj= of the | beaker and | displaced
+
+stone in | stone in | (W1)- empty | displaced | water (W1)
+the air. water (W2) beaker | water(W1)
+(wW1) (W2) (Ws)
+
+In this process, when a stone
+
+is immersed in water, the
+
+upthrust exerted on it is
+
+equal to the weight of the 10N
+displaced water. This proves
+Archimedes' Principle. For
+
+example, in Figure 8.30, it L
+
+is shown that the upthrust a
+exerted on the solid object a
+immersed in water (4N) and z
+
+the weight of water displaced,
+are equal. Irq 8.30 upthurst and displaced liquid weight
+
+upthurst =4 N
+
+Archimedes is a Greek
+
+mathematician born in 287 BC. According to Archimedes' Principle,
+when an object is partially or completely immersed in a liquid, the
+upthrust is equal to the weight of the liquid displaced by it. This
+principle is not only true for liquids but applies to all fluids.
+
+Mathematically,
+
+Upthrust (U) = Weight of liquid displaced (W)
+Mass (Mm)
+
+U=mg=Vpg_ Because, density of liquid ( p) = Volume \V)
+
+In the above equation, V, 'p'and g represent the volume of liquid
+displaced, density, and acceleration due to gravity respectively.
+
+The upthrust exerted on an object placed in a liquid depends on
+the volume of liquid displaced by the object. Likewise, according to
+Archimedes' principle, the upthrust on an object is equal to the
+weight of the displaced liquid. Therefore, when an object is placed in
+a liquid, whether it floats or sinks depends on its weight of the object
+and the upthrust which depends on the volume of liquid displaced.
+Science and Technology, Grade 10

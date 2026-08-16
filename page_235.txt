@@ -1,0 +1,45 @@
+PAGE 235
+============================================================
+
+Combining (i) and (ii)
+Qa m(T,- T,)
+Q= MS (TT) seseeseesneseesneeseseeseee (iii)
+
+where s is a constant and refers to the specific heat capacity of the
+substance.
+
+Therefore, the heat absorbed or released by a substance is equal to
+the product of the mass (m), the specific heat capacity (s) and the
+temperature change (T,-T,) of that substance. This equation is called
+the heat equation.
+
+From equation (iii) s= Q/m(T,-T,)
+
+If the mass of the substance m = 1kg and the temperature change
+due to the quantity of heat absorbed or released is 1°C, then s = Q
+
+Therefore, the heat required to change the temperature of a substance
+of 1 kg mass by 1°C is the specific heat capacity of that substance. Its
+SI unit is joule per kilogram per degree Celsius (J/kg°C). The specific
+heat capacity varies according to the nature of the material. Some
+materials and their specific heat capacities are presented in the table
+below.
+
+Substance Specific heat |Substance | Specific heatcapacity
+capacity
+
+Ethyl alcohol | 2400 [Iron 460
+
+saeene oil | 2010 Copper
+2100 Silver
+[Moray p26 [Gold a0]
+
+According to the specific heat capacity given in the above table, the
+amount of heat required to change the temperature of every 1kg of
+water by 1°C is 4200). Similarly, the amount of heat required to change
+the temperature of every 1kg of iceby 1°C is 2100J. Here, even though
+ice and water are two states of the same substance, their specific heat
+capacities are different.
+
+Science and Technology, Grade 10 ce
+

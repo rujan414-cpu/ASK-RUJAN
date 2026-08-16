@@ -1,0 +1,45 @@
+PAGE 282
+============================================================
+
+in the side of the incident rays then they appear to intersect ata
+point which is called apparent focus. The distance between this
+apparent focus and the lens is the focal length and it is taken
+as negative. Using these distances, the power of lenses can be
+calculated by using the formula given in the table below.
+
+For convex lens
+
+Order of Power P = Result (relation be-
+thickness | Focal length 1 tween focal length and
+of the lens f (in metre) refracting capacity)
+Thinnest 1
+40cm = BEDS D | erreretsseeeseeesessesees
++ 40cm sm +2.5D
+40
+
++ 400 ™
+
+=+0.4m
+Thickest
+
+When light rays refract through a lens, the degree of refraction is more
+ina lens with large curvature, i.e., thick lens than the lens with small
+curvature, i.e., thin lens. The ability of a lens to converge or diverge
+the light rays is called the power of that lens.
+
+If a convex lens with greater curvature and thickness converges
+parallel light rays closer to its optical center (O) then its focal length
+is shorter, but its ability to converge light rays is higher. Similarly, a
+concave lens of shorter focal length also has a higher ability to diverge
+the light rays. Therefore, the power of a lens depends on its focal length
+(f). Mathematically, the power of a lens is defined as the reciprocal
+
+L
+
+of its focal length in meters, i.e., lens power P= f (in metre)
+
+The SI unit of power is diopter. It is indicated by D. The power of
+a convex lens with a positive focal length is also positive. Likewise,
+the power of a concave lens with a negative focal length is negative.
+
+7 Science and Technology, Grade 10

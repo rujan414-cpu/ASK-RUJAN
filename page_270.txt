@@ -1,0 +1,30 @@
+PAGE 270
+============================================================
+
+Cause of dispersion of light
+
+The speed of all electromagnetic waves is same in vacuum but it is
+different in different media. The speed of a wave in a given medium
+depends on its wavelength. The speed of different colors in the visible
+spectrum is different. The light wave with the longest wavelength
+in the visible spectrum is red light. Its speed is comparatively more
+than that of waves of other colors in the visible spectrum. The speed
+and the wavelength of violet are the least among these seven colors.
+
+As shown in figure 10.41, when light rays enter a prism and exit from
+it, two refractions occur. Asa result, the light rays of different velocities
+that have separated inside the prism exit it by bending toward the base
+and falling on the screen at different places. In this process, red light
+rays having the longest wavelength and the fastestspeed deviate the
+least and are thus seen at the upper portion of the screen. In contrast,
+violet rays with the shortest wavelength andthe least speed deviate
+more than others and fall on the lower part of the screen.
+
+Light as a group of seven colours
+
+Activity 10.9 Newton’s disc
+
+Figure 10.42 Making Newton’s disc
+
+26 Science and Technology, Grade 10
+

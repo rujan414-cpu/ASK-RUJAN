@@ -1,0 +1,39 @@
+PAGE 258
+============================================================
+
+interface making an angle of 90° with the normal, and note it down. In
+which medium does the light goif the angle of incidence is increased
+
+after having the angle of refraction 90°?
+
+90° Refraction of light
+
+On continuing to increase the angle of incidence in the denser medium
+as shown in the figure, for a particular value of angle of incidence,
+the refracted ray becomes parallel to the water-air interface, i.e.,
+the value of angle of refraction becomes 90°. The angle of incidence
+in the denser medium under the condition whichthe value of its
+corresponding angle of refraction in the rarer medium becomes 90°
+is known asthe critical angle.
+
+The value of the critical angle depends upon the materials of the two
+media. The values of the critical angle of a few substances to air are
+
+given in the table below.
+
+water [aor ———lvearin_ fae |
+Alcohol [46° [oss Ja
+
+Kerosene oil | 44° Diamond | 24°
+
+Total internal reflection of light
+
+If the angle of incidence becomes greater than the critical angle (figure
+10.5), the light gets reflected in the same medium instead of being
+refracted. This means the light passing through the semicircular
+surface of the glass returns to the glass. The phenomenon of reflecting
+of light to the same medium when it is passed from a denser medium
+to a rarer medium is called the total internal reflection of light. All
+laws of reflection of light are applicable in this process.
+
+aH Science and Technology, Grade 10

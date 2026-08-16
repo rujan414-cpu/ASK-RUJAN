@@ -1,0 +1,46 @@
+PAGE 202
+============================================================
+
+When an object is placed in a fluid, the fluid exerts pressure on the
+surfaces of the object. Figure 8.4 shows the upward force exerted
+on the surface of the balloon by the water pressure. If the balloon is
+filled with hydrogen or helium and released into the air, the balloon
+will fly due to the upward force caused by the air pressure. As the
+air density decreases with increasing height, the balloon will float
+at a certain height where the upward force exerted by the air and its
+weight are equal.
+
+Transmission of pressure
+
+The structure of molecules in solid, liquid and gas is shown in Figure
+8.6. Molecules in solids are packed very close to each other. They have
+a definite shape and volume. The molecules in a solid do not move
+and change their position. When a force is applied to one side of a
+solid object, the pressure generated is not transmitted throughout the
+solid object. But, since molecules can move in liquid and gas, pressure
+is transmitted in the fluid kept in a closed container.
+
+Activity 8.1 Transmission of pressure in fluid
+
+*iaiel)~ |/ed ed
+
+iy
+
+Fig.8.6 Structure of
+
+inoleeilins I nieiter Fig.8.7 A process of compressing fluid in a closed vessel
+
+Take two syringes. Fill one of them with water and leave the other
+empty. Close the nozzle of the empty syringe using a finger and push
+the piston inside as shown in Figure 8.7. Do the same with the syringe
+filled with water. Piston of which syringe can be pushed in? When
+the piston of an air-filled syringe is pushed in, did it show the same
+effect as in the water-filled syringe?
+
+In this activity, when the piston of the water-filled syringe is pushed
+in, it does not move in. This means the water in the syringe cannot
+be compressed. But in a syringe filled with air, it is easy to push the
+piston in.But, when the air in it gets compressed, it becomes difficult
+to push the piston further just like in the syringe filled with water.
+
+Science and Technology, Grade 10

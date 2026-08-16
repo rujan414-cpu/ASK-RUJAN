@@ -1,0 +1,42 @@
+PAGE 260
+============================================================
+
+The drops of milk added to the water spreads out the laser beam and
+it becomes easier to observe the propagation of light in water.
+
+In figure 10.22, water flowing out of the bottle
+from a hole in its surface is shown. A laser
+beam, directed from the opposite side of the
+bottle such that it is perpendicular to the
+hole, falls on the curved surface of the stream
+of water gushing out of the bottle. When the
+laser beam falls on this curved surface of the
+stream of water, the light istravelling from a Figure 10.22
+denser medium (water) to a rarer medium
+
+(air) and the value of the angle of incidence is greater than the critical
+angle(49°) of water.
+
+Hence, the laser light does not come out of the surface of the water but
+rather undergoes total internal reflection and returns to water. After
+that, the reflected ray falls on the opposite surface of the stream.Again,
+the total internal reflection takes place on that surface and the beam
+reflects to the water.In this way, the total internal reflection occurs
+repeatedly in a cyclic manner and the laser light travels downwards
+with the stream.
+
+(a) Total internal reflection in a prism
+
+As shown in figure 10.23 and figure 10.24, tilt a laser light pointer
+normally towards different faces of equilateral and isosceles triangular
+prisms. Observe the condition in which the total internal reflection
+occurs from the surface of the prisms.
+
+Figure 10.23 Total internal | Figure 10.24 Total internal reflections in an
+reflections in equilateral | isosceles right-angled triangular prism
+triangular prism
+
+A prism is a three-dimensional solid object. It is boundedby three
+
+3 Science and Technology, Grade 10
+

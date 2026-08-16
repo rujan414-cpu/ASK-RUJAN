@@ -1,0 +1,36 @@
+PAGE 278
+============================================================
+
+Figure 10.60 Rules to draw a ray diagram
+
+(c) Light rays that pass through the focus of a lens emerge parallel
+to the principal axis after the refraction in the lens.
+
+The image formed by a convex lens
+
+Activity 10.13 Observation of the image of a candle formed by a
+convex lens
+
+Take a convex lens whose focal length was measured in activity 10.11,
+a small screen prepared by pasting cardboard on a rectangular piece
+of wood, a candle, a one-meter scale or measuring tape. As shown
+in figure 10.61, lay the scale or tape on the table. Stand the lens
+somewhere in the middle of
+the ruler such that at least a
+2f (f = focal length) distance
+is left on either side of it.
+Now, place a candle at one
+side of the lens at various
+positions. For each position
+of the candle, put the screen
+on the opposite side and move it forward and backward until a
+clear image of the candle is formed on the screen and observe the
+characteristics of the image. The characteristics of the image formed
+by a convex lens depend on the position of the object relative to the
+optical center O. The images formed by placing an object at different
+positions in front of the convex lens are shown in the diagram and
+their characteristics are presented in the table.
+
+Figure 10.60 image formed by convex lens
+
+Science and Technology, Grade 10

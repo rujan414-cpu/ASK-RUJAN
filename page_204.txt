@@ -1,0 +1,49 @@
+PAGE 204
+============================================================
+
+This law states that, when a force is exerted at a point in an enclosed
+liquid, the pressure generated is transmitted normally throughout the
+liquid in all directions.
+
+10 pa pressure
+
+10 ssure
+10 pa pressure Peers
+
+10 pa pressure
+
+Fig.8.10 Verification of Pascal's Law
+
+For verification of Pascal's law, a circular vessel with four pistons A,
+B, C and D can be taken as shown in Figure 8.10. Suppose the cross-
+sectional areas of the four pistons are a,, a,, a, and a, respectively.
+When the vessel filled with liquid is pushed inwards by applying a
+force F1 onto piston A, the pressure is generated on the cross-sectional
+area of this piston. Due to this pressure, the remaining three pistons
+move outwards. This means the pressure generated at piston A is
+transmitted normally throughout the liquid. If the inward forces
+applied to the outward moving pistons to prevent them from moving
+
+are, F,, F, and F, respectively, the following result is obtained.
+
+F, F, F, F,
+
+a, ~ a, a a; - 4,
+Therefore, the pressure generated at one point in a liquid kept in a
+closed vessel is transmitted equally everywhere.
+
+Applications of Pascal's Law
+
+Based on Pascal's law, various types of hydraulic machines such
+as hydraulic brakes, hydraulic lifts, hydraulic presses, etc. are
+manufactured.
+
+Hydraulic machine
+
+Activity 8.3 Making a model of a hydraulic machine
+
+Take two syringes of different thicknesses, a saline pipe and water.
+Connect the mouths of both syringes with a saline pipe as shown in
+Figure 8.11.
+
+200, Science and Technology, Grade 10

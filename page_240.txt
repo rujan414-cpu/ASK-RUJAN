@@ -1,0 +1,49 @@
+PAGE 240
+============================================================
+
+Calibration of thermometer
+
+Calibration is the process of determining the scale of a thermometer.
+At first, two fixed points (lower fixed point upper fixed point) are
+determined and then the distance between these two points is divid-
+ed into a certain number of equal parts as per requirement. For the
+calibration of a thermometer, the temperature of melting ice (0°C)
+is taken as the lower fixed point and the temperature (100°C) of the
+steam just above the surface of the water boiling at one atmospheric
+pressure is taken as the upper fixed point. Then the distance be-
+tween these two points is divided into 100 equal parts so that each
+part represents 1°C,
+
+Activity 9.4
+
+Take a thermometer.
+
+Cover its scale by pasting a white paper over it.
+Take some pieces of ice in a beaker.
+
+Arrange a beaker, burner, stand, etc. required to boil water.
+
+ofroent &
+
+Insert the bulb of the thermometer into the melting ice and hold
+it on a stand for a while. Observe the falling mercury level in-
+side the capillary tube of the thermometer. Mark the point on
+the paper at which the mercury stops andwrite 0°C.
+
+6. Make an arrangement to hold the bulb of the thermometer in
+the steam coming from the boiling water. Observe the rising
+mercury level inside the capillary tube. Mark the point at which
+the mercury stops at 100°C.
+
+7. Divide the portion between the two marks into 10 equal parts
+by drawing Qlines so that each line represents 10°C. The Celsius
+scale is ready.
+
+The fixed points are different for different scales of a thermometer.
+For the Celsius scale, the lower and upper fixed points are taken as
+o°C and 100°C respectively.For the Fahrenheit scale, the lower and
+upper points are taken as 32°F and 312°F respectively. Similarly, for
+the Kelvin scale, the lower and upper points are taken as 273K and
+373K respectively.
+
+Science and Technology, Grade 10
