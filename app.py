@@ -56,7 +56,7 @@ client = genai.Client(api_key=API_KEY)
 # TEXTBOOK
 # =========================================================
 
-TEXTBOOK_FOLDER = "."
+TEXTBOOK_FOLDER = os.path.dirname(os.path.abspath(__file__))
 
 
 @st.cache_resource
