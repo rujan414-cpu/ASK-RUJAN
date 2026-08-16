@@ -1,0 +1,50 @@
+PAGE 317
+============================================================
+
+Poles of the |The process by which the | The direction of deflection
+bar magnet | poles of a bar magnet of the needle of the
+enter or exit the solenoid | galvanometer
+
+North pole |In Left/right
+
+South pole | Out
+What is the difference between the new observation and the previ-
+ous observation that can be observed when the bar magnet is quickly
+moved in and out?
+
+As shown in activity 11.5, when a bar
+magnet is moved inside and outside a
+coil of conducting wire, the number of
+magnetic lines of force on its surface,
+ie., the magnetic flux, changes CONtINU-  sesersecr
+
+ously. Asa result, voltage is induced in “=m a:
+
+the coil. Even when a coil of conducting figure 11.23
+wire is rotated in a magnetic field and
+
+the magnetic flux linked with the coil is continuously changed, the
+voltage gets induced in the coil. In both cases, the work done while
+changing the speed of the coil or magnet, i.e. mechanical energy, is
+converted into electrical energy.
+
+In this way, the process of inducing electromotive force (e.m.f.), i.e.,
+voltage, in a conductor when there is a change in magnetic flux linked
+with that conductor is the electromagneticinduction.
+
+Faraday's law of electromagnetic induction
+
+The voltage produced in a coil depends on the strength of the mag-
+netic field (electromotive force) and the number of turns in the coil.
+The greater the strength of the magnetic field and the number of turns
+of the coil. the more the voltage produced. The magnitude of the re-
+sulting voltage also depends on how quickly or slowly the magnetic
+field lines link the coil. On moving the magnet in and out of the coil
+at a very slow speed, negligible voltage is induced in the coil, but
+on moving the magnet in and out at a higher speed, more voltage is
+induced in the coil.
+
+Based on the magnitude of the e.m.f. induced, Faraday's Law can be
+stated as follows:
+
+Science and Technology, Grade 10 coe

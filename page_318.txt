@@ -1,0 +1,51 @@
+PAGE 318
+============================================================
+
+When there is a relative motion between a conductor and a magnet,
+an electromotive force (e.m.f.) is induced in the conductor and the
+magnitude of such electromotive force is directly proportional to the
+rate of change of the magnetic flux linked with the conductor.
+
+According to Faraday's law, when a conducting coil is rotated inside
+the magnetic field, an e.m.f. is induced in the coil due to the change
+in magnetic flux linked with the coil. This is the working principle
+of a generator. An induced e.m.f. lasts as long as the change in mag-
+netic flux continues in the circuit or the coil keeps on moving. On
+increasing the number of turns of the coil, increasing the strength of
+the magnet, or the speed of rotation of the coil, the rate of change of
+magnetic flux linked with the coil increases. Thus, the magnitude of
+induced e.m.f. increases.
+
+Dynamo and a.c. generator
+
+Electric current is produced in bi- ar —_ wp
+
+cycles and motorcycles by using a o
+
+dynamo. Likewise, an a.c. genera- y - (
+tor is used to produce current that % NS ( | |
+is used in the domestic electric ae IU
+
+circuits in daily life. A dynamo
+is used to induce the current on
+a small scale whereas a generator
+is used to generate current on a large scale.
+
+Figure 11.24 Bicycle Dynamo
+
+As shown in Figure 11.24, a magnet is rotated in the bicycle dynamo.
+Acoil is kept closer to the magnet such that it cuts the magnetic lines
+of force. To change the magnetic flux linked with the coil, the magnet
+is rotated by producing friction between the cap of the dynamo and
+the tire of the bicycle.Thus, the magnitude of the induced voltage in
+the coil depends on the number of turns in the coil, the strength of
+the magnetic field and the speed of rotation of the magnet, i.e., the
+rate of change of magnetic flux.
+
+Large-scale sources of electricity
+
+A large quantity of electricity is produced from the generator. For
+this, a coil placed in a strong magnetic field is rotated at a very high
+speed. As shown in Figure 11.25, the water stored in the dam of the
+
+ome Science and Technology, Grade 10

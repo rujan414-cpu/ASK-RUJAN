@@ -1,0 +1,51 @@
+PAGE 309
+============================================================
+
+Among different electrical appli-
+
+ances used in our daily life, some are Fat ie —=——
+run ona.c, some on d.c. and some ON  atemating ees
+both a.c and dic. Electrical devices CurentiAc) Eirenk (PC)
+such as fans, motors, refrigerators, igure1!.7 Rectifier block line
+etc. run ona.c whereas d.c.is used in 9!"
+
+the internal circuits of electrical appliances such as mobile phones,
+computers, etc.Electric heaters, filament lamps, etc. can operate in
+a.c as well as d.c.We can use a rectifier to convert alternating current
+into direct current.
+
+Activity 11.1
+
+Fill in the differences between direct current and alternating currents
+in the table below.
+
+nt (d.c.)
+
+Magnetic effect of elec- Battery Sweten Batter Switch
+
+tric current H a h a
+In the year 1820, Hans
+Christian Oersted,a Dan- —* = = =
+‘
+a
+
+ish physicist and science "
+teacher, discovered the
+fact that electricity and
+magnetism are related to Figure 11.8 Direction of current along with the direc-
+each other. He observed tion of motion indicated by the compass needle
+
+the needle of a magnetic
+
+compass deflecting near an electric circuit while performing an ex-
+periment involving electric current. After further study, it was found
+that the direction of the deflection of the magnetic needle changes
+along with the change in the direction of current flow in the circuit.
+Orested concluded that the deflection of the compass needle is due
+to the magnetic effect produced by the electric current.
+
+Magnetic compass needle Magnetic compass needle
+
+The formation of a magnetic field around a conducting wire when
+
+Science and Technology, Grade 10 305

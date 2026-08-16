@@ -1,0 +1,47 @@
+PAGE 379
+============================================================
+
+Activity 14.8
+1. Draw the atomic structure of Li, Be, B, N, and C.
+
+2. Arrange these elements in the increasing order of their atomic
+size.
+
+3. Draw the atomic structure of K, Li, and Na.
+
+4. Arrange these elements in the increasing order of their atomic
+size.
+
+5. Whatare the changes in atomic size as we move from left to right
+ina period and top to bottom in a group? Draw conclusions from
+it.
+
+C. Electropositivity and electronegativity
+
+The property of an element to lose its valence electrons and form
+positive ions (cations) is called electropositivity. The property of an
+element to gain electrons in its valence shell to form negative ions
+(anions) is called electronegativity. The atomic size of elements
+decreases from left to right of any period so their electron losing
+capacity decreases along the period whereas their capacity to gain
+electrons increases accordingly. Due to this, the electropositivity
+or metallic character of elements decreases from group 1 to 18 of
+any period whereas their electronegativity or nonmetallic character
+increases.
+
+As we move from top to bottom of a group, the tendency of elements
+to lose electrons increases due to the increment in their atomic size.
+So, their electropositivity character also increases. But their capacity
+to gain electrons decreases due to the increase in distance from the
+nucleus. Hence, electronegativity decreases down a group.
+
+Activity 14.9
+1. Write the electronic configuration of Na, Mg, Al, Si, P, S, and CL.
+
+2. Arrange these elements in the increasing order of their
+electronegativity.
+
+3. Similarly arrange them in the increasing order of their
+electropositivity.
+
+Science and Technology, Grade 10 a8

@@ -1,0 +1,12 @@
+PAGE 361
+============================================================
+
+Select the video from the computer memory and add it to the project
+library by dragging it to the editing panel as shown in Figure 13.23.
+For the video cutting, select the video and click on trim.
+
+To choose the place where the video is to be cut, play the video. Then
+separate the start time and end time using two blue drag bars as shown in
+Figure 13.24. Finally, check the required clip length and click on done.
+
+Science and Technology, Grade 10 357

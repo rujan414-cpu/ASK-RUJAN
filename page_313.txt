@@ -1,0 +1,44 @@
+PAGE 313
+============================================================
+
+similar to the magnetic field around the bar magnet, i.e., the magnetic
+field of a solenoid is strong on both sides and weak in themiddle por-
+tion. There is a uniform magnetic field inside the solenoid. Generally,
+when electric current flows in the solenoid, one end of it becomes
+the North Pole and the other the South Pole.
+
+If the electric current flows in the opposite direction, the poles of the
+magnetic field formed around it are also reversed.
+
+Field aaa
+
+N Oey yay Ny= DAT |S
+
+TTB a at sw
+
+Figure 11.14 Magnetic fields | Figure 11.15 Maxwell's right-hand grip rule
+around a solenoid
+
+The direction of the magnetic field formed around the current flow-
+ing solenoid can be found by using Maxwell's right-hand grip rule.
+According to this rule, if a solenoid is held in the right hand such
+that the fingers indicate the direction of the current through the so-
+Jenoid, the thumb points to the north pole of the magnetic field de-
+veloped in the solenoid. The strength of the magnetic field around a
+solenoid depends on the following factors.
+
+(a) Magnitude of the current in the solenoid
+(b) Number of turns in the coil of the solenoid
+
+(e) A material placed inside the solenoid (core). Material such as a
+soft iron cylinder increases the strength of the magnetic field.
+
+Since the magnetic field created by the solenoid is temporary, it is
+used to make an electromagnet.
+
+Magnetic flux
+
+Figure 11.16, shows the magnetic lines of force around a current
+carrying a straight wire, a wire loop, a solenoid, a bar magnet,and
+
+Science and Technology, Grade 10 00

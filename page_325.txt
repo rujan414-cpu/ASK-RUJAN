@@ -1,0 +1,51 @@
+PAGE 325
+============================================================
+
+Substituting the corresponding values into the formula,
+
+500 220
+Ns 12
+Ng _ 12
+r ===
+0 50 22
+6x50 300
+Or N, = =—
+11 11
+
+N, = 27.27 = 28
+
+As mentioned in the question, the number of the secondary winding
+of the transformer is 28.
+
+Example 11.2
+
+The ratio of primary winding to secondary winding in a transformer is
+1:10. Calculate the secondary voltage obtained when the transformer
+is connected to a 220V power supply.
+
+Solution: As given in the question,
+Primary Voltage (Vp) = 220V
+Secondary Voltage Voltage (Vs) = to be calculated
+
+Primary turns (Np): Secondary turns (Ns) = 1:10
+Secondary turns (Ns) = to be calculated
+
+According to the transformer formula,
+
+Primary turns (N,) _ Primary voltage (V,)
+
+Secondary turns" (N,) Secondary voltage (V,)
+
+Substituting the corresponding values into the formula,
+
+220
+Pp
+N ~~ V
+Ss s
+1 — 220
+or ——— =
+10 V.
+s
+Vs = 2200 V
+
+Science and Technology, Grade 10 oa

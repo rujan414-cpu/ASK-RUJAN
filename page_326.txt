@@ -1,0 +1,19 @@
+PAGE 326
+============================================================
+
+The secondary voltage of the given transformer is 2200V.
+Project work
+
+(a) Prepare a model using locally
+available materials, insulated cop-
+per wire, etc. to demonstrate the
+working principle of an a.c. genera-
+tor/dynamo.
+
+(b) Prepare a model of a motor by con-
+necting coils, magnets, drycells, MiniScience.con
+pins, conducting wires, etc. as
+
+shown in the figure.
+
+sa Science and Technology, Grade 10

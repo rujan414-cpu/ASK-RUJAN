@@ -1,0 +1,43 @@
+PAGE 311
+============================================================
+
+current in it can be observed by drawing lines of magnetic force as
+shown in Figure 11.10.
+
+When magnetic compasses are placed around the wire in the above
+activity, the needles of the compass point in a certain direction and
+indicate a circular pattern as shown in Figure 11.11. This effect is
+caused by the magnetic field formed in a circular pattern around the
+wire when there is current in it. The direction of the magnetic field
+thus formed depends on the direction of the electric current flowing
+in the wire. As shown in Figure 11.12, if the electric current is go-
+ing upwards through the wire, the direction of the magnetic field is
+anticlockwise. On the contrary, if the current flows downwards from
+the wire, the direction of the magnetic field is clockwise. In the above
+activity as well, the direction of the magnetic field can also be deter-
+mined by observing the direction of the pointer of the compass needle.
+
+Magnetic fie lines
+(Anticlockwise)
+
+A Switch
+
+Figure 11.11 Magnetic field formed in a| Figure 11.12 Maxwell's right-hand thumb
+circular pattern around a straight wire| rule to show the direction of the mag-
+when it is carrying current netic field produced when current flows
+through a straight wire
+
+According to Maxwell's right-handthumb rule, if a current-carrying
+wire is gripped with the right hand such that the thumb indicates the
+direction of the current flow, as shown in Figure 11.12, then the fin-
+gers surrounding the wire indicate the direction of the magnetic field.
+
+The magnetic field around a solenoid
+Activity 11.3 Identification of the magnetic poles of a solenoid
+
+Take an insulated copper wire, magnetic compass, 9V battery, and
+battery connector as shown in Figure 11.13. Wrap the wire around a
+cylindrical object such as a fine pipe or a marker pen. Make several
+loops around itand then pull out the cylindrical object to form a
+
+Science and Technology, Grade 10 sor

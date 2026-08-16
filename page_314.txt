@@ -1,0 +1,41 @@
+PAGE 314
+============================================================
+
+theEarth. Depending on the source of the magnetic field, the shape
+of the lines of magnetic force varies. As shown in Figure 11.17, the
+number of magnetic lines of force on an object placed in a magnetic
+field depends on location.
+
+To obtain information about the effect of a magnet at different loca-
+tions within a magnetic field one can simply look at the number of
+magnetic lines of force on the surface of an object.The total number
+of magnetic lines of force passing through the surface area within
+the magnetic field represents the magnetic flux. Magnetic flux is a
+measure of the magnetic field passing through a surface area within
+a magnetic field. Magnetic flux is denoted by the Greek letter ® (Phi).
+Wb indicates the unit of magnetic flux, weber. The unit is named
+after the surname of the German n physicist Wilhelm Eduard Weber.
+
+Tx
+
+Figure 11.16 Various types of ssinipiaate fields and _—_— lines of force
+
+The density of magnetic lines of force
+indicates the magnitude of the magnetic
+flux.The area with denser magnetic lines
+of force means a strong magnetic flux
+whereas that of less density means a weak
+magnetic flux.
+
+On observing the density of magnetic lines Figure 11.17 Magnetic lines
+of force of the bar magnet in figure 11.17, of force of a bar magnet
+we can tell that the magnetic flux is stron-
+
+ger at the poles than that in the middle portion.
+
+Motor effect
+Activity 11.4
+
+Collect a powerful U-shaped magnet, a piece of flexible conducting
+
+Science and Technology, Grade 10

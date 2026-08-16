@@ -1,0 +1,25 @@
+PAGE 331
+============================================================
+
+(u) Draw the block diagrams of the step-up transformer and
+step-down transformer and write two uses of each.
+
+5. Solve the following mathematical problems:
+
+(a) Tocharge a laptop of 20V, acharger with 550 primary turns
+is connected to an a.c. source of 220V. Calculate the number
+of secondary windings of the charger. [Answer: 50]
+
+(b) The number of secondary windings of the coil of a trans-
+former used in a microwave oven is 10 times the number of
+windings in the primary coil. If it is connected to a source
+of 220V, what is the secondary voltage obtained from the
+transformer?
+
+(c) The ratio of the number of the primary winding to the
+number of secondary windings of a transformer is 22:1. If
+an adopter with that transformer is connected to an electric
+circuit having a potential difference of 220V, calculate the
+output voltage so obtained.
+
+Science and Technology, Grade 10 or

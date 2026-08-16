@@ -1,0 +1,36 @@
+PAGE 362
+============================================================
+
+Select the cut clip in the editing panel and click finish video at the
+end. Then click on export in the window that appears. In the end,
+choose a location on the computer to save the video clip. In Figure
+13.25, it is shown that the video file has been saved on the desktop.
+
+(b) Video joining
+
+Copy the clips cut and prepared by all your friends into a single folder.
+Select all the video clips to be joined and copy them to a single place
+on the computer. After that, open a video editing software, select the
+required file from the computer memory and add them to the project
+library. Select these videos and drag them to the editing panel. As
+shown in Figure 13.26, select all the files to be joined in the editing
+panel and click on finish video.
+
+Figure 13.26 a, b
+While clicking on the video, a location is to be chosen to save the file
+on the computer. For this, the video prepared by making clips can
+also be saved on the desktop, just like saving the file in Video Cutting.
+
+Editing can be done on both computers and smartphones. Smartphones
+have a separate editing application. To edit the video recorded from
+the camera, it can be opened from the mobile gallery. While clicking
+on the video, an edit icon as shown in Figure 13.26 will appear. On
+clicking on that icon, the cut and crop icon will be seen as shown
+in Figure 13.26 b. The video can be cut or cropped by clicking on it.
+
+If there is no video editing application on the phone, the required
+application can be downloaded from Play Store. The application
+file can be installed on the mobile by clicking on the downloaded
+location.
+
+358 Science and Technology, Grade 10

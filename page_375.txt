@@ -1,0 +1,36 @@
+PAGE 375
+============================================================
+
+in 2s subshell till 1s subshell is not completely filled. So, electrons
+should be filled serially in the order:
+
+1s, 2s2p, 3s 3p, 4s, 3d, 4p, 5s, 4d, 5p, 6s, 4f, 5d, 6p....
+Activity 14.4
+
+Study the table and complete it:
+
+Maximum number of 7 hex of
+shell |subshell | electrons accommodated anemic the. shell
+in subshell laa le ie
+K fis 2
+
+Study the prepared table and explain the relationship between
+electronic configuration based on shell and subshell.
+
+Classification of elements in modern periodic table
+
+Study the prepared table and explain the relationship between
+electronic configuration based on shell and subshell.
+
+The elements are classified in the modern periodic table on the
+basis of their properties.
+
+Activity 14.5
+
+1. Write the electronic configuration of hydrogen, alkali metal, and
+halogen.
+
+2. Write the similarities between the electronic configurations of
+hydrogen, halogen, and alkali metals
+
+Science and Technology, Grade 10 an

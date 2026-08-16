@@ -1,0 +1,57 @@
+PAGE 346
+============================================================
+
+Table 1 Table 2
+Number of Possible ; Binary Switches Binary Switches
+binary digit | combination | number number
+al oO 1 0000 0011
+2 00 01 10 0001 0100
+it
+000 001
+010 011
+3 100 101 0010 1010
+110 111
+
+The digital signals shown in Table 2 indicate different data. This
+type of data is stored in the computer's memory. In the computer,
+memory capacity is determined according to the needs of the user. It
+can store a large amount of data permanently. Users can easily store
+data in different formats such as text, graphics, audio and video.
+
+The storage capacity of computer memory is measured in the units like
+Bits, Bytes, Kilobytes (KB), Megabyte (MB), Gigabyte (GB), Terabyte
+(TB), etc. The relationship between these units is presented in the
+
+table below:
+1 Bit (Binary Binary 0 a 1 MegaBytes
+Digit) orl 1024 kiloBytes (MB)
+
+4 Bits
+
+1 Nibble 1024 MegaBytes
+
+1 GigaBytes (GB)
+
+8 Bits or 2 Nibble
+
+1 Byte 1024 GigaBytes
+
+1 TeraBytes (TB)
+
+1024 Bytes
+
+1 kiloBytes
+(kB)
+
+Let us know
+
+Bit : A bit is a smallest form of data on a computer. It is short
+form of binary digit and it can be either 0 or 1.
+
+Byte: A group of eight bits which works as a single unit of
+data in computer.
+
+=
+
+Science and Technology, Grade 10
+

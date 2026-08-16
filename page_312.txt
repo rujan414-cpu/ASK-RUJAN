@@ -1,0 +1,48 @@
+PAGE 312
+============================================================
+
+spring-shaped coil. Remove
+the layer of insulation at both
+ends of the wire by scratching
+it with a knife or by heating
+it in a burning candle. Place
+a magnetic compass on one
+side of the coil. Now, connect
+the two ends to the battery.
+When electric current flows
+in the coil, observe which pole of the needle of the magnetic compass
+is attracted by the coil, and fill in the table shown below. Now swap
+the poles of the battery connected to the coil. Observe which pole of
+
+figure 11.13
+
+the needle of the compass is attracted this time, and fill in the table.
+
+Before changing the poles of the After changing the poles of the
+batteries connected to the coils battery connected to the coil
+
+When the mag- | By placing the {When the mag- | By placing the
+netic compass magnetic com- | netic compass magnetic com-
+is placed on the | pass on the left- |is placed on the | pass on the left-
+right-handside | handside of the |right-handside | handside of the
+of the coil, the coil of the coil, the coil
+
+attracted mag- attracted mag-
+
+netic pole netic pole
+
+attracted when the magnetic com-
+pass is on the right-hand side, the
+just opposite pole, i.e., .........
+Pole must have been created in the
+
+coil,
+
+A solenoid is a cylindrical coil made of insulated wire as shown in
+Figure 11.14. Generally, a solenoid is made by wrapping insulated
+wire around a cylindrical object. When the insulation of the two ends
+of the wire used to make the solenoid is removed and connected to a
+battery, current flows through the wire and a magnetic field develops
+in and around the solenoid. The magnetic field outside the solenoid is
+
+08 Science and Technology, Grade 10

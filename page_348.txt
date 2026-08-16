@@ -1,0 +1,40 @@
+PAGE 348
+============================================================
+
+For example, a radio broadcast using medium waves and the short
+wave is an analogue signal transmission. In this type of transmission,
+external effects like the mixing of other waves, atmospheric effects,
+etc. can make the transmitted signal unclear. Likewise. illegal
+recording of a telephone conversation that is transmitted in the form
+of analog signals is also possible. To avoid the problem of signal
+distortion and for signal protection analog signals are digitalized
+using various technologies. Digitalized signals make the given
+signals more clear and more distinct without changing the data. Ina
+digital system, data can be stored, transmitted and recreated using a
+group of 0 and 1. In this system, data processing work is easier and
+the possibility of error in processing is very low.
+
+Components of Digital Communication System
+The components of digital communication are mentioned below in
+the block diagrams:
+
+‘Transmission
+4
+
+peas iP
+S = 7
+AwR HS
+
+Figure 13.8 Digital Signal Transmission Process and Block Picture
+(a) Source
+
+Analogue signals, sound waves, for example. can be taken as a
+source for signal transmission.
+
+(b) Input Transducer
+
+The input transducer converts the received signals into an
+electrical signal. For example, a microphone converts sound into
+electricity.
+
+os Science and Technology, Grade 10

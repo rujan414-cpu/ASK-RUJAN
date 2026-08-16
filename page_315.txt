@@ -1,0 +1,33 @@
+PAGE 315
+============================================================
+
+wire, 6V d.c. supply or a 9V battery, a thread, etc. As shown in the
+figure, tie the conducting wire to a thread and hang it so that it can
+move freely between the two poles of the magnet. Connect the two
+ends of the wire to the battery and a switch.
+
+Turn the switch on for a moment and observe the wire. Did the wire
+move in any direction? Present your observations in the table below.
+
+The direction of wire movement | The direction of wire movement af-
+before changing the poles of ter changing the poles of the battery
+
+The production of motion in the wire placed in a magnetic field when
+current is passed through it is called the motor effect. Fans, water
+pumps, mixer grinders, etc. work because of the motor effect.
+
+In Figure 11.19, the direction of the magnetic field of a bar magnet
+and the circular magnetic field developed around a wire when electric
+current flows in it are shown. The force of attraction and repulsion
+between the two magnetic fields produces motion in the wire.
+
++
+
+nent magnet
+A coil of a motor is formed by winding an insulated wire around a
+core. The coil is placed between two opposite magnetic poles as shown
+in Figure 11.17. Then a.c. is passed through the coil. When current is
+passed through the coil, a magnetic field develops around it. Because
+of the alternating current, the direction of the magnetic field in the coil
+
+Science and Technology, Grade 10

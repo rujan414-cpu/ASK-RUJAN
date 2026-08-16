@@ -1,0 +1,41 @@
+PAGE 320
+============================================================
+
+In Figure 11.26, a rectangular coil of conducting wire is placed in the
+magnetic field of ana.c. generator. As the coil rotates, it cuts the mag-
+netic field, and the magnetic flux associated with the coil changes.
+As a result, an electromotive force (e.m.f.) is produced in the coil,
+and its magnitude is directly proportional to the rate of change of
+magnetic flux linkage.
+
+‘Maximum e.m.f. induced when coll is
+horizontal to magnetic field. V= + E,
+
+Minimum e.m.f, induced when colt is
+horizontal to magnetic field. V= 0 V
+
+Figure: 11.27: The coil of the a.c.generator | Figure: 11.28: The voltage induced in the
+coil of the a.c. generator
+
+Transformer
+
+Figure 11.29 shows the speci-
+fied output voltage rating
+(5.3V) of a mobile charger.
+We put the mobile charger in
+a plug connected to a circuit
+with an alternating current
+(AC) of 220V. Here, the device
+installed inside the charger
+reduces the 220 a.c. to 5.3V a.c. Figure 11.29 Voltage rating indicated ona
+which is required to charge the al
+
+mobile.
+
+Similarly, about 2100V is required to generate microwaves in a micro-
+wave oven. For this, the transformer installed inside the oven converts
+220V a.c. to 2100V a.c. In this way, the device used to increase and
+decrease the voltage of alternating current is called a transformer.
+
+ae Science and Technology, Grade 10
+

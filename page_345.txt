@@ -1,0 +1,39 @@
+PAGE 345
+============================================================
+
+Figure 13.6 On-off signal
+
+The physical quantity that changes with time is a signal. In activity
+13.6, digital signals are created by turning the switch on and off. A
+special device, such as a transistor, is installed in electronic devices
+to create this type of signal. In the above activity, if the switch was
+not turned off and a graph of potential difference across two ends of
+the lightbulb against time were drawn, the voltage would have been
+seen increasing and decreasing continuously as shown in Figure 13.7.
+This is an analogue signal.
+
+Positive AC Slope Peak, AC Voltage ,
+
+0 UNE @ -
+
+Nespe tow spr
+
+Neopet
+
+' t -5V
+I t I Negative Valley
+
+|
+mO® we oo wD wd AC voltage (bottom)
+
+Fig. 13.7 Figure of the bulb showing fluctuation of voltage and related analogue signal
+
+The digital signal is represented by only two digits (0, 1) and is used
+in the binary system. The combination of these two binary digits
+represents the digital signals. For example, as shown in Table 1, a
+binary number is a combination of only two digits, 0 or 1. There
+are four possible combinations of two binary digits. There are eight
+
+possible combinations of the three binary digits.
+
+Science and Technology, Grade 10 at

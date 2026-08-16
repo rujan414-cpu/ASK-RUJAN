@@ -1,0 +1,42 @@
+PAGE 307
+============================================================
+
+(1
+
+Direct current and alternating current
+
+Positive
+Terminal
+
+Negative
+Terminal}
+
+Figure 11.1 Direct current obtained from Figure11.2 Direct current obtained from
+the cell the solar panel
+
+Figure 11.1 shows two poles of a dry cell. It also shows that the elec-
+tric charges in the conducting wire are flowing in a certain direction
+(from the negative terminal of the cell to its positive terminal) when
+the cell is connected to the electric circuit and the light is turned on.
+
+Similarly, Figure 11.2 shows the flow of current through a conducting
+wire in a particular direction when abubb is lit by the electric current
+from a solar panel.In this way, the current which flows in a particular
+direction is called the direct current (d.c.). Dry Cells, photocells (Solar
+panels), batteries, etc. are the sources of d.c.
+
+Figure 11.4 Direction of current pro-
+
+duced by rotating magnets inside a
+Figure 11.3 Sources of alternating current dynamo
+
+A glowing bulb run by the electricity produced by a dynamo is shown in
+Figure 11.3. In the above picture, the negative terminal and the positive
+terminal are not separated as in the dry cell and solar panel. In Figure
+11.4, the direction of the current generated when the magnet is rotated
+between the coils in the dynamo is presented in a simplified manner.
+
+In the same figure, the blue arrow shows that the charge on the
+conducting wire moves forward, and the red arrow shows that after a
+
+Science and Technology, Grade 10

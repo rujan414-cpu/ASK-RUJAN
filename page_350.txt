@@ -1,0 +1,68 @@
+PAGE 350
+============================================================
+
+Difference between analogue communication and digital
+
+communication
+
+Analogue communication
+
+Analog Communication System
+
+In analogue communication,
+data are transmitted between
+transmitter and receiver with
+the help of analogue signals.
+
+Digital Communication System
+The analogue signals are
+digitalized, transmitted, and then
+transformed again into analogue
+signals as output.
+
+Signals through this transmission
+are highly affected by external
+
+Signals through this transmission
+are less affected by external
+
+influences. influences.
+
+Coding is not possible. Coding is possible.
+
+It needs small bandwidth. It needs a large bandwidth.
+
+Baseband transmission and broadband transmission
+
+Baseband transmission means
+
+the transmission of digital (~*~ ©
+signals through channels without
+
+conversion of digital signals
+into analogue signals. In this
+transmission, the process of
+sending and receiving the signals
+is done simultaneously in the
+same channel. It is done for short-
+distance transmission. For example,
+sending data from one computer to
+another one by connecting them with cables is baseband transmission.
+
+*
+
+Receiver
+
+Digital Data
+
+Sender
+
+Digital Signal
+
+Digital Data
+7s
+
+Figure 13.9 Baseband Broadcasting
+Channel
+
+Science and Technology, Grade 10

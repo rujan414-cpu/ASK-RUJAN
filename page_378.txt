@@ -1,0 +1,48 @@
+PAGE 378
+============================================================
+
+A. Valency
+
+The outermost shell of an atom is called its valence shell. The electron
+present in the valence shell of an atom is called valence electron. There
+is change in the electronic configuration of elements as we move from
+left to right in a period. Although the number of shells is the same
+in a period, the number of valence electrons goes on increasing due
+to which the valency of elements changes even in the same period.
+So the valencies of elements in a period as we move from group IA
+to VIIA and group 0, are 1, 2, 3, 4, 3, 2, 1, and 0 respectively.
+
+The valency of an element is determined by the number of valence
+electrons. All the elements of a group have the same valency. The
+valency of elements of group IA and VIIA is 1 and that of elements
+of group IIA and VIA is 2. Similarly, the elements of group IIIA and
+VA have their valency 3 generally.
+
+Activity 14.7
+
+Write the elements of group IA and 3rd period in vertical column and
+horizontal row respectively as in the periodic table and write their
+electronic configuration. Write similarities and differences in their
+properties on the basis of their number of shells and valencies.
+
+What changes are seen in the valencies as we move from top to bottom
+of a group and left to right of a period in the periodic table? Draw a
+conclusion.
+
+A. Atomic size
+
+The atomic size of elements decreases from left to right of a period.
+The number of protons and electrons increases with the increase in
+atomic number while the number of shells remains the same. So, the
+increased electrons are filled in the same shell. Similarly, due to the
+increase in the number of protons, the positive charge of the nucleus
+also increases and the electrons in the shell are attracted with more
+force. As a result, the atom gets contracted. So, the size of atoms is
+decreased from group1 to 18 in a period.
+
+Atomic size is determined by the distance of the valence shell from
+the nucleus of that atom. For example, Lithium atoms have K and L
+shells whereas sodium atoms have K, L, and M shells. So, the size of
+the sodium atom is more than the size of the Lithium atom in group IA.
+
+ce Science and Technology, Grade 10

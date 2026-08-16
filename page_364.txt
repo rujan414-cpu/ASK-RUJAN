@@ -1,0 +1,56 @@
+PAGE 364
+============================================================
+
+Exercise
+
+1.
+
+S
+
+Choose the correct option for the following questions.
+
+(a)
+
+(c)
+
+(d)
+
+(e)
+
+Which of the following represents an analogue signal?
+(i) infrared ray thermometer
+
+(ii) computer
+
+(iii) smartwatch
+
+(iv) medium wave radio
+
+beeeee indicates 1byte memory.
+(i) 0000 (ii) 00000000
+(iii) 100000 (iv) 000001
+
+Which one of the following is the group of variables in the
+correct order among the steps of digital signal transmission?
+
+(i) source, input transducer, decoder, modulator, channel,
+demodulator,encoder, output transducer
+
+(ii) source, input transducer, encoder, demodulator,
+channel, modulator decoder, output transducer
+
+(iii) source, input transducer, encoder, modulator, channel,
+demodulator decoder, output transducer
+
+(iv) source, encoder, input transducer, modulator, channel,
+decoder, demodulator, input transducer
+
+Which of the following is an audio file format?
+(i) SVI (ii) MP4
+(iii) MP3 (iv) 3GP
+
+What does the behavior of posting information about new
+scientific discoveries from time to time on social networks
+indicate?
+
+Science and Technology, Grade 10

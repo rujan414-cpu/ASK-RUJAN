@@ -1,0 +1,44 @@
+PAGE 323
+============================================================
+
+This process is called core lamination. Laminating the core of the
+transformer prevents excessive heating of the core caused by the cur-
+rent induced in the core due to the change in the magnetic flux linkage.
+
+Among the two coils of the transformer, the coil into which alternat-
+ing current is fed (input coiljis called the primary coil and the coil in
+which alternating current is induced (output coil) is called the sec-
+ondary coil. The number of turns of wire wound in the primary coil
+is called primary turns (Np) and the number of turns of wire wound
+in the secondary coil is called secondary turns (Ns). To change the
+voltage of alternating current in the transformer, the number of pri-
+mary windings and secondary windings are kept different. The AC
+voltage sent to the primary coil of the transformer is called the input
+voltage or primary voltage (Vp) and the AC voltage received from the
+secondary coil is called the output voltage or secondary voltage (Vs).
+
+Types of transformer
+
+Transformer increases or decreases the input voltage depending on
+the number of turns in the coils in the transformer. For the block dia-
+gram of the transformer shown in Fig. 11.35, the ratio of the number
+of primary windings to the number of secondary windings is 2:1. If
+the input voltage in the said transformer is 220V, then the output volt-
+age is exactly half of the input voltage i.e. 110V. A transformer with
+fewer turns in the secondary coil than in the primary coil reduces
+the voltage. A transformer that reduces the voltage of an alternating
+current is called a step-down transformer.
+
+secondary iron core
+
+coil
+
+Figure 11.35: Step down transformer block | Figure 11.36: Step up transformer block
+diagram
+
+For the block diagram of the transformer shown in Fig. 11.36, the
+ratio of the number of primary windings to the number of secondary
+windings is 1:2. If the input voltage in the said transformer is 110V,
+then the output voltage is exactly twice the input voltage, i.e., “oe
+
+Science and Technology, Grade 10

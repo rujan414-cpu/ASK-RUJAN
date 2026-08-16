@@ -1,0 +1,44 @@
+PAGE 338
+============================================================
+
+Let us know
+
+According to Newton's universal law of gravitation, every mass
+exerts a gravitational force on every other mass and they pull
+each other towards themselves. The magnitude of that force is
+directly proportional to the product of their masses and inversely
+proportional to the square of the distance between their centres.
+Hence, it is obvious that the net gravitational force on any
+celestial body depends on the total mass in the universe and the
+volume of the universe. Since the ratio of mass to volume is called
+density, the net magnitude of the gravitational force depends on
+the average density of the universe.The average density of the
+universe required to stop the expanding universe, which could
+be after billions of years, is called the critical density.
+
+(a) Open universe
+
+If the celestial bodies retain some velocity when the gravity becomes
+zero, they will then continue to move away from each other forever
+and the size of the universe will continue to increase. This situation is
+considered an open universe. If the average density of the universe is
+less than the critical density, then gravity cannot hold the expanding
+process and the universe which is continuously expanding now will
+continue to expand in the future too.
+
+(b) Flat universe
+
+If the gravity and the velocity of the celestial bodies become zero at the
+same time, the celestial bodies remain in the same position after that
+and the universe remains stable. Such a state is called a flat universe. If
+the average density of the universe is equal to the critical density, then
+the expansion rate of the continuously expanding universe gradually
+decreases and finally stops. Till then, there will be an infinite distance
+between each celestial body because of this they will not be affected
+by mutual gravitational force. Such universe is called flat universe.
+
+(c) Closed universe
+
+If the gravitational effect remains nonzero when the speed of the
+
+at Science and Technology, Grade 10

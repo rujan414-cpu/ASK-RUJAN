@@ -1,0 +1,44 @@
+PAGE 368
+============================================================
+
+Russian scientist Dmitri Mendeleev had created
+a periodic table for the classification of elements
+by the scientific study of elements on the basis
+of their atomic weight. He had formulated a
+periodic law for the classification of elements
+on the basis of his study. This law is known as
+Mendeleev’s Periodic law. It states that “The
+physical and chemical properties of elements
+are the periodic functions of their atomic
+weight.”
+
+It means that when the elements are arranged according to the
+increasing order of their atomic weights then their physical and
+chemical properties recur periodically. Elements with similar
+properties lie in the same vertical column and the elements with
+different properties in between them lie in a horizontal row. In this
+way a classification table for elements is made which is known as
+periodic table. The vertical columns of a periodic table are called
+groups and the horizontal rows are called periods.
+
+Modern Periodic Table
+
+Mendeleev had considered atomic weight of elements as their
+fundamental property. Many complexities had been seen in the
+periodic table when the elements were classified on the basis of
+atomic weight. Some elements have more than one atomic weight.
+for example: C-12, C-13, and C-14 are the three forms or isotopes
+of carbon. Their atomic weights are 12, 13 and 14 respectively.
+The forms of the same element having different atomic weights are
+called isotopes. The number of protons in an atom is always constant
+whereas the number of neutrons may differ thus forming the isotopes.
+Mendeleev’s periodic table was made on the basis of the atomic
+weight so separate spaces should be given for the isotopes of the same
+elements. However. he had allocated only one space for an element
+and had not given separate spaces for their isotopes. Similarly, his
+periodic law could not explain some other properties of the elements.
+After the detailed study, scientists went on to prove that atomic weight
+is not the fundamental properties of elements and kept searching for
+a new law for the periodic table.
+
+364 Science and Technology, Grade 10

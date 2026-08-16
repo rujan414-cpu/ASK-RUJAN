@@ -1,0 +1,45 @@
+PAGE 349
+============================================================
+
+(c) Encoder
+
+The encoder compresses the data to a minimum number of bits.
+This process will help in the effective utilization of the available
+frequency range i.e., Bandwidth.
+
+(d) Modulator
+
+The modulator modulates the data to be transmitted by the
+carrier. These signals are directed to the medium, i.e., channel
+for transmission, after converting them into analogue signals.
+The analogue signals are generated from a digital sequence for
+transmission through channels or mediums.
+
+(e) Channel
+
+Channel or medium provides the way to the analogue signals up to
+the receiver after coming out from the transmitter.
+
+(f) Demodulator
+
+This is the first step on the side of the receiver. The signal received
+in the receiver is demodulated.
+
+(g) Decoder
+
+The received demodulated signals are re-digitized by the decoder.
+Thus removes the possible errors in the final output signals.
+
+(h) Output transducer
+
+It converts the decoded signals into the original physical signal sent
+through the source. It changes the electrical signals into physical
+output. For example, a loudspeaker converts current to sound.
+
+(i) Output Signal
+
+This is the result of the overall signal transmission process. For
+example, if the sound waves from a source are sent for transmission,
+the output is obtained as sound waves.
+
+Science and Technology, Grade 10 os

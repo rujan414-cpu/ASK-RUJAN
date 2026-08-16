@@ -1,0 +1,46 @@
+PAGE 322
+============================================================
+
+220V) at the load transmission center (substation). Transformers
+are used to change the voltage as required in powerhouses and load
+transmission centers.
+
+The electricity produced by various power plants in our country can
+be transmitted within or outside the country through high-voltage
+transmission lines. For example, the load transmission station at
+Dhunsha transmits electricity at 400KV.
+
+Construction and working principle of transformer
+
+Although there are some differences in the structure of transformers
+used in electrical appliances and transformers used for the trans-
+mission and distribution of electricity produced by power plants,
+theirworking principle is the same. They contain two coils that are
+made by wrapping thin insulated copper wire. As shown in Figure
+11.33, a transformer used in electrical equipment consists of two
+coils. These coils are not connected. When an alternating current is
+sent through a coil, a magnetic field is created around it that changes
+periodically. As a result, when the magnetic intensity linked to the
+nearby coil changes, an emf is induced in the coil. The output current
+is then drawn from the two ends of this coil. Inducing emf in a coil
+by changing the current in the adjacent coil is the principle of mutual
+induction. The transformer is based on the principle of mutual induc-
+tion. Since there is no mutual induction when direct current flows
+in the coil instead of alternating current, the voltage of d.c. cannot be
+changed by using a transformer.
+
+1 & E Sections inverted
+
+on alternate layers
+ot read
+Each individual
+lamina insulated
+with wan at ‘or
+
+Figure 11.33: Transformer core lamination Figure 11.34: Mutual induction
+
+To keep the coils apart in a transformer, the core is constructed by
+tying several E, U, and shaped iron sheets coated with non-conductive
+paint into a single block with the help of nutsand bolts.
+
+oe Science and Technology, Grade 10

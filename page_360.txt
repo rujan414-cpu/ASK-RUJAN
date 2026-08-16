@@ -1,0 +1,39 @@
+PAGE 360
+============================================================
+
+In this activity, the video file extension is also added to the name
+of the recorded video file, such as class 10 ICT. MP4 file is a video
+file. Similarly, 3GP, SVI, MOV, etc. are also video file formats. If the
+audio-visual material recorded here is unnecessarily recorded at any
+point, the segment can be cut out from the video or more than two
+video file clips can be combined to form a single video file. This kind
+of work comes under video editing.
+
+Video editing
+
+A mobile application or software is needed to edit the video recorded
+by the camera. For example, video can be edited by using computer
+software like Adobe Premiere Pro and Filmora. Similarly, by using the
+Windows video editing software in the system software of a computer,
+a video can also be edited.
+
+Activity 13.6 Video Editing
+
+Copy the video recorded in activity 13.5 to the computer for editing.
+Remove the unnecessary section in the video. Similarly, combine the
+fragmented clips to create a complete file. For this, follow the steps
+given below:
+
+(a) Video cutting
+Cut the recorded video and prepare a short clip. Follow the following
+steps for this purpose.
+
+First of all, launch the Video Editor by clicking on the search bar
+as shown in Figure 13.22. Click on New video project and type the
+project name. For example, type Class 10 ICT and click on OK.
+
+‘Welcome back to Video Editor!
+
+Figure 13.22
+
+356, Science and Technology, Grade 10

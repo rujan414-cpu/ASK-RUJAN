@@ -1,0 +1,36 @@
+PAGE 343
+============================================================
+
+Information and
+Communication Technology
+
+=
+
+teed
+
+Fig. 13.1 TV with
+
+an antenna Figure 13.2 TV connected with a cable | Figure 13.3 Dish TV
+
+Antenna-powered television shown in Figure 13.1 is now replaced
+with Internet TV and Dish TV shown in Figure 13.2. Before Dish TV
+came into existence, cable TV like the one shown in Figure 13.2 was
+very popular. Among all the three types of TV mentioned above, the
+antenna-connected TV has the poorest audio-visual quality. In this
+type of transmission, the waves emitted from the transmitter lose
+energy to the surrounding as they pass through the air before reaching
+the user's home. Hence, they generate less p.d. on the antenna and
+the electrical current generated in the wire connected to the antenna
+also weakens. The same current acts as the modulated signal for
+television broadcasting.
+
+The signal travelling through the wires similar to the one in Figure
+13.4 gets converted to digital signals by the internal circuits of the
+television, and the audio-visual content is transmitted using these
+digital signals. In cable TV too, the signals travelling in the wire are
+the modulated signals. If a computer is to be used as a television by
+connecting the cable from the computer, it is necessary to have a
+cable modem. Dish TV, on the other hand, broadcasts digital signals
+received from the satellite.
+
+Science and Technology, Grade 10 9

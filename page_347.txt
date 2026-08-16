@@ -1,0 +1,55 @@
+PAGE 347
+============================================================
+
+Difference between the digital signal and the analogue signal
+
+Analogue signal is a signal that
+indicates the constantly changing
+physical quantity.
+
+The digital signal is the signal
+that represents the physical
+quantity that is changing in
+segments.
+
+Analogue signal constantly
+changes with time.
+
+Analogue signal is represented
+by a sine wave. For example; the
+signal that represents -5V to +5V
+is presented here.
+
+The digital signal changes by any
+two fixed values continuously
+along with time.
+
+The digital signal is indicated by
+a square wave. For example; the
+signal that represents OV or 5V is
+presented here.
+
+Analogue to digital converter,
+ADC changes analogue signal
+into a digital signal. For example:
+temperature sensor.
+
+Digital to analogue converter,
+DAC changes the digital signal
+into analogue signal. For example;
+playing music on the computer.
+
+Signal transmission
+
+In our daily life, we communicate with sound as a medium. It is an
+analog signal. For example, in landline phones, analogue signal of
+communication is sent through the wire for effective transmission.
+In this way, the process of signal transformation through a medium
+or channel is called signal transmission. Similarly, communication
+can also be done by the transmission of signals created in the
+form of potential differences, electromagnetic waves, etc. In the
+traditional method of communication, analogue signals are used for
+
+communication.
+
+Science and Technology, Grade 10

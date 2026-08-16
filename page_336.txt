@@ -1,0 +1,51 @@
+PAGE 336
+============================================================
+
+Activity 12.3
+
+Take a balloon. Blow a little bit of air into it and close its mouth
+by pressing with your fingers. Mark a few dots of different colours
+using sign pens on the surface of the balloon. Now inflate the balloon
+gradually and observe the distance between the dots. Notice that,
+as the size of the balloon changes (increases/decreases) so does the
+distance between any two dots.
+
+Hubble's study ;
+
+It has been discovered that the
+galaxies in space are moving away
+from each other. In 1929 BC, the
+American astronomer Edwin
+Hubble tried to calculate the
+velocities of various galaxies using ay
+the 100-inch Hooker telescope -»»+—“s
+
+on Mount Wilson. During his SEE ee Te ear oe ER am
+research, he discovered that every Figure 12.4 Hubble’s relation between
+galaxy is moving away from other velocity and distance
+
+galaxies. His estimation showed
+
+that the farther the celestial bodies are from the earth the smaller they
+appear.And they also have a greater velocity.
+
+necessional Velocity (kms)
+8
+
+He then plotted the velocities of the constellations against their
+distances on a graph and explained the relationship between the
+velocities of the constellations and their distances. This relation is
+represented by the equation v = Hd, and is known as Hubble’s law.
+Here, vrepresents the velocity with which galaxies are moving away
+from each other, d represents the distance between them and H is
+Hubble's constant. The value of this constant is 73km/s/Mpc [Kilometer
+per second per Mega parsec]. This means, if any two galaxies are at
+a distance of one mega parsec,they are separating away from each
+other with a velocity of 73 km/s.
+
+If the distance between any two galaxies is expressed in parsec and
+then multiplied by Hubble’s constant, the velocity with which these
+galaxies are moving away from each other is obtained. Based on
+the such calculation,we came to know the fact that the galaxies are
+
+os Science and Technology, Grade 10

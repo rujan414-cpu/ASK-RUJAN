@@ -1,0 +1,40 @@
+PAGE 308
+============================================================
+
+while the same charge flows in the opposite direction. The direction
+of a current of this type changes at a certain time interval. In the same
+way, the magnitude of the current also gradually changes from the
+minimum value to the maximum value. Thus, the current in which
+magnitude and polarity change continuously at a fixed interval of
+time is called alternating current (a.c.). Dynamo, a.c. generator, etc.
+are sources of a.c.
+
+Current time graph
+
+The fact that the magnitude of the current remains constant with re-
+spect to time in direct current can be demonstrated in a time current
+graph as shown in Figure 11.5. Similarly, the variation of magnitude
+and direction of alternating current with respect to time can be pre-
+sented as shown in Figure 11.6.
+
+Figure Alternating current
+
+Figure 11.5 Time—current graph of direct | Figure 11.6 Time-current graph of alter-
+nating current
+
+In the current time graph of direct current, it is shown that the magni-
+tude of the current is constant at 4A even though the time is increas-
+ing. Similarly, in the current time graph of the alternating current,
+it is shown that themagnitudeof the current first increases from zero
+to 5A and then decreases to zero. After that, the value of the current
+increases again but in exactly the opposite direction (i.e. goes to -5A)
+and then again decreases to zero. Thus a cycle is completed. For a.c.,
+the number of cycles completed in one second is called frequency.
+If one cycle of a.c. is completed in one second, the frequency of that
+a.c. is 1 hertz (1 Hz). The frequency of a.c. used in our country is 50
+HZ and the average voltage ranges from 220 V to 240 V. This means
+that the direction of a.c. used in our country changes 100 times ev-
+ery second. Since the direction of the current in d.c. does not change
+with time, the frequency is zero.
+
+304 Science and Technology, Grade 10

@@ -1,0 +1,42 @@
+PAGE 344
+============================================================
+
+In such broadcasts, digital signals must be converted back to analogue
+signals to regenerate signals that are visible to the eyes and audible
+to the ears. Thus, for the signal broadcasting, it is necessary to have
+a device that converts the analogue signals into digital signals and
+again the digital signals into analogue signals as shown in Figure 13.5.
+
+cay Seenne Sound Waves Electrical Voltage Binary Data Electrical Voltage Sound Waves
+
+transistor ON
+\eansistor OFF
+
+‘Analogue Digital Analogue
+
+Fig. 13.4 Conversion of signals from | Figure 13.5 Conversion of analogue into
+the antenna into digital signals digital and again digital into analogue signals
+
+With the ease of transmission of digital signals, its uses have become
+more extensive in the field of information and communication. With
+this, a new terminology, ‘Digital Native’ (Digital Citizen), has been
+coined due to active participation and the changed behavior of people
+on social media. Courtesy and other positive behavior while doing
+online conversation improves people’s online reputation. While online
+facilities can create many positive impacts, their improper use can
+badly impact our physical, mental, and emotional aspects.
+
+Digital signal
+Activity 13.1: Observation of Digital Signal Graph
+
+As shown in Fig. 13.6, construct an electric circuit by connecting
+a 5 V alternating current source, a bulb, a switch, and conducting
+wire. If the potential difference between the two ends of the bulb is
+5 V, while turning the switch on, then this voltage is considered as a
+high signal (1). When the switch is turned off, the potential difference
+between the two ends of the bulb becomes zero. This is considered
+as a low signal (0). Note the high signals and low signals generated in
+the circuit as time passes and record them in a table and draw graphs
+similar to the one shown in Figure 13.6.
+
+ao Science and Technology, Grade 10

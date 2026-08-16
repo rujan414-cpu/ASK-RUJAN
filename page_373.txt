@@ -1,0 +1,48 @@
+PAGE 373
+============================================================
+
+electronic configuration of elements based on shells, scientists
+developed the electronic configuration of elements based on the
+subshells through their research. There are 1, 2, 3 and 4 subshells in
+K, L, Mand N shells respectively. The subshell in K shell is denoted
+as 1s. Similarly, 2s and 2p are the subshells of L shell, 3s, 3p, and
+3d are the subshells of M shell. 4s, 4p, 4d, and 4f are the subshells
+of N shell.
+
+s. p, d, and f subshells can accommodate a maximum of 2, 6, 10, and
+14 electrons respectively.
+
+Example: 14.4 a
+
+Subshell | Shell | Subshell | Total electrons in shell
+1 K 1s? 2
+
+2 L 2s’, 2p® 8
+
+a M 2s’, 2p®, 3d" 18
+
+4 N 4s’, 4p®, 4d?°, 4f | 32
+
+Table 14.4 b electronic configuration of elements on the basis of their
+subshell
+
+‘Atomic [Electronic configuration
+
+Num Elements | Symbol | based on shells | based on sub shells
+ber
+
+i Hydrogen | !! 1 ‘1s?
+
+2 Helium He 2 | 1s?
+
+3 Lithium | Li 2)1 1s, 2s"
+
+4 Berylium | Be 2 [2 1s’, 2s?
+
+5 Boron B 2/13 1s4, 2s*2pt
+6 Carbon c 2|4 1s’, 2s*2p?
+7 Nytrogen | N OME ts*,.28°2p"
+8 Oxygen | 0 2/6 1s?, 2s*2p*
+9 Fluorien | 2/7 ‘1s’, 2s*2p°
+
+Science and Technology, Grade 10 300

@@ -1,0 +1,46 @@
+PAGE 352
+============================================================
+
+Advantages of digital transmission
+The main advantages of digital are as follows:
+
+a. Deterioration and noise effects are very less in digital signals.
+The circuits used for digital transmission are much more reliable.
+
+c. It is cheap and easy to design digital circuits than the analogue
+circuit,
+
+d. There is less possibility of signal overlap and cross-talk in digital
+transmission.
+
+e. The properties of digital signals do not change in normal conditions.
+
+f. The security of information can be maintained in digital
+transmission by encoding and compression.
+
+g. Since codes for finding and correcting errors are used, there is
+less chance of error during transmission.
+
+Influence of digital technology on the development of
+
+information and technology
+
+The development of digital technology has increased the quality of
+
+information and technology along with its prevalence in use. The
+
+modernization of telecommunication, internet facilities, digital
+
+media, digital TV, etc. has become possible due to the development
+
+of digital technology.
+
+a. Digital telecommunication
+
+Fast communication has become possible due to digital
+
+communication. Similarly, through a single channel or bandwidth
+
+many telephone calls can be transmitted.
+
+Science and Technology, Grade 10

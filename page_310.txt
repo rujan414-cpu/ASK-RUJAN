@@ -1,0 +1,38 @@
+PAGE 310
+============================================================
+
+there is electric current init, is the magnetic effect of current. The
+direction of the magnetic field thus formed depends on the direction
+of the electric current in the wire.
+
+Magnetic field around a current carrying straight wire
+Activity 11.2
+
+(a) Take a square piece of cardboard. Pierce it with a straight wire
+and connect it to an electric circuit and connect the wire to the
+circuit as shown in Figure 11.9. Place plotting compasseson the
+cardboard and position them around the wire as shown in the
+figure. Turn on the switch to pass the current in the wire and
+then observe the needles of the compasses. Observe whether
+the needles of the magnetic compass around the wire rotate in
+a certain direction when the switch is turned on. Because there
+is no proper load in the circuit, the switch should be turned off
+immediately. Otherwise, the wire heats up if the switch is left
+on for a long time. Swap the poles of the cell and turn the switch
+on again and observe if the direction of the needles is opposite
+to the previous one.
+
+(b) Pierce the cardboard with a straight wire as mentioned above and
+connect it to an electric circuit. Sprinkle very fine iron powder
+over the cardboard as shown in Figure 11.10. Turn the circuit
+switch on and then tap the cardboard gently with your fingers.
+Observe whether the iron dust settles in a circular geometric
+pattern or not.
+
+Figure 11.9 The circular magnetic field | Figure 11.10 Circular magnetic field
+shown by a magnetic compass around a| Shown by iron dust when there is cur-
+straight wire when it is carrying current | Tent in a straight wire
+
+The magnetic field formed around a straight wire due to the electric
+
+06 Science and Technology, Grade 10

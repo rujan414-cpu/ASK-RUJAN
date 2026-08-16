@@ -1,0 +1,45 @@
+PAGE 316
+============================================================
+
+changes continuously. The coil rotates due to the interaction between
+the magnetic field of the permanent magnet and that developed in
+the coil. This then rotates the other object attached to it.
+
+Measures such as increasing the number of turns and the surface area
+of the coil, using a more powerful magnet, and using a soft iron core,
+can be adopted to increase the speed of rotation of the coil of a motor.
+
+Question to think
+
+Is it possible to generate an electric current from a conducting wire
+placed in a magnetic field, just the way a magnetic field is developed
+around the wire when an electric current passes through it?
+
+Electromagnetic induction
+
+Around the beginning of the nineteenth century (1800 AD), the vol-
+taic cell was used as the main source of current. In the year 1831,
+Michael Faraday discovered that when the magnetic force lines are
+cut perpendicularly by a conducting wire, a voltage is generated in the
+conducting wire and an electric current flows when the two ends of
+the wire are connected in a circuit. This discovery brought a remark-
+able change in the field of the source of electricity.
+
+Activity 11.5
+Connect a galvanometer with the two ends of the solenoid prepared
+in activity 11.2.
+
+JUV
+
+y
+-o-
+
+Figure 11.20 Figure 11.21 Figure 11.22
+
+Pass a bar magnet in and out ofthe hollow part of the solenoid.Keep-
+ing the bar magnet fixed in front of the solenoid as shown in Figures
+11.21 and 11.22, observe the position of the needle of the galvanometer
+when the north pole and the south pole of the bar magnet enter the
+solenoid. Note down the observation in the table below.
+
+oa Science and Technology, Grade 10

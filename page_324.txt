@@ -1,0 +1,48 @@
+PAGE 324
+============================================================
+
+A transformer in which the number of windings in the secondary
+coil is more than the windings in the primary coil increases the volt-
+age. A transformer that increases the voltage of an alternating cur-
+rent is called a step-up transformer.
+
+In transformer, the ratio of the number of turns in the primary coil
+to the number of turns in the secondary coil is equal to the ratio of
+the primary voltage to the secondary voltage. This can be presented
+as the transformer formula:
+
+Primaryturns (N)) Primary Voltage V,)
+
+Secondary turns (NJ) ~ Secondary Voltage (V,)
+
+Example 11.1
+
+The accompanying picture shows a
+
+router to be connected to a 220V power
+
+supply. Observe the voltage rating
+mentioned on the router adapter. If , —
+the number of primary winding in the
+transformer inside the adapter is 500,
+calculate the number of secondary winding.
+
+Solution: As given in the question,
+
+Primary Voltage (Vp) = 220V
+
+Secondary Voltage (Vs) = 12V
+
+As per the voltage rating mentioned in the figure
+Primary turns (Np) = 500
+
+Secondary turns (Ns) = to be calculated
+
+According to the transformer formula,
+
+Primaryturns (N,) Primary Voltage (v)
+
+Secondary turns N)- Secondary Voltage (V,)
+
+320 Science and Technology, Grade 10
+

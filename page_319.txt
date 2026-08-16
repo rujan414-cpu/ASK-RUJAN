@@ -1,0 +1,45 @@
+PAGE 319
+============================================================
+
+hydropower station is allowed to flow at high pressure through the
+tunnel to the turbines of the generator and rotated with great speed
+to produce large amounts of electricity from the generators in the hy-
+dropower station.Likewise, fossil fuels like coal, diesel,etc. are used
+in thermal plants to produce electricity. In the thermal plant run with
+coal, a large amount of coal is burnt to produce heat energy which is
+used to heat water and produce vapour. The vapour produced in this
+way generates high pressure androtates the turbine of the generator to
+produce electricity.In the case of the diesel power plant. the turbine is
+rotated by a diesel engine. Apart from the sources mentioned above,
+the turbine of the generator in the windmill is rotated by wind energy
+and electricity is produced.
+
+The working principle of a thermal plant run by coal is also applied in
+nuclear power plants. Instead of using coal, the heat energy required
+to boil water is obtained from the tremendous amount of energy re-
+leased during the fission of radioactive elements like uranium under
+the controlled mechanism. This technology for producing electricity
+is not used in Nepal. According to the data published by the Nepal
+Electricity Authority in 2022 AD, the hydroelectric potential of Nepal
+is 2200 MW. In addition, about 487 MW of electricity is produced in
+Dubahi and Hetauda from the thermal plants. According to the report
+mentioned above, hydroelectric projects of about 487MW capacity
+are under construction. Additional 3219 MW of electricity from the
+Upper Arun Project, Uttar Ganga, and Dudha Kosi (with reservoir)
+
+Hydroelectricity Project have been proposed.
+
+Alternating current generator
+
+Generator
+=)
+
+Turbine Blades
+
+Figure 11.26: A turbine used to
+
+Figure 11.25: Water stored in Upper Tamakoshi  $Pin a generator at high speed
+Hydroelectric Dam located in Dolakha District in a hydroelectric plant
+
+Science and Technology, Grade 10 8
+

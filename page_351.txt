@@ -1,0 +1,44 @@
+PAGE 351
+============================================================
+
+Activity 13.2
+
+Open the internet browser in the internet-
+connected device (smartphone or laptop)
+available to you and search www.speedtest.
+net. As shown in the figure13.10, click on
+GO and find the speed of the internet that
+you are using.
+
+Figure 13.10 Broadband
+Internet Speed Test
+
+Internet provider
+
+Nepal Telecom (4G wireless
+home brand)
+
+Modulating ap FUCCTEICTS a Modulated
+signal
+
+t
+
+Cartier
+Signal
+
+Figure 13.11 Broadband Broadcast Channel Figure 13.12 Digital Signal Modulations
+
+Generally, in our language, broadband internet is regarded as high-
+speed internet. Broadband internet is the broadband transmission
+of data through various devices. Broadband transmission means the
+transmission of digital signals to a channel after converting digital
+signals into analogue signals. This type of transmission requires
+modulation. By broadband transmission, analogue signals can
+be transmitted in the form of optical or electromagnetic waves in
+various transmission frequencies. To send and receive signals, the
+transmission medium or channel gets divided into two separate
+channels. As an alternative to this, two separate cables can also be
+used for broadband transmission. This type of transmission is done
+for long-distance transmission.
+
+Science and Technology, Grade 10 oar

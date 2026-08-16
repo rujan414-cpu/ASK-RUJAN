@@ -1,0 +1,45 @@
+PAGE 321
+============================================================
+
+Figure 11.30: Use of transformers in chargers and microwave ovens
+
+Activity 11.6: Compilation of voltage rating of equipment using
+transformers
+
+Which other devices need a transformer? Collect their voltage rating
+and fill in the table given below.
+
+Device Input voltage rating _| Output voltage rating
+
+Router adaptor
+
+Laptop adaptor
+
+‘ ions (33
+Generating Stations (1) - @)
+
+“N\ ‘Subtransmission Lines (4)
+
+® @)
+Transmission Distribution
+Substation Substation
+
+‘Source: www sce com
+Figure 11.31: Electricity generation, transmission and distribution
+The use of a.c. electricity includes
+three major sections - production,
+transmission, and distribution. The i
+electricity produced by the genera-
+tor in the powerhouse is converted
+into the high voltage (for example [i
+132 kV) a.c. and then transmitted ==
+through the transmission line. Figure 11.32: 400 kV Sub-station lo-
+
+ecoonesih . . cated at Dhanusha, Dhalkevar
+
+Before distributing the transmitted
+
+electricity for use, its voltage is reduced to a lower value (for example,
+
+Science and Technology, Grade 10 oT
+
