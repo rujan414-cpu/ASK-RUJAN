@@ -56,7 +56,7 @@ client = genai.Client(api_key=API_KEY)
 # TEXTBOOK
 # =========================================================
 
-TEXTBOOK_FOLDER = "textbook_data"
+TEXTBOOK_FOLDER = "."
 
 
 @st.cache_resource
