@@ -1,0 +1,43 @@
+PAGE 174
+============================================================
+
+Combining (i) and (ii),
+m,m,
+d2
+
+Here, G is the proportionality constant and is also known as the
+universal gravitational constant. Using equation (iii), the gravitational
+force between any two objects can be calculated.
+
+The gravitational constant G is the magnitude of gravitational force
+produced between two unit masses that
+r it di - = tunit
+are separated by unit distance. & me 9= tun =
+maton “ F=G m= 1 unit
+As shown in the figure, when m,=m,=1
+Figure 7.7 Definition of G
+kg and d=1m
+
+F= Gm,m, _ Gxlx1
+& 1?
+
+=G
+
+The value of the gravitational constant was first measured by
+Henry Cavendish in 1798 using the Cavendish balance. From that
+experiment, the value of G was found to be 6.67 x 10°". Since its
+value remains the same regardless of the materials and the medium
+between the bodies, it is called the universal gravitational constant.
+
+Its SI unit is N m? /kg?
+Example 7.1
+
+The mass of the Earth is 5.97 x 10* kg and its radius is 6371 km.
+Calculate the gravitational force between the Earth and a 1 kg iron
+sphere on its surface.
+
+According to the information given in the question,
+
+Mass of Earth (m,) = 5.97 x 10% kg
+
+0 Science and Technology, Grade 10

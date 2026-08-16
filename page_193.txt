@@ -1,0 +1,34 @@
+PAGE 193
+============================================================
+
+Acceleration of the ball (g) = - 9.8 m/s?
+Using the equations of motion for the initial velocity of the ball
+0=u? + 2gh
+Or 0O=u’?+2x-9.8 x 30
+Or w=588
+u=V588=24.25 m/s
+For the time taken to reach the maximum height
+v=u-+tat
+
+Or O = 24.25-9.8 xt
+
+_ 24.25
+Gi 9.8
+t=2.47s
+
+So, the initial velocity of the cricket ball is 24.25m/s and it takes 2.47s
+to reach the maximum height.
+
+Project work
+
+Drop a stone from different heights like from the roof of a house or
+a school building with the help of your parents or teachers. Place
+a tin or some other sound-producing object on the surface of the
+ground to know when the stone hits the ground. After this, find the
+height and the time it takes to hit the ground. Find the height of a
+house, school building, etc. using the equation of motion. For this,
+take the average measurement to reduce the probable error. Finally,
+measure the actual height with a measuring tape and mention the
+error in the calculated height.
+
+Science and Technology, Grade 10 09

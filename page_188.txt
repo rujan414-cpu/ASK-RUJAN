@@ -1,0 +1,52 @@
+PAGE 188
+============================================================
+
+Example 7.5
+
+Calculate the mass that a person can lift on the moon if he/she can lift
+a mass of 100 kg on Earth. (Acceleration due to gravity of the moon
+g = 1.63 m/s’)
+
+According to the information given in the question,
+
+Mass that a person can lift on earth (M) = 100 kg
+
+Acceleration due to gravity of the earth (g) = 9.8m/s?
+
+Acceleration due to the gravity of the moon (g') = 1.63 m/s?
+
+Mass that a person can lift on the moon (m) = ?
+
+The force that human muscles can exert against gravity on the Earth
+and Moon is the same.
+
+The weight that can be lifted on the moon = Weight that can be lifted
+on the earth
+
+Ormxg =Mxg
+
+Mxg _ 100x9.8
+g 1.63
+
+m= 601.23 kg
+
+Or m=
+
+Therefore, a person who can lift 100 kg on Earth can lift 601.23 kg on
+the surface of the Moon.
+
+Free fall
+
+As observed in activity 7.3, a sheet of paper and a falling stone can be
+considered as free fall when the air resistance on them is negligible.
+In that case, the acceleration of the stone is equal to the acceleration
+of gravity (9.8 m/s’) ofthe earth. Thus, an object falling under the
+influence of gravity alone without any obstruction is said to be in free
+fall. The acceleration of an object in free fall is equal to the acceleration
+due to gravity (g).
+
+According to the structure of the objects falling into the earth's
+atmosphere, the frictional force on them creates a resistanceto their
+motion. The upthrust on a falling object also helps reduce the effect
+
+1 Science and Technology, Grade 10

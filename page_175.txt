@@ -1,0 +1,46 @@
+PAGE 175
+============================================================
+
+Mass of sphere on the surface of the earth (m,) = 1 kg
+Radius of the earth(R) = 6371 km = 6371 xX 1000 m = 6.37x 10°m
+
+Gm,m,
+a
+
+The gravitational force between two spheres, F =
+
+On substituting the values,
+6.67 X10"! x 5.97 x 10* x1
+(6.37 x10° )?
+6.67 X 5.97 x 10714 x1
+(6.37 x10° )
+
+39.82x 108 x1
+40.58x10"
+
+Fro
+
+orF =
+
+orF= = 0.986 x 10°”
+
+or F = 0.981 x 10 = 9.81 NV
+«F=9.81 N
+
+The gravitational force between the earth and an iron ball of mass 1
+kg on its surface is 9.81N
+
+Example 7.2
+
+The mass of the Moon and the Earth is 5.97 x 10" kg and 7.34 x 10”
+kg respectively. The distance between the Moon and the Earth is 3.84
+x 10° kim. Calculate the gravitational force between the Moon and the
+Earth.
+
+According to the information given in the question,
+Mass of Earth (m,) = 5.97 x 10* kg
+Mass of Moon (m,) = 7.34 x 10*%kg
+
+Distance between the earth and Moon (d) = 3.84 x 10° km = 3.84 X 10°m
+
+Science and Technology, Grade 10 mn

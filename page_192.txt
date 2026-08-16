@@ -1,0 +1,45 @@
+PAGE 192
+============================================================
+
+the object is thrown vertically upwards, the value of the acceleration
+due to gravity is negative because the acceleration generated in such
+a situation is in the opposite direction.
+
+Example 7.6
+
+When a stone is dropped from a bridge over a river into the water,
+the sound of the stone hitting the surface of the water is heard after
+2 seconds. Calculate the height of the bridge above the surface of the
+water.(g = 9.8 m/s?)
+
+According to the information given in the question,
+
+The initial velocity of the stone (u) = 0 m/s because the stone is
+dropped from the hand.
+
+Time taken by the stone to hit the water surface (t) = 2s
+Acceleration of stone (g) = 9.8m/s?
+Using the equation of motion, the height of the bridge above the
+
+surface of the water
+
+Or h = ut+ + at?
+Or h = + x98 x 2?
+
+Or h=19.6 m
+Therefore, the height of the bridge from the water level is 19.6m.
+Example 7.7
+
+A cricket ball thrown vertically upwards into the sky reaches a height
+of 30m.
+
+Calculate the velocity with which it is thrown and the time taken to
+reach the maximum height.
+
+As given in the question,
+Maximum height of the ball (h) = 30 m
+
+The final velocity of the ball (v) = 0 m/s (since the final velocity at
+maximum height is zero.
+
+18 Science and Technology, Grade 10

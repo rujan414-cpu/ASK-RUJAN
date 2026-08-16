@@ -1,0 +1,47 @@
+PAGE 182
+============================================================
+
+Acceleration due to gravity depends upon both the mass and the
+radius of the planet or satellite. For example, the mass of Jupiter is
+about 319 times the mass of the Earth, but its acceleration value is only
+2.6 times the acceleration due to the gravity of the Earth. The radius
+of Jupiter has a main role to play in this. The radius of Jupiter is 11
+times the radius of the Earth. Since the acceleration due to gravity is
+inversely proportional to the square of the radius, even though the
+mass of Jupiter is very large, the net effect on the acceleration due to
+
+gravity will be only ste = 2.6 times greater.
+
+On substituting the mass of the earth as 5.972 x10” and the radius
+as 6371 km in equation (iii),
+
+6.67 x10" x 5.972 x 10% _ 39.8332 x10" _ g gy.»
+(6.371 x10°)? = 240.5896 x 102 ~ 7 O1lm/s
+
+Since the value of R changes in different places on the earth, the value
+of acceleration due to gravity is also found to be different.
+
+Variation in acceleration due to gravity of the earth
+
+The earth is not perfectly round. It is slightly
+flattened at the poles and bulged in the
+equatorial region. Hence, as shown in Figure
+7.10, the radius of the Earth is less towards
+the poles and more towards the equator. Since [| «-s7a1s701m \
+the value of the acceleration due to gravity \ 2age\
+is inversely proportional to the square of the
+radius of the earth, its value is more at the ;
+poles than at the equator. The value of 'g' in Figure 7.10 Earth's radius
+the equatorial region is 9.78 m/s? and 9.83 m/
+
+s*in the polar region. As the value of 'g' is higher in the polar region,
+objects fall faster in the polar region than in the equatorial region.
+
+The average value of 'g' on earth is considered to be 9.81m/s*. This
+means that the velocity of a freely falling body toward the surface of
+the earth increases by 9.81 meter per second. In contrast, the velocity
+of a body projected vertically upwards decreases by 9.81meter per
+second. The velocity becomes zero at the maximum height that it
+covers, and then. it returns to the earth.
+
+Science and Technology, Grade 10

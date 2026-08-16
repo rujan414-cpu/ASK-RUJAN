@@ -1,0 +1,50 @@
+PAGE 187
+============================================================
+
+As given in the table below, find the pairs of places where the
+acceleration due to gravity is less/more and mention the difference
+in the weight of an object at those places:
+
+Pairs of places | place value of | place value of the | Remark
+the acceleration | acceleration of
+of gravity is less | gravity is more
+
+Equatorial and | Equatorial Polar region The weight of an object is
+
+polar regions region lesser in the equatorial region
+than that in the polar region.
+
+Base and top of
+the mountain
+
+The value of the acceleration due to gravity is inversely proportional
+
+to the square of the distance from the center of the earth, i.e.,
+g« — Similarly, weight is directly proportional to acceleration
+
+due to gravity (W) « g .As the value of acceleration due to gravityat
+placesfar away from the center of the earth such as hilltops, mountains,
+etc.is less, the weight of an object at those places is also less. Ata place
+on the earth’s surface where the value of acceleration due to gravity
+is maximum, the weight of an object is also maximum at that place.
+Acceleration due to the gravity of the moon (gm) is six times that of
+
+the earth (ge), ie. 8 % 1 g, Therefore, the weight of an object
+of a definite mass on Earth is almost 6 times the weight of the same
+object on the moon. Therefore, one can jump about 6 times higher
+on the moon than on the Earth. On the moon, a person should be
+able to lift about 6 times the massas much as he/she can on the earth.
+Therefore, while comparing the acceleration due to the gravity ofthe
+Earth and other planets/ satellites, it can also be concluded that the
+weight of an object on those planets/ satellites is also different. Some
+examples are presented in the table below.
+
+Mass of : 7 ; 5 |
+7 acceleration due to gravity (g) m/s* and weight (W = mg) in newton
+an object a a
+' on different heavenly bodies
+moon mercury | mars venus earth
+50 kg 8 W, & WwW, 8 W, 8s W, 85 W,
+1.63 | 81.5 | 3.61 | 180.5 | 3.75 | 187.5 | 8.83 | 441.5 | 9.81 | 490
+
+Science and Technology, Grade 10 109

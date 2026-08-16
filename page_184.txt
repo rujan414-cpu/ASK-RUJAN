@@ -1,0 +1,48 @@
+PAGE 184
+============================================================
+
+According to the information given in the question,
+Mass of Earth (M) =5.97 x10" kg
+Radius of Earth (R) = 6371 km=6371000 m
+
+Height of International Space Station above the surface of Earth (h)=
+400 km = 400000 m
+
+The acceleration due to gravity at that height,
+GM
+(R+h)?
+
+6.67 X10" x 5,97 x 10%
+or 8 ~~ (6371000 +400000)"
+
+RS
+o
+
+_ 39.82x108 _ 39,82 x10"
+or 8 ~ 6771000) 4.60 x10"
+§,= 8.66 m/s
+
+Therefore, the acceleration due to the gravity of the International
+Space Station at an altitude of 400 km is 8.66m/s’.
+
+Since, the distance of the top of a hill from the center of the
+earth is greater than the distance (radius, R) of its bottom from
+the center of the earth, the value of 'g' is less at the top of the
+hill than that at its bottom. But such a difference is very small.
+For example, the height of Mt. Everest is 8848.86 m. The
+distance from the center of the earth to the peak of Mt. Everest,
+
+d=R +h = 6371x1000 m + 8848.86m = 6379848.86 m 43 |
+
+Putting this value, g= SM
+(R+h)’
+_ 667 x10"! x5.97x 1074 _ 39.82 x10!
+8 (6.379848,86)? Zo7xdo® = 9:78 ns?
+
+At the height of Mount Everest, the value of the acceleration due to
+gravity is only 0.03 m/s2 (9.81-9.78=0.03) less than that on the Earth's
+surface. So for a small change in the distance from the center of the
+earth like: (R+ h = 6371 km+8.85 km = 6379.85 km), the velocity
+also changes by a very small value.
+
+Science and Technology, Grade 10

@@ -1,0 +1,46 @@
+PAGE 185
+============================================================
+
+Example 7.4
+
+The value of acceleration due to the gravity of the earth is 9.8m/s?.
+If the mass of the moon is 7.35 x 10” kg and its radius is 1.74 x 10°
+m, what is the acceleration due to the gravity of the moon? Compare
+the acceleration due to the gravity of the Earth and thatof the Moon.
+
+According to the information given in the question,
+
+Value of acceleration due to gravity of the earth, g, =9.8m/s*
+According to the formula for calculating the acceleration of gravity
+of the moon,
+
+GM,
+Sn R
+_ 6.67 X10"! x 7.35 x 10”
+Sm (1.74 10°)?
+&,, = 1.62 mvs
+
+Taking the ratio of the acceleration of gravity of the earth to the
+acceleration of gravity of the moon,
+
+Br 1.62
+The value of the acceleration of gravity of the moon is about 6 times
+less than that of the earth.
+
+Mass and weight
+
+The weight of an object is related to the acceleration due to gravity.
+The total quantity of matter present in an object is its mass. This is a
+scalar quantity. Its SI unit is the kilogram (kg). No matter wherever
+a 1 kg mass of iron is kept either on Earth orthe International Space
+Station or the Moon or Mars, etc., the quantity of iron in it is always
+1 kg. Therefore, the value of the mass of an object does not change
+according to the place. Like the smallest particle, an electron also has
+a definite mass. The value of mass is not zero. Similarly, even the
+smallest mass experiences the force of gravity.
+
+8. _ 98 _ 605
+
+Earth's gravity pulls objects on its surface toward its center.
+
+Science and Technology, Grade 10

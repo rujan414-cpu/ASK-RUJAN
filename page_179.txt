@@ -1,0 +1,49 @@
+PAGE 179
+============================================================
+
+Using the data so obtained and equations of motion h=ut+— at’,
+v= u?+2 ah) calculate the acceleration and velocity (final velocity
+v) of the stone when it hits the ground.While calculating, take the
+initial velocity of the stone (u) = 0.
+
+A table like the one below can be used for data collection and
+necessary calculations.
+
+Data = Average ef SES
+
+collection h|\t ja Ae liaceolevation om V(2 ah) Result
+
+First time fu pases a-tata, [WE V@ah,) RwERBTERNE
+F a,- =
+
+Secondtime|...].. | 7 | v= V2 ah, )
+
+Third time = [ugg || SO v= v2 ah, )
+
+In activity 7.2, the object released from the hand is set in motion due
+to the earth's gravity, and it acts constantly throughout the motion.
+The more the object falls, the faster its velocity will be. Increasing
+the velocity of the object means it is accelerating. Thus, acceleration
+gets produced in the body falling freely towards the earth's surface
+because of gravity. In activity 7.2, the acceleration of a falling stone
+is 9.8m/s*when the air resistance is negligiblei.e., almost zero. Such
+acceleration is the acceleration due to the gravity of the earth. The
+acceleration produced in a freely falling object due to the force of
+gravity is called acceleration due to gravity. It is denoted by 'g' and
+its SI unit is meter per second squared (m/s’).
+
+Question to think
+
+Does the acceleration due to gravity vary according to the mass of
+the falling object?
+
+Activity 7.3
+
+Take a small stone and a sheet of paper. Tear the sheet of paper into
+two equal parts. Squeeze one of them tightlyinto a ball shape. Drop
+the sheet of torn paper, a paper ball and a stone together and observe
+which one reaches the ground first. Do the sheet of paper,the paper
+ball and the stone fall at different velocities? If this activity was done
+on the moon, what would be the result?
+
+Science and Technology, Grade 10 co

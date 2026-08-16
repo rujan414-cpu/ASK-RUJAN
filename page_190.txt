@@ -1,0 +1,44 @@
+PAGE 190
+============================================================
+
+While jumping with a parachute, the air resistance increases with
+the speed of the parachute. This process leads to a situation where
+weight and air resistance become equal. In such conditions, the
+acceleration of the falling parachute becomes zero. Then the parachute
+falls towards the ground with a uniform speed. A safe landing on the
+ground is possible due to the uniformspeed of the parachute. This
+kind of parachute fall is not a free fall.
+
+Atmospheric resistance is necessary for a safe landing with a
+parachute. Since the moon does not contain such resistance, jumping
+towards its surface with a parachute isa free fall. As a result, the speed
+increases continuously and lands on the surface at high speed. Thus,
+a safe landing on the moon using a parachute is not possible.
+
+When hail falls on the earth's surface from a certain height, it falls ata
+certain constant speed instead of increasing continuously. It is due
+to the resistance offered by the air. It reduces the damage caused by
+hail on the earth’s surface. The resistance or friction caused by the
+wind on the hail creates an upward drag force. The faster the hail falls,
+the greater the resisting force acting on it. When the force of gravity
+acting on the hail and the frictional force acting on it become equal,
+the hail falls at a constant speed.
+
+As shown in Figure 7.17, a wind-dispersed seed contains a structure
+like a fur and a small fan. They worklike small parachutes. When these
+types of seeds are dispersed, they fall as if floating in the air due to
+air resistance and stay in the air for some time. As a result, the seeds
+are scattered far away. Therefore, due to air resistance, the seeds of
+the plants such as simal, sal. etc. are dispersed far away.
+
+Activity 7.7 Observation of free fall
+
+Take a'U' shaped iron frame as shown in Figure 7.18. Tie the open part
+of the frame with a thread so that it is slack as shown in the picture.
+Also, tie a stone between the threads. As shown in the picture. hang
+the hook of the spring balance on the place where the stone is tied
+and raise the whole frame. What is the weight shown by the spring
+balance? Then release the frame from the hand and observe the
+condition of the stone tied to the rope attached to the frame and the
+
+16 Science and Technology, Grade 10

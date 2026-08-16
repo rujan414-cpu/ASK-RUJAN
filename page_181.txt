@@ -1,0 +1,47 @@
+PAGE 181
+============================================================
+
+The cause of the coin and feathernot falling together the first time is
+the presence of air resistance inside the cylinder. Since the surface
+area of the feather is greater than that of the coin, the air resistance
+acting on the feather is greater than acting on the coin and acceleration
+is reduced. So the feather falls slower than the coin. The second time,
+as there is no air inside the cylinder i.e. there is no air resistance, both
+the feather and the coin fall together. In the absence of air resistance,
+the acceleration due to gravity is the same for all objects. That is, the
+value of 'g' does not depend on the mass of the falling body.
+
+Calculation of acceleration due to gravity
+Suppose a body of mass 'm' is on the surface of a planet of mass 'M'
+and radius 'R’. If the force of gravity of the planet acting on the body
+is ‘F’, the gravitational force produced between them is,
+
+F= GMm (i
+If this force produces acceleration ‘g’ in mass ‘m’, then from the Second
+
+law of motion,
+
+FH MG veiieceeseeeeeeeennes (ii)
+From the equations (i) and (ii),
+GMm
+mg>= 2
+B= GME osssoswanmsnanwnccnns (iii)
+
+According to equation (iii) the acceleration depends only on the mass
+'M' and radius 'R' of the planet.
+
+Since the mass of the falling object is not included in the equation, it
+confirms the fact that all the masses have the same acceleration when
+they fall freely, just like the results of Galileo's activity and feather-
+coin experiment. In non-spherical planets or satellites like Earth, the
+value of radius 'R' changes depending on location. In equation (iii)
+both G and M are constants.
+
+In this case, the acceleration due to gravity is inversely proportional
+to the square of the radius of the planet or satellite. Hence,
+
+wat
+BX
+
+Science and Technology, Grade 10 7
+

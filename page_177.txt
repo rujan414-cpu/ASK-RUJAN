@@ -1,0 +1,50 @@
+PAGE 177
+============================================================
+
+When the mass of an object is made | When the mass of both objects is made
+double double
+Putting, M1, = 2 1, in equation (i) Putting, M1, = 2 m, m,= 2 I, in equation (i)
+Gm,2m, Gm,m, G2m,2m, Gm,m,
+F= 1 =2 - F,= * =
+2 a& @& 2 @& &
+F,= 2F, P= 4F,
+
+On Keeping the distance between two objects constant, increasing the
+mass of an object by 2 times, the gravitational force also increases by
+2 times. Similarly, by increasing the mass of both objects by 2 times,
+the gravitational force increases by 4 times.
+
+When the distance between the objects | When the distance between the objects is
+
+is made half doubled
+1 Putting, d =2 d in equation (i)
+Putting, d= a in equation (i)
+G Gm,m,
+Gm,m, Gm,m, -—mm 1 —
+P= (a ) =— (2d)? 4 @
+2 , 1
+F'= 4F F'= on F
+
+If the distance between the two objects is halved, while keeping
+
+the mass constant, the gravitational force between the two objects
+
+increases by 4 times. Similarly, if the distance between two objects
+is increased by two times, the gravitational force between those two
+objects decreases by four times.
+
+Consequences of gravitational force
+
+Some of the consequences of gravitational forces are presented below:
+
+(a) Gravitational force has made the existence of the universe
+including the solar system possible. The gravitational force
+between the sun and the planets causes the planets to revolve
+around the sun.
+
+(b) Since the Moon is closer than the Sun to the Earth, it is important
+even though it has a very small mass compared to the Sun. The
+effect of the moon's gravitation is more visible on seawater than
+on land, due to which tides are created.
+
+Science and Technology, Grade 10 oe

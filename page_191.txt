@@ -1,0 +1,51 @@
+PAGE 191
+============================================================
+
+reading of the spring balance. Lay a foam or cardboard on the floor
+to protect the spring balance during this activity. If possible, take a
+video of the falling spring balance and pause it.
+
+In this activity, when the frame is released from the hand, then the
+spring balance, the stone and
+the iron frame fall downwards
+with the same speed. Although
+the stone-bound thread is tied in
+
+t
+such a way that it is slack, it does
+not stretch downwards. This thread
+makes it look like the stone is iron frame
+
+flying in the air. This is possible stone
+
+with free fall. Since both the
+
+spring balance andthe frameare = /9’e 7.18 Observation of free fall
+
+in the state of free fall, there is no
+
+downward force on the spring of the spring balance and it shows zero
+weight. Thus, the weight of an object in free fall is zero, and hence,
+it is called weightlessness.Astronauts inside the artificial satellites
+orbiting the earth and space station are in a state of free fall. In such
+a situation, passengers inside the vehicle experience weightlessness.
+
+Equation of motion for free fall
+
+The equations of motion are used to calculate the final velocity and
+acceleration of a freely falling stone in activity 7.2. In this way, the
+speed with which a freely falling body dropped from a height reaches
+the surface, the time taken to reach the surface, and the height can
+be calculated by using the equation of motion.
+
+For the objects in linear motion For the objects in free fall
+
+v?=u’*+2as v?=u2+2gh
+
+s=ut+ + at? he utd 1. gt?
+
+In this way, in the case where the acceleration is generated due to
+the force of gravity, the value of the acceleration due to gravity is
+substituted in place of the acceleration in the equation of motion. If
+
+Science and Technology, Grade 10

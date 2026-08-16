@@ -1,0 +1,54 @@
+PAGE 186
+============================================================
+
+Weight is the measure of the force
+of gravity acting on an object. Since
+weight is the force exerted on an
+object, its SI unit is the newton (N).
+This is a vector quantity. Weight is
+always directed towards the center of
+the planet/satellite because it is the
+
+force of gravity. @
+
+According to Newton's second law of
+
+. 5 ; Figure 7.13: Measurement of
+motion, the force of gravity acting on weight by a spring balance
+an object of mass 'm’, i.e., weight, is
+
+spring
+
+| pointer
+
+t
+
+W = mg. where g is the acceleration due to gravity. The weight of an
+object dependson the object's mass and acceleration due to gravity.
+Since the earth's gravity pulls every object towards its center, a force
+atleast equal to the force of gravity is to be applied in the upward
+direction to lift any object from the surface. Depending on the
+relationship between mass and weight, different forces are required
+to lift small and large objects. Since the value of acceleration due to
+gravity at a place remains constant, the weight of the object varies
+according to its mass. In this case, the weight of the object (W) is
+directly proportional to its mass (m), i.e.,.Weight (W) & Mass (m)
+[Keeping the value of g constant].
+
+Therefore, objects with greater mass weigh more than objects with
+lesser mass. Hence, more force must be applied to lift an object with
+a greater mass than an object with a smaller mass. Also, it is easier to
+lift small stones thanbig ones.
+
+Variation in weight due to change of acceleration due to gravity
+The difference in weight for a definite mass depends on the force of
+gravity. Thus, the weight of an object is directly proportional to the
+acceleration due to gravity, i.e.. Weight (W) & Acceleration due to
+gravity(g) [Keeping mass constant]
+
+Since the value of 'g' on Earth changes according to the location, the
+weight of the object also changes.
+
+Activity 7.5: Comparison of the weight of an object at different places
+
+12 Science and Technology, Grade 10

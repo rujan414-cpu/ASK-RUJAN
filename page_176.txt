@@ -1,0 +1,46 @@
+PAGE 176
+============================================================
+
+Gm. m,
+The gravitational force between the earth and moon, F = a
+Substituting the given values,
+
+6.67 X10! x 5.97 x 10% x 7.34 x 10”
+
+F= (3.84 x10° 2
+
+6.67 X 5.97 X 7.34 x 1012422
+OrF = 14.75 x10"
+
+292.28 10 x 10-2 secs
+OrF = TETAS = 19.82 x 10
+
+~F=19.82x10°N
+
+The gravitational force between the Earth and the Moon is 1.982 x
+107° N.
+
+Question for discussion
+
+As calculated in example 7.1, the gravitational force between the
+Earth and a sphere of mass 1 kg is 9.8N. This force acts on both
+objects. However, when the ball is dropped from a certain height,
+the Earth does not move upwards, but only the ball appears to fall
+towards the Earth. Why? Using Newton's second laws of motion,
+calculate the acceleration produced by that force on the sphere
+with a mass of 1 kg and on the Earth with a mass of 5.97 x 10% kg.
+
+Variation in gravitational force with mass and distance
+
+The change in gravitational force observed in activity 7.1 can be
+explained mathematically by using the formula used to calculate the
+gravitational force. Suppose two objects A and B have masses m, and
+m’ respectively. If the distance d between those objects is d and the
+gravitational force in the initial condition is F,.
+
+Gm,m,
+
+then, F, = qe anrananennennres (i)
+
+ma Science and Technology, Grade 10
+

@@ -1,0 +1,52 @@
+PAGE 172
+============================================================
+
+After a long study, Newton concluded that there exists a force of
+attraction between all bodies. He named this force gravitation. In
+1687, he propounded the Universal Law of Gravitation.
+
+Activity 7.1
+
+In Figure 7.5, the calculation of gravitational force between two bodies
+is shown. These values were obtained using the PhET Interactive
+Simulations on the Internet.To open this activity on your computer,
+open the internet browser and type https://phet. colorado.edu/sims/
+html/gravity-force-la latest/gravity-force-lab_en.htmlon the search
+bar. In the simulation, the mass of the sphere and its distance can be
+changed through the slider. The two cases of changing the massand
+changing the distance are presented in the table below. Study them
+and draw suitable conclusions from thegiven data.
+
+force on m2 by m1 = 0.000000500556 N force on m2 by m1 = 0.000001001112 N
+force on m1by m2 = 0.000000500556 N force on m2 by m1 = 0.000002002224 N
+
+te @1 r@ @i
+a to NN OE SEC HE
+es | ES, ,
+
+Figure 7.5 Difference in gravitational force between two objects when their mass is changed
+
+(a) First, doubling the mass of the first sphere while keeping the
+mass of the second sphere and the distance between them the
+same, and then doubling the mass of both spheres keeping the
+distance between them constant.
+
+{gon (6)
+
+After changin,
+The force between ens
+mass The force
+two masses before |—, .
+. First Second | between two | Conclusion
+changing the mass
+F mass mass__| masses (F,,)
+{ )
+1
+(m,) m,)
+0.000000500556 N 600 kg 400kg — | 0.000001001112 N
+0.000000500556 N 600 kg 800kg — | 0.000002002224N | ...eeeeceeen
+
+(b) Doubling the distance between two spheres keeping the mass
+constant.
+
+160 Science and Technology, Grade 10

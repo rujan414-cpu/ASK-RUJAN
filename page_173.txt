@@ -1,0 +1,48 @@
+PAGE 173
+============================================================
+
+first | Second | Initial Changed
+mass | mass distance force F ) distance | force F,) Result
+
+(m.,) m,) (d,) id,
+
+300 0.000000500556 0.000000125139
+ke 400 kg | 4m N eee 8m N azon
+
+4
+
+From this activity, when the mass of one sphere and that of both spheres
+are doubled, the gravitational force is found to be two times and four
+times the initial force respectively. Here, when the product of two
+masses increases four times, the gravitational force is also increased by
+four times. That is, when the distance is kept constant, the gravitational
+force is directly proportional to the product of the masses of the two
+objects. Similarly, when the distance between two spheres is doubled,
+the gravitational force is found to be reduced by four times. That is, when
+the mass is kept constant, the gravitational force isinversely proportional
+to the square of the distance between the two objects.
+
+The collective conclusions of activity 7.1 are included in Newton's
+universal law of gravitation. According to this law, the gravitational
+force produced between any two objects in the universe is directly
+proportional to the product of their masses and inversely proportional
+to the square of the distance between them.
+
+As shown in figure 7.6, let the mass
+of the objects A and B be m'andm?
+respectively, the distance between the
+centers of these two objectsbe d, and the
+gravitational force produced between Fig 7.6 two masses
+them be F, According to Newton's law
+
+of gravity, the gravitational force (F) is directly proportional to the
+product of the mass of these objects m, and m,,
+
+m,
+
+That is, FOm, mM)... (i)
+
+That is, 9 FO — vivececeeseees (ii)
+
+Science and Technology, Grade 10 160
+

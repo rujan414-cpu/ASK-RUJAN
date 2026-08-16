@@ -1,0 +1,54 @@
+PAGE 183
+============================================================
+
+Height and acceleration due to gravity
+
+Activity 7.4 Comparison of the acceleration due to gravity with
+increasing distance from the center of the earth
+
+Distance d=2R d=3R]d=4R
+ten
+F from the
+, » 2% x | center of the
+earth (d)
+Acceleration 319 EC re eee
+| & =".
+Different distances | We to gravity pd 12)
+from center of the Earth _ GM 1
+a =— x 9,8=2.45 m/s?
+
+4
+
+As shown in Figure 7.11, when d = R is the distance from the center
+
+of the earth, the value of the acceleration due to gravity, g,= ou
+
+= 9.8 m/S Other distance d = 2R, 3R, 4R from the center of the
+earth are also shown in the same figure. In the table along with the
+figure, the value of acceleration due to gravity at a distance d = 2R is
+calculated. Likewise, calculate andcompare the values of acceleration
+due to gravity that occurs as the distance from the center of the earth
+goes on increasing.
+
+As the height above the surface of the earth
+increases, the value of the acceleration due to
+gravity decreases. Suppose, a satellite at a height h
+from the surface of the earth is orbiting the earth.
+The value of the acceleration due to the gravity of
+
+: . GM
+the earth at that height his g.= (Rhy The value of
+acceleration due to the gravity of the earth's surface
+
+‘IM 5 Fit 7.12
+isg =e In this case, the distance of the satellite a
+from the center of the earth is d= R+h. Since the value of (R+h)? is
+
+greater than the value of R’, the value of g1 is less than that of g.
+Example 7.3
+
+The mass of the earth is 5.97 x 10%kg and its radius is 6371 km.
+Calculate the acceleration due to the gravity of the International Space
+Station situated at an altitude of 400 km above the surface of the earth.
+
+Science and Technology, Grade 10
