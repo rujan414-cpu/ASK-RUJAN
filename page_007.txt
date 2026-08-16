@@ -1,0 +1,39 @@
+PAGE 7
+============================================================
+
+7. Now, stretch the rubber band 6 cm and launch the paper bullet.
+Measure the distance travelled by the bullet. Repeat this for the
+
+extension of 8 cm and 10 cm.
+
+S.N. |Extension of _rubber|Distance travelled by the paper
+band(cm) bullet (cm)
+
+Scientific research involves changing the magnitude of one physical
+quantity and observing how this change brings changes in another
+physical quantity. For example: in the above experiment, we studied
+how the extension (stretch) of the rubber band affects the distance
+travelled by the paper bullet. Here, the extension of the rubber band
+and the distance covered by the bullet are both physical quanti-
+ties and their magnitude are different in each experiment. Such
+physical quantities are called variables because their value or magni-
+tude varies each time. The elements (physical quantities) that change
+or may change in an experiment are called variables of the experi-
+ment or research. In the above experiment stretching of the rubber
+band and the distance covered by the paper bullet are the variables
+of that experiment. The thickness of the rubber band and the size of
+the paper bullet could also have been changed in that experiment.
+Therefore, these are also the variable of the research.
+
+Each variable has a name and is represented by a symbol for ease
+of writing. The relation between variables is expressed interms of
+a mathematical formula. For example: If the extension or stretch of
+rubber is denoted by ‘e’and the distance travelled by the paper piece
+
+is denoted by ‘x’, the relation between them is x « e.
+Types of variables
+
+Usually, variables are classified into three types: independent vari-
+able, dependent variable and controlled variable.
+
+Science and Technology, Grade 10 &

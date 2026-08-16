@@ -1,0 +1,41 @@
+PAGE 11
+============================================================
+
+4, While expressing the relation between variables in an equation,
+usually, the dependent variable is written on the left side of the
+equation and the independent variable is written on the right
+side. Hence, the independent variable is sometimes called a
+right variable and the dependent variable is called the left vari-
+able. For example,if we study how the distance covered by a
+moving object varies with time, then the mathematical equation
+of their relationship will be s =vt. Where distance travelled (s)
+is the dependent variable, time (t) is the independent variable
+and speed (v) is the controlled variable.
+
+5. While plotting the relationship of variables in a graph, the
+dependent variable is always plotted on the y-axis or the vertical
+line and the independent variable is plotted on the horizontal
+line or the x-axis. Therefore, the dependent variable is sometimes
+called the vertical variable or the y-variable and the independent
+variable is called the horizontal variable or the x-variable. Graph
+presentation always depicts how the change in the independent
+variable brings the change in the dependent variable.
+
+1.2 Types of units
+
+Physical quantities are measured in units. The units of all physical
+quantities can be divided into two types:
+
+dl. Fundamental unit
+2. Derived unit
+Fundamental unit
+
+The unit of measurement which has its independent existence or
+does not depend upon the other units and cannot be resolved into
+any simpler forms is called the fundamental unit. For example, the
+fundamental unit of mass is kilogram, the fundamental unit of time is
+second, and the fundamental unit of length is metre. In the SI system,
+
+there are 7 fundamental units and they are listed below:
+
+Science and Technology, Grade 10 2

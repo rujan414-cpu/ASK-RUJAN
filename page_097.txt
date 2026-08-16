@@ -1,0 +1,45 @@
+PAGE 97
+============================================================
+
+Tall Plant x dwarf Plant
+
+Mother Plant (P) male Female
+Polination 7 T
+seeds
+Tt
+F, generation Tall Plant Tall Plant
+i Tt
+self Polination seeds
+|
+
+F, generation Tall Plant Tall Plant Tall Plant dwarf
+
+(TT) (Tt) (Tt) (tt)
+
+self Polination F, generation y ot
+° | Yv¥ vy
+
+TT Tr TE TE a FE TM Teste tt
+
+note: Pure Tall (TT) hybrid tall (Tt) pure dwarf (tt)
+Figure 4.14
+
+Monohybrid cross between tall plant and dwarf pea plant (upto F3 generation)
+
+Results of Mendel’s experiment
+Tall plants were produced from pure tall plants.
+
+b. Tall and dwarf plants were produced in a ratio 3:1 from hybrid
+tall plants.
+
+c. Dwarf plants were produced from pure dwarf plants.
+Phenotypic ratio and genotypic ratios in Mendel’s experiment
+
+Phenotypic characters are the character seen externally in an organism.
+Similarly, Genetic constitution or genetic makeup of an organism is
+called genotypic character.
+
+Phenotypic ratio is Tall: dwarf = 3:1
+Genotypic ratio is pure tall: hybrid tall: pure dwarf = 1:2:1
+
+Science and Technology, Grade 10 7

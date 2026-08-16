@@ -1,0 +1,45 @@
+PAGE 8
+============================================================
+
+a. Independent variable
+
+During a scientific experiment or research, the researcher manipu-
+lates or changes a variable in a particular amount and measures the
+changes in another variable. The change made by the experimenter or
+researcher is the causative factor and subsequent change in another
+variable is the effect.
+
+In the experiment above, stretched rubber band throws the paper
+bullet. The extension of the rubber band is the causative factor and
+the distance travelled by the paper is the effect. The researcher or
+experimenter is free to decide the degree of extension of the rubber
+band. The variable which can be manipulated by a researcher is called
+the independent variable. In activity 1.1, the extensionof the rubber
+band is the independent variable.
+
+Causative factors related to the experiment are independent variables.
+For example, the amount of fertilizer, sunlight and water can be the
+independent variables for the growth of a plant.
+
+b. Dependent variable
+
+In experiment 1.1, the researcher cannot tell the distance covered
+by the piece of paper directly because it depends on the amount of
+stretching of the rubber band. Such a variable is called a dependent
+variable. So dependent variable is the variable whose value depends
+upon the value of anothervariable and the experimenter cannot predict
+or determine its value directly.For example.in activity 1.1 the distance
+covered by the paper bullet is the dependent variable. Similarly, while
+observing the effect of sunlight on the growth and development of
+the plant, the amount of sunlight is the independent variable and the
+height or growth of the plant is the dependent variable.
+
+Cc. Controlled variable
+
+In some experiments or research, there may be more than two vari-
+ables. Each variable influences the result of an experiment or research.
+Thus, it isnot possible to determine which variable is responsible
+for the change in the results or findings. In such a situation, it is
+difficult to draw conclusion. The conclusion might even not be valid or
+
+ria Science and Technology, Grade 10

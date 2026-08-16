@@ -1,0 +1,44 @@
+PAGE 12
+============================================================
+
+4 [temperature | kelvin
+ee ee
+
+electric current ampere
+te Z, amount of substance mole mol
+
+Derived unit
+
+The unit of measurement which has no independent existence and is
+composed of two or more fundamental units is called a derived unit.
+For example, the unit of density is kg/m‘. It consists of two fundamental
+units; kilogram and meter. Similarly, the unit of force is kgms*, where
+kilogram (kg), metre (m) and second (s) are the three fundamental units
+involved in it. It is difficult to say kgms-* in daily use andhence, this
+combined form of units is given a simpler name, newton (N). Therefore,
+N = Kgms-’. Likewise, the unit of pressure is pascal (Pa). This unit is
+equal to kgm -'s*. In this way, units of many derived quantities are
+given a specific name.But in the case of some physical quantities, the
+combination of fundamental units in itself is in use, for example, unit
+
+of density is kgm-3.There is no simpler name for it.
+
+Quantity | Formula Combination of| Fundamental | Derived
+base units accord- F Unit)
+a Units
+ing tothe formula],
+involved
+
+moter x motor me
+
+volume 1 xb xh meter x meter x}m* m*
+meter
+
+density mass kilogram . kg/m?
+
+volume meter®
+
+velocity displacement meter m/s m/s
+tne second
+oe Science and Technology, Grade 10
+

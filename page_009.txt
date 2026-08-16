@@ -1,0 +1,42 @@
+PAGE 9
+============================================================
+
+reliable. Therefore, to make the finding of the experiment valid,
+reliable and accurate, variables other than the specified independent
+variable and dependent variable should be controlled so that they
+do not affect the result. Such variables which are taken into control
+throughout the experiment or research are known as the controlled
+variables.
+
+In activity 1.1, the thickness of the rubber band and the size of the
+paper bullet should be kept the same throughout the experiment.
+
+If different rubber band sare used at each activity, the result will not
+be valid. Hence, for this experiment, the thickness of the rubber band
+and the size of the paper bullet are the controlled variables. Similarly,
+while we are observing the effect of light on plant growth, all plants
+should be of uniform size at the beginning of the experiment. Air,
+water and manure supplied to these plants should also be kept uniform
+throughout the experiment. So,the initial size of plants, air, water,
+and manure supplied to them are the controlled variables. In the same
+way, if we are studying the rate of a chemical reaction between the
+surface area of limestone and acid, the acid used each time should
+have the same concentration and the quantity and weight of limestone
+should also be kept the same. In this experiment, surface area is the
+independent variable, the rate of reaction is the dependent variable
+and the concentration of acid, quantity and weight of limestone are
+the controlled variables. Controlling such variables requires special
+arrangements while formulating the design of the experiment.
+
+In Activity 1.1
+
+Independent variable : extensionof rubber band
+
+Dependent variable _: distance travelled by paper bullet
+Controlled variable _: thickness of rubber band and size of the paper
+bullet
+
+Other examples of thevariable types mentioned above are listed in
+the table below:
+
+Science and Technology, Grade 10 &

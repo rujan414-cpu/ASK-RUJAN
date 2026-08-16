@@ -1,0 +1,42 @@
+PAGE 96
+============================================================
+
+1. Pea plants are bisexual and their flowers are closed, making them
+naturally self-pollinating plants.
+
+2. Cross-pollination can be done if necessary.
+3. Their life cycle is short, and offspring can be produced faster.
+4. They have many pairs of contrasting characters.
+
+5. Many seeds can be produced at once, and due to this, many
+offspring can be produced.
+
+6. They are easy to cultivate.
+Method of Mendel experiment
+
+Mendel studied seven pairs of pure and hybrid traits found in pea
+plants separately and classified each offspring according to the
+trait. He selected pure tall pea plants and pure dwarf pea plants and
+carried out pollination between them to study the heredity. Seeds
+obtained from that pollination were grown, which were called first
+filial generation. All the plants of first filial generation were tall.
+He performed experiments using the remaining pairs of contrasting
+characters too. He found similar type of results, i.e., only one character
+was expressed in each of the first filial generations. When two pea
+plants, each having a pair of contrasting characters, were pollinated,
+the character expressed in the first filial generation was called the
+dominant character. The character which was hidden in first filial
+generation was termed recessive character.
+
+Mendel carried out self-pollination between the hybrids produced
+in first filial generation. After self-pollination, the offspring obtained
+in the second filial generation were both tall and dwarf. Among
+them, 75% were tall and 25% were dwarf. Furthermore, while self-
+pollinating the pure tall progeny of the second filial generation, all
+the offspring were pure tall pea plants. Self-pollination between pure
+dwarf plants of the second generation produced only pure dwarf
+offspring. Similarly, self-pollination of hybrid offspring of the second
+filial generation yielded 75% tall and 25% dwarf pea plants, which
+is presented in the chart given below:
+
+@ Science and Technology, Grade 10

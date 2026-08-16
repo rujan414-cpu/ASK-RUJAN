@@ -1,0 +1,38 @@
+PAGE 15
+============================================================
+
+the equation is not equal with the unit of physical quantity on the
+right-hand side. So, the equation s = v/t is invalid or wrong.
+
+Addition and subtraction of physical quantities are possible if they
+have the same composition of fundamental units. Example: u+v is
+possible because both of them have the same unit, ms-1. Similarly,
+s - at? is also possible because the fundamental unit of s is m and
+the fundamental unit of at? is also m; when simplified. But, s+at is
+not possible because the unit of s (distance covered) is m and the
+fundamental unit of atis ms-!. Thus, they cannot be added due to
+dissimilarity in the composition of fundamental units.
+
+Example: Test the validity of the equation given below by unit analy-
+sis.
+
+(i) w=u’+2as
+i) s=ut+ “Ya’t
+Now,
+(i) 2 = u?+2as
+m’s* = m’s* + m’s?
+In the above equation, there is uniformity in the unit of physical
+quantity oneither side. So, this is a valid equation.
+
+(ii) s=utt+ ¥%a’*t
+m=ms'!Xs + (ms”)? Xs
+m=m + m’s*
+
+In the equation given above, there is no similarity in the base units of
+the physical quantities on either side. So, this equation is not valid.
+
+Analysis of units is required to prove the accuracy of an equation, to
+find out the inter-relation of physical quantities and for the conver-
+sion of units of various measurement systems.
+
+Science and Technology, Grade 10 @

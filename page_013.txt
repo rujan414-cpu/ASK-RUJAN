@@ -1,0 +1,49 @@
+PAGE 13
+============================================================
+
+accelera- | velocity meter
+tion
+
+time second X second
+
+force mass xaccelera-|kilogram x |kgm/s?
+tion meter
+
+second x second
+
+pressure
+
+work
+
+power work
+time
+
+moment |force x distanc
+
+frequency | 1 1 st Hz
+
+time s
+
+To find out the composition of derived unit which includes the
+fundamental units, analysis can be done based on the definition of
+he physical quantity. For example:
+
+a) The unit of area is square metre
+Analysis: Area = length x breadth
+
+=mxm
+=m?
+
+Therefore, the unit of area is m2. This unit is formed from two
+fundamental units.
+
+b) The unit of force is Newton (N)
+Analysis: According to the definition of force, F = ma
+The unit of mass (m) is kg and the unit of acceleration (a) is ms-?.
+
+Therefore, N = kgms-2. Hence kilogram, meter and second are the
+fundamental units and they are combined to form the unit of force
+
+which is called newton.
+
+Science and Technology, Grade 10

@@ -1,0 +1,26 @@
+PAGE 89
+============================================================
+
+individual contains XX sex chromosomes. During the reproductive
+phase, meiotic cell division takes place in the diploid (2n=2 x23) germ
+cells (found in testes and ovaries) of males and females to produce
+haploid gametes (n=23) respectively. The mother cell of the male
+reproductive organ (testis) consists of 44+XY chromosomes. This
+cell gets divided through meiosis to form sperm having either 22+X
+or 22+Y chromosomes. Similarly, the mother cell of the female
+reproductive organ (ovary) consists of 44+XX chromosomes. This
+cell also gets divided through meiosis to form an ovum having only
+22+X chromosomes. During sexual intercourse or copulation, if a
+sperm having 22+X chromosomes fuses with the ovum with 22+X
+chromosomes, then the future child will be a female or daughter (44+
+XX). Similarly, if a sperm having 22+Y chromosomes fuses with the
+ovum with 22+X chromosomes, then the future child will be a male
+or son (44+XY). The probability of getting a son or daughter is 50%
+in fertilization since 50% of male sperm have X-sex chromosomes,
+and 50 % have Y-sex chromosomes.
+
+daughter daughter son son
+
+Figure 4.13 Sex determination chart
+
+Science and Technology, Grade 10 8

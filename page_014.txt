@@ -1,0 +1,41 @@
+PAGE 14
+============================================================
+
+Activity 1.2
+
+Find out the various units used to measure different kinds of physi-
+cal quantities in your daily life. Classify these units into two groups;
+
+fundamental and derived units and fill up the table as given below in
+
+your note copy.
+
+The difference between the fundamental unit and the derived unit
+is mentioned below:
+
+Fundamental unit
+
+a) |It doesnot depend upon|a)|It depends upon the funda-
+other units. mental units.
+
+b) | There are seven fundamental | b) | Many derived units are formed
+units used till now. from seven fundamental units.
+
+Analysis of unitwise equation
+
+Various formulae and equations are obtained from the conclusion of
+scientific studies. The validity and uniformity of such formulae and
+equations can be checked by the analysis of units involved in such
+physical quantities. For the validation of an equation, units on both
+sides of an equation must be the same. Example: While performing
+the unit analysis of the equation: s=v xt, the fundamental unit of the
+quantity onthe left-hand side of the equation is m and the fundamen-
+tal unit of the quantity on the right-hand side of the equation is also
+ms-! X s = m. Therefore, this equation is valid.
+
+But, if someone claims s = v/t, then by performing the unit analysis,
+the fundamental unit of the quantity on the left-hand side is m but
+the fundamental unit of the quantity on the right-hand side is ms-!/s
+or ms-?. Hence the unit of physical quantity on the left-hand side of
+
+0 Science and Technology, Grade 10

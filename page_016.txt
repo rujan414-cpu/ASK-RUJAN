@@ -1,0 +1,35 @@
+PAGE 16
+============================================================
+
+Exercise
+
+1. Choose the correct options for the following questions.
+a. Which of the following is a fundamental unit?
+i. newton ii. pascal
+iii. kilogram iv. joule
+b. Which of the following physical quantities has the unit ms-!?
+i. acceleration ii. velocity
+iii. force iv. density
+c. Which of the following is a derived unit?
+i. candela ii. ampere
+lii. joule iv. kelvin
+d. Which of the following units denote newton?
+i. kgms-? ii. kgm?s-2
+iii. kgm-?s-2 iv. kgms-!
+2. Give reason:
+a. Joule is the derived unit of work.
+
+b. Some variables should be controlled while performing an
+experiment.
+
+c. v?= utis nota valid relation.
+
+3. Differentiate between:
+a. Independent variable and dependent variable
+b. Fundamental unit and derived unit
+
+4. Answer the following questions:
+
+a. What is a unit?
+
+@ Science and Technology, Grade 10
